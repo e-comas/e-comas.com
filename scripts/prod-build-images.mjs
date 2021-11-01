@@ -149,8 +149,7 @@ export async function optimizeMatrix(src, sizes) {
     bitmap: { width: originalWidth, height },
   } = await image.decoded;
 
-  // TODO: rename to `_cache.csv`.
-  imageCache ??= new CacheMap(new URL("./cache.csv", OUTPUT_DIR));
+  imageCache ??= new CacheMap(new URL("./_cache.csv", OUTPUT_DIR));
   const sources = [];
   let previousWidth;
   for (const width of Array.from(sizes).sort((a, b) => b - a)) {
