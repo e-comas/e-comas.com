@@ -21,7 +21,7 @@ export default () => (
     />
     <nav>
       <ul>
-        <li>
+        {/* <li>
           <NavLink href="/strategy.html">Service</NavLink>
         </li>
         <li>
@@ -29,7 +29,7 @@ export default () => (
         </li>
         <li>
           <NavLink href="/our-team.html">Team</NavLink>
-        </li>
+        </li> */}
         {/* <li>
           <NavLink href="/news.html">Blog</NavLink>
         </li> */}

@@ -5,5 +5,4 @@ export {
   PROJECT_DIR,
 } from "./dev-config.mjs";
 export const OUTPUT_DIR = new URL("../docs/", import.meta.url);
-// TODO: change this to e-comas.com
-export const CANONICAL_ORIGIN = "https://e-comas.github.io";
+export const CANONICAL_ORIGIN = "https://e-comas.com";
