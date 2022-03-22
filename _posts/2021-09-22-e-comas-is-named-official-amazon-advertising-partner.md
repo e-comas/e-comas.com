@@ -2,7 +2,7 @@
 layout: blog
 title: e-Comas is named official Amazon Advertising Partner
 author: Jérôme de Guigné
-date: 2022-09-22T10:06:01.330Z
+date: 2021-09-22T10:06:01.330Z
 excerpt: e-Comas is proud to announce it is now an approved member of the Amazon
   Advertising Partner Network. It includes a directory to search for ideal
   partners.
