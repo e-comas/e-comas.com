@@ -8,8 +8,8 @@ excerpt: Amazon Attribution is a game-changer as it allows you to track
 thumbnail: /images/uploads/amazon-attribution.png
 thumbnail_alt: amazon attribution metrics
 tags:
-  - "#Operations"
-  - "#Tools"
+  - "Operations"
+  - "Tools"
 ---
 Certain things are undeniably true.
 
@@ -56,8 +56,7 @@ Amazon Attribution gives you insight into the following:
 * Units Sold
 * New to Brand Customers
 
-### 
-Who can use Amazon Attribution?
+### Who can use Amazon Attribution?
 
 Amazon Attribution is currently only available for professional sellers enrolled in Amazon Brand Registry.
 
