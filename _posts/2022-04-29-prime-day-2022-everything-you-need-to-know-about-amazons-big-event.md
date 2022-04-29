@@ -28,7 +28,7 @@ There's been no official confirmation on the date yet. Thanks to the pandemic th
 
 ### How can I prepare for Prime Day?
 
-First you should decide which deals you want to use, on which products, and submit them by the deadline dates below. Consider whether you have overstock products to shift, or whether you want to improve rankings on best sellers.
+First you should decide which deals you want to use, on which products, and submit them by the deadline dates you can find in Seller Central. Consider whether you have overstock products to shift, or whether you want to improve rankings on best sellers.
 
 Coupons may work particularly well for overstock, for example.
 
@@ -40,7 +40,7 @@ Make sure you have plenty of images of your product, your bullets are well writt
 
 As well as deals, you should consider your advertising – more about that below.
 
-Finally, make sure your inventory is ready for extra demand, and check the shipment deadlines below.
+Finally, make sure your inventory is ready for extra demand, and check the shipment deadlines.
 
 ### What kind of deals can I use?
 
