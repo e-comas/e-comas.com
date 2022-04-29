@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Prime Day 2022: everything you need to know about Amazon's big event"
+title: "Prime Day 2022: what you need to know about Amazon's big event"
 author: Jérôme de Guigné
 date: 2022-04-29T10:02:54.362Z
 excerpt: It's not your average sales day. It's not even one day. Prime Day is
