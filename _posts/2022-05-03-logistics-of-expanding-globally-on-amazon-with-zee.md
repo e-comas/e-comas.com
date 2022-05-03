@@ -17,4 +17,6 @@ Selling internationally through Amazon presents a huge opportunity but also a un
 
 **WHEN: Thursday 12th May, 5pm CEST**
 
+<iframe src="https://us02web.zoom.us/webinar/register/WN_tyhgVvlKRqORKiMKTF-l4A" width="680" height="1150"></iframe>
+
 <!--EndFragment-->
