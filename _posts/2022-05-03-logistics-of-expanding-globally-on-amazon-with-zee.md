@@ -6,7 +6,7 @@ date: 2022-05-12T16:00:43.324Z
 excerpt: "Join us as Mari-Louise Boshoff from Zee takes us through some of the
   logistics challenges of expanding globally on Amazon and how best to overcome
   them. "
-thumbnail: /images/uploads/pic-for-blog-1-.png
+thumbnail: /images/uploads/pic-for-blog-2-.png
 thumbnail_alt: Webinar image
 tags:
   - Webinar
