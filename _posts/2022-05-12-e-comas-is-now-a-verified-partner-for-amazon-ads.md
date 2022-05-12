@@ -32,7 +32,7 @@ The Amazon Ads Partner Network, launched last year, consists of agencies, tool p
 
 CEO and founder Jérôme de Guigné says: “It's great to be a Verified Partner of Amazon Ads. Our team has worked hard with our clients for years to deliver effective and stunning advertising that measurably grows their business.
 
-“We love Amazon Ads because you can easily see and measure its success. There are lots of diverse and ingenious ways to advertise, from very simple pay-per-click right through to centralised media buying. We have experts in all of them, so our clients are in great hands. We're very happy that Amazon has recognised that and given us this extra prestige.”
+“We love Amazon Ads because you can easily see and measure its success. There are lots of diverse and ingenious ways to advertise, from simple PPC through to more complex programmatic (DSP) advertising. We have experts in all of them, so our clients are in great hands. We're very happy that Amazon has recognised that and given us this extra prestige.”
 
 ### The quickest way to grow
 
