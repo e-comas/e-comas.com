@@ -22,7 +22,7 @@ The prestigious status gives us extra benefits that we can use to serve our clie
 
 It means we're eligible to take part in the Amazon Ads Partner Awards, and it also gives us an enhanced listing in the [Amazon Ads Partner Directory](https://advertising.amazon.com/partners/directory/details/amzn1.ads1.ma1.cj3vydv54i8qcb80mhstj0em0//).
 
-Best of all, it shows our clients and prospective clients that we have the skills and experience to help them build successful advertising campaigns on Amazon – and that Amazon itself recognises us as a trusted partner.
+Best of all, it shows our clients and prospective clients that we have the skills and experience to help them build successful advertising campaigns on Amazon – and that Amazon itself recognises us as a trustworthy agency.
 
 The next stage is to become an Advanced Partner, which we're excited to achieve.
 
