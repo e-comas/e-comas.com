@@ -2,7 +2,7 @@
 layout: blog
 title: e-Comas is now a Verified Partner for Amazon Ads
 author: Jérôme de Guigné
-date: 2022-05-13T09:27:11.453Z
+date: 2022-05-19T09:27:11.453Z
 excerpt: e-Comas is now an Amazon Ads Verified Partner – which makes us part of
   the Amazon Ads elite
 thumbnail: /images/uploads/amazon-ads-verified.jpg
