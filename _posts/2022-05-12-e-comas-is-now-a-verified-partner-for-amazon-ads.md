@@ -42,6 +42,6 @@ Our view is that the quickest way to grow on Amazon is to advertise, and the pla
 
 From the classic pay-per-click model, to the exciting potential of the DSP empire, Amazon's advertising is innovative, effective and lucrative for brands. We've used it many times to boost our clients' business, with stunning success.  
 
-If you'd like to start advertising on Amazon, or ramp up your existing campaigns, [contact us](https://e-comas.com/contact.html) today!
+If you'd like to start advertising on Amazon, or ramp up your existing campaigns, [contact us](/contact.html) today!
 
 <!--EndFragment-->
