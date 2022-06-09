@@ -2,7 +2,7 @@
 layout: blog
 title: e-Comas founder Jérôme is now a Forbes writer
 author: Jérôme de Guigné
-date: 2022-06-09T12:32:29.638Z
+date: 2022-06-10T06:32:29.638Z
 excerpt: e-Comas CEO Jérôme de Guigné is writing for Forbes! The e-Commerce
   expert and founder of our business is now a member of Forbes Business Council
 thumbnail: /images/uploads/forbes_facebook.jpg
