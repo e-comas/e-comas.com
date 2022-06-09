@@ -18,9 +18,7 @@ The e-Commerce expert and founder of our business is now a member of Forbes Busi
 
 And Forbes has just published his first full article.
 
-It's about the EU's VAT One-Stop Shop – exploring how this new portal, introduced last year, can actually help small businesses selling on eCommerce in Europe, by making VAT requirements simpler and disincentivising unscrupulous players. You can read it here:
-
-
+It's about the EU's VAT One-Stop Shop – exploring how this new portal, introduced last year, can actually help small businesses selling on eCommerce in Europe, by making VAT requirements simpler and disincentivising unscrupulous players. [You can read it here.](https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/09/utilizing-the-benefits-of-the-eus-vat-one-stop-shop/?sh=1fc71a1876e2)
 
 ### Useful business advice
 
