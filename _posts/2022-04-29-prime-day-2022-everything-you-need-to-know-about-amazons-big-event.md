@@ -24,7 +24,7 @@ Use Prime Day well and you could be the Gaga of your own sector.
 
 ### When is Prime Day 2022?
 
-There's been no official confirmation on the date yet. Thanks to the pandemic the last dates were moved – in 2020 to October, and in 2021 to June – but it's usually in July, and current speculation is that it will be in the first half of July.
+Amazon Prime Day 2022 will take place on Tuesday 12 July and Wednesday 13 July, with early deals starting from 21 June.
 
 ### How can I prepare for Prime Day?
 
