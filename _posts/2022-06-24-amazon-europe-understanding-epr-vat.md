@@ -2,10 +2,10 @@
 layout: blog
 title: "Amazon Europe: Understanding EPR & VAT"
 author: Jessica Barton
-date: 2022-06-24T09:53:52.051Z
+date: 2022-07-07T09:53:00.000Z
 excerpt: Join us as Alexandra Robson and Melanie Shabangu from AVASK gives us an
   update on the latest legislation affecting Amazon businesses.
-thumbnail: /images/uploads/24062022_upcoming-webinar-linkedin.jpg
+thumbnail: /images/uploads/untitled-design-2022-06-24t114015.022.png
 thumbnail_alt: Upcoming webinar
 tags:
   - Webinar
