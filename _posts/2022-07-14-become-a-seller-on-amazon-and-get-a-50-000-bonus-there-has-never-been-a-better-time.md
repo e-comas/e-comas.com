@@ -7,7 +7,7 @@ date: 2022-07-14T08:37:34.810Z
 excerpt: If you're thinking of joining Amazon, there has never been a better
   time. Amazon has launched a package of incentives for new sellers, including a
   $50,000 bonus. Read our blog to find out more…
-thumbnail: /images/uploads/blog-14thjuly-ig-1080x1080.jpg
+thumbnail: /images/uploads/untitled-design-2022-07-14t095635.173.png
 thumbnail_alt: Start selling on Amazon
 tags:
   - Strategy
