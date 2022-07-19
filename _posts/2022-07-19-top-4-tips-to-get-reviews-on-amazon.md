@@ -26,7 +26,7 @@ The statistics speak for themselves:
 
 * 79% of users are more likely to buy products with higher ratings and better reviews.
 * The purchase likelihood skyrockets by 270% when a product posting has at least five consumer reviews.
-* Reviews significantly boost all products, but higher-priced items experience the most significant jump in conversion rates (380% increase) than lower priced items (190%).
+* Reviews significantly boost all products, but higher-priced items experience the most significant jump in conversion rates (380% increase) than lower-priced items (190%).
 
 Achieving a high review count has become a crucial decider to the long-term success of an Amazon seller. 
 
@@ -60,7 +60,7 @@ There are easier ways to get reviews on Amazon that don't involve cheating or br
 
 ### How to get reviews on Amazon
 
-1. **Provide an excellent customer experience**
+**1. Provide an excellent customer experience**
 
 Excellent customer service can make the difference between a one-time purchase and a repeat customer.
 
@@ -72,7 +72,7 @@ Once they have received the item, send a follow-up email asking for feedback. Am
 
 Instead, send a personalised request, including their name and a little message thanking them for making the purchase. Ideally, you want to send the request shortly after receiving it, so the product is still fresh in their minds.
 
-2. **Launch products with Amazon's Early Reviewer programme**
+**2. Launch products with Amazon's Early Reviewer programme**
 
 Getting reviews can be an uphill battle for sellers trying to promote their new products. Fortunately, Amazon offers a way to speed this process up with their Early Reviewer Program.
 
@@ -82,7 +82,7 @@ Whatsmore, shoppers in the Early Reviewer program tend to be better reviewers si
 
 If you wish to enter the program, your product has to have fewer than five reviews and cost more than $15. To cover the cost of the gift cards, Amazon charges you a one-time fee of $60, which is only charged once you have received your first review.
 
-3. **Use your newsletter and leverage social media to get more reviews**
+**3. Use your newsletter and leverage social media to get more reviews**
 
 The people who receive your monthly newsletters and follow you on social media are already loyal customers and will be well-informed about your products. 
 
@@ -90,7 +90,7 @@ In newsletters, you can highlight recent product reviews and encourage subscribe
 
 At the same time, you can post testimonials across your social media platforms promoting your product. What's more, they can share the content with their friends and family, bringing more attention to your products and potentially generating more sales. 
 
-4. **Reach out to reliable reviewers**
+**4. Reach out to reliable reviewers**
 
 With Amazon, you can find users who have reviewed products similar to yours (even your competitor's products) and reach out to them.
 
