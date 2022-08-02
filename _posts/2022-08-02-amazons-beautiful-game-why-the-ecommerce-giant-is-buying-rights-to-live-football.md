@@ -23,7 +23,7 @@ In the US, it has made a huge deal to broadcast NFL American football, the count
 
 But it's soccer that Amazon seems to be investing in most, and it's not hard to see why: it's the world's biggest sport, and the UEFA Champions League men's final is one of the most-watched live events in the world.
 
-Prime development
+### Prime development
 
 As such, broadcasting live sport brings a huge new audience to Prime: in 2020 Amazon's Premier League football in the UK reportedly led to a massive 35% growth in Prime subscribers.
 
@@ -33,7 +33,7 @@ The model requires viewers to be a member of Prime, and to pay an additional mon
 
 New Prime subscribers is only half of it, though: the other boon is advertising.
 
-Classic ads
+### Classic ads
 
 The advertising model is simple: 'classic advertising' during ad breaks. Proof that the old ways still work.
 
@@ -43,7 +43,7 @@ Naturally, Amazon is charging advertisers six-figure sums.
 
 In return, advertisers will be given weekly/monthly reports detailing their impressions, completion rate, unique reach and frequency.
 
-A great fit for sport
+### A great fit for sport
 
 Over the years Prime Video has become a formidable opponent to traditional TV. There's no question that Amazon has the resources to acquire the rights to top-level sports and deliver a great service.
 
@@ -51,7 +51,7 @@ All matches are streamed flawlessly in HD; 80% of viewers watch on a TV screen. 
 
 It’s obviously working: 35% growth for Prime is massive. 
 
-And it strengthens Amazon’s offer for big brands, giving them unprecedented visibility. Which means Amazon can move its advertising offering up the ladder to provide brand lift and influence - a contrast to its traditional, conversion-focused model, where it could only target customers who were already looking to make a purchase. 
+And it strengthens Amazon’s offer for big brands, giving them unprecedented visibility. This means Amazon can move its advertising offering up the ladder to provide brand lift and influence - a contrast to its traditional, conversion-focused model, where it could only target customers who were already looking to make a purchase. 
 
 This is opening up for massive brand advertising, which Amazon may be able to funnel directly into measurable sales in the future.
 
@@ -59,4 +59,4 @@ It’s also interesting to note that Amazon will be able to retain more customer
 
 Overall, Amazon Prime is a fantastic fit for live sport, and we can see it growing and growing over the coming years. Big brands should definitely be excited about the opportunity.
 
-Follow us on LinkedIn to keep up to date with the latest news, views and insights in the world of eCommerce.
+**Follow us on [LinkedIn](https://www.linkedin.com/company/e-comas) to keep up to date with the latest news, views and insights in the world of eCommerce.**
