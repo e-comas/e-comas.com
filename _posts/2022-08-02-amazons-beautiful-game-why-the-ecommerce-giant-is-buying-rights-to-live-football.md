@@ -7,7 +7,7 @@ date: 2022-08-02T08:23:50.513Z
 excerpt: "Amazon is branching into a new area: sports. And it's not dabbling
   with any old sports: it's chasing the big leagues. Read our blog to find out
   more about this latest opportunity..."
-thumbnail: /images/uploads/amazonblog-1staug-ig-1080x1080.jpg
+thumbnail: /images/uploads/amazonblog-1stjuly-ig-1080x1080.jpg
 thumbnail_alt: Amazon live streams football
 tags:
   - Strategy
