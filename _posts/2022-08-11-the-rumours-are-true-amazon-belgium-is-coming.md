@@ -4,7 +4,7 @@ title: "The rumours are true: Amazon Belgium is coming!"
 author: Jérôme de Guigné
 date: 2022-08-12T05:15:54.297Z
 excerpt: "Exciting news for Belgians! Amazon is opening up a new market: Amazon.com.be"
-thumbnail: /images/uploads/amazonbelgium-12thaug-fb-1200x1200.jpg
+thumbnail: /images/uploads/belgium.png
 thumbnail_alt: "Graphic with Belgium flags and text: Good news Belgium"
 tags:
   - Strategy
