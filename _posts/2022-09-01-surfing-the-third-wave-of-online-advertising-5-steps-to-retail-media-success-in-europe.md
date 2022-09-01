@@ -3,7 +3,7 @@ layout: blog
 title: "Surfing the third wave of online advertising: 5 steps to retail media
   success in Europe"
 author: " Jérôme de Guigné"
-date: 2022-09-02T04:25:16.647Z
+date: 2022-09-01T16:32:03.048Z
 excerpt: >
   Known as the third wave of online advertising, retail media has quickly caught
   up with search and social media advertising to become one of the biggest
