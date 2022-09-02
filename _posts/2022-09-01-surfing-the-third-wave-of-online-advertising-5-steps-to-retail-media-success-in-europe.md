@@ -8,7 +8,7 @@ excerpt: >
   Known as the third wave of online advertising, retail media has quickly caught
   up with search and social media advertising to become one of the biggest
   marketing opportunities online
-thumbnail: /images/uploads/retailmedia-1stsep-fb-1200x1200.jpg
+thumbnail: /images/uploads/untitled-design-2022-09-02t092636.177.png
 thumbnail_alt: Graphic of the retail media wave
 tags:
   - Advertising
