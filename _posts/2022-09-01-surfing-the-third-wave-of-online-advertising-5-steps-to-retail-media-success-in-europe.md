@@ -55,7 +55,7 @@ We suggest you adapt to Amazon's way of working, and not the other way round: th
 
 As an example: Amazon talks about ACOS (advertising cost of sales) rather than ROAS (return on ad spend), which reflects the Amazon view of advertising as a cost rather than an investment. It's accurate: as an agency, we know you can't grow your business on Amazon without advertising your products.
 
-![Graphic of the retail media wave](/images/uploads/retailmedia-1stsep-fb-1200x1200.jpg)
+![Graphic of the retail media wave](/images/uploads/retailmedia-small.jpg)
 
 ### Step 2: Choose your products and prices
 
@@ -95,12 +95,8 @@ Start with your best performing products, and research audiences to target with 
 
 You can use Amazon's more sophisticated display advertising and demand-side platform (DSP), and use advertising outside Amazon too (for example, on Facebook and Google) to target audiences outside the platform.
 
-
-
 **Amazon is the major player in retail media, but there are lots of other platforms too that work in different ways. For help with any of them, [contact e-Comas](http://e-comas.com/contact.html), we'd love to help.**
 
 **And [download Innovell's report](https://www.innovell.com/retail-media-europe/) for more information today.**
-
-
 
 <!--EndFragment-->
