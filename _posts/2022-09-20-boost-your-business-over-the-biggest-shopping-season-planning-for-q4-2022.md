@@ -31,6 +31,8 @@ Check last year's sales data to see if your products had any other 'peak days' w
 
 Deals aren't the only option: try using Amazon's free social products over these days to drum up more interest, like [Amazon Posts](https://e-comas.com/2021/12/13/social-media-on-amazon-why-you-should-try-posts-and-not-just-because-it-s-free.html) and [Amazon Live](https://e-comas.com/2022/03/22/start-building-your-livestream-following-today-our-5-steps-to-getting-started-on-amazon-live.html). July's Prime Day saw Amazon Live gain over 100 million views, so it's a huge opportunity to promote your products.
 
+![Amazon box in Christmas bag](/images/uploads/q4-small.jpg)
+
 ### Product research
 
 Trends change all the time in the different product categories on Amazon, and these affect – and are affected by – Christmas gift ideas.
