@@ -19,9 +19,7 @@ As the biggest shopping season of the year is almost upon us, it's time for sell
 
 Here's our annual guide to making the most of Q4.
 
-
-
-The sales days you need to know
+### The sales days you need to know
 
 Black Friday, Cyber Monday and the weekend in between are the big fall sales dates, plus pre-Christmas sales: in the three weeks before Christmas, you'll see a lot of deals on Amazon. 
 
@@ -33,9 +31,7 @@ Check last year's sales data to see if your products had any other 'peak days' w
 
 Deals aren't the only option: try using Amazon's free social products over these days to drum up more interest, like [Amazon Posts](https://e-comas.com/2021/12/13/social-media-on-amazon-why-you-should-try-posts-and-not-just-because-it-s-free.html) and [Amazon Live](https://e-comas.com/2022/03/22/start-building-your-livestream-following-today-our-5-steps-to-getting-started-on-amazon-live.html). July's Prime Day saw Amazon Live gain over 100 million views, so it's a huge opportunity to promote your products.
 
-
-
-Product research
+### Product research
 
 Trends change all the time in the different product categories on Amazon, and these affect – and are affected by – Christmas gift ideas.
 
@@ -47,9 +43,7 @@ Then you can invest in bringing that product to market, or in boosting your adve
 
 Amazon is very keen to promote its small business side at the moment: if you're a family business, or selling handmade products, look out for these extra opportunities. [Amazon Handmade](https://sell.amazon.co.uk/programmes/handmade?ref_=sduk_soa_programmes_proghandmade), for example, allows you to promote your business as an artisan maker, while the new [Small Business Badge](https://www.amazon.com/b?node=18018208011&ref=sbp_dpb_01B) is applied to listings to show customers they’re buying from a small business. 
 
-
-
-Cash flow
+### Cash flow
 
 Cash flow is one of the most significant barriers to expanding an eCommerce operation.
 
@@ -61,9 +55,7 @@ Just announced at Amazon Accelerate, there’s a new Amazon service you can use 
 
 This gives sellers their disbursements in 24 hours rather than 3-5 days, and will be free to use until September 2023. It’s only available in the US for now. Sellers can change their settings by going to Settings > Account Info > Deposit Methods.
 
-
-
-Stock levels
+### Stock levels
 
 Amazon's inventory storage fees are higher during Q4, so you need to predict stock levels accurately. Overstocking is expensive, and understocking damages your sales rank and your chance of getting the buy box – so no pressure.
 
@@ -73,9 +65,7 @@ If you've only joined Amazon this year and don't have this data, a decent rule o
 
 Also bear in mind that Amazon fulfilment centers become very busy during this period and therefore it takes longer for inventory to be received. As the peak season approaches, Amazon can start to limit the amount of stock you can send in. So it's best to send in inventory well in advance.
 
-
-
-Content and listings
+### Content and listings
 
 A little clever content goes a long way.
 
@@ -85,9 +75,7 @@ Try including a Christmas-themed photo or two in your listings at this time of y
 
 You should always aim to have good listings: plenty of images, video, and A+ content below the fold. We're hearing that Alexa may be updated to answer the question “tell me about the product” on Amazon, so make sure your bullet points make sense when they're read aloud, and ideally are no more than one sentence long.
 
-
-
-Luxury on sale
+### Luxury on sale
 
 If you’re a premium brand and concerned that you’ll lose your high-end touch by offering big discounts, don’t be! 
 
@@ -99,9 +87,7 @@ You can go even further: build up excitement by running a countdown on your offl
 
 Read more tips for luxury sellers on Amazon in our new [white paper](https://e-comas.com/white-paper-form.html). 
 
-
-
-Ad campaigns
+### Ad campaigns
 
 The busy time of year means more traffic, which means two things for your ads: your CPC budget will get used more quickly, and your campaigns will be more competitive.
 
@@ -113,10 +99,6 @@ We recommend getting started early with your ad campaigns, so you can find out w
 
 Don't forget social media: people are using it for shopping more than ever. Ramp up your ads on Instagram and Facebook over Prime Day and Black Friday, and send that traffic to your Amazon listings.
 
-
-
-We can help you grow your business this Q4! [Get in touch with us today](http://e-comas.com/contact.html) and let's plan.
-
-
+**We can help you grow your business this Q4! [Get in touch with us today](http://e-comas.com/contact.html) and let's plan.**
 
 <!--EndFragment-->
