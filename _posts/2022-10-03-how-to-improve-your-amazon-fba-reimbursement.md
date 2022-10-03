@@ -8,7 +8,7 @@ excerpt: >
   claims for reimbursement. GETIDA helps Amazon FBA Sellers get back what
   they're owed. Find out more...
 thumbnail: /images/uploads/untitled-design-2022-10-03t141431.781.png
-thumbnail_alt: Dollar in hand
+thumbnail_alt: Dollar in hands
 tags:
   - Operations
   - Finances
