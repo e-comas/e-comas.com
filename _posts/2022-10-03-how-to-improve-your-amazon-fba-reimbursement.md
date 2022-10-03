@@ -32,11 +32,11 @@ To understand what Amazon FBA reimbursement is, why it happens, and how Amazon F
 
 ![Man with clipboard](/images/uploads/1.png "FBA reimburse")
 
-### T﻿ypes of Amazon FBA reimbursement 
+### T﻿ypes of Amazon FBA reimbursement
 
 Products registered with FBA are eligible for reimbursement when anything in your inventory is lost, damaged, improperly returned, destroyed or disposed of, or overcharged for Amazon FBA handling fees. That’s a lot to keep track of.
 
-### Where to track different types of Amazon FBA reimbursement 
+### Where to track different types of Amazon FBA reimbursement
 
 Let’s take a look at each type of FBA reimbursement and how you find out about it.
 
@@ -55,13 +55,13 @@ Amazon’s inventory reconciliation reports provide details on lost products. Th
 Look at the Damaged Inventory Report in your Seller Central account for details about:
 
 * Products lost or damaged at the Amazon fulfillment centre
-* Items damaged or lost en route from the fulfillment center to the customer
-* Shipments lost or damaged in transit to fulfillment centers
-* Products missing in fulfillment centers for the past 30 days.
+* Items damaged or lost en route from the fulfillment centre to the customer
+* Shipments lost or damaged in transit to fulfillment centres
+* Products missing in fulfillment centres for the past 30 days.
 
 **3. Returned Inventory**
 
-Amazon FBA returns and refunds represent a significant portion of discrepancies that qualify for Amazon FBA reimbursement. This is not surprising considering Amazon’s highly favorable customer return policy, which results in processing a high level of returns.
+Amazon FBA returns and refunds represent a significant portion of discrepancies that qualify for Amazon FBA reimbursement. This is not surprising considering Amazon’s highly favourable customer return policy, which results in processing a high level of returns.
 
 You are owed Amazon FBA reimbursement whenever any of the following occurs:
 
