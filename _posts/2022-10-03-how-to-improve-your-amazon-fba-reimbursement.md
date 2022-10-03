@@ -65,26 +65,31 @@ Amazon FBA returns and refunds represent a significant portion of discrepancies 
 
 You are owed Amazon FBA reimbursement whenever any of the following occurs:
 
-Returns Reimbursement – Reimbursement never paid out
-Returned Not Refunded after 45 Days – Customer received a refund but did not return it
-Return Overcharge – Refunded more than initially charged
-Wrong Item Returned – Incorrect item accepted for return
-Damaged Returns – Returned product damaged
-Return after 60 days – Customer return accepted and credited after the standard policy window closed
+* Returns Reimbursement – Reimbursement never paid out
+* Returned Not Refunded after 45 Days – Customer received a refund but did not return it
+* Return Overcharge – Refunded more than initially charged
+* Wrong Item Returned – Incorrect item accepted for return
+* Damaged Returns – Returned product damaged
+* Return after 60 days – Customer return accepted and credited after the standard policy window closed.
 
 To identify any of these errors, perform an Amazon audit. 
 
-Destroyed and Disposed of Inventory
+![Cardboard boxes](/images/uploads/2.png "getida blog")
+
+**4. Destroyed and disposed of inventory**
 
 Amazon can destroy and dispose of any inventory it deems unsaleable, without prior permission from the Amazon FBA seller. And Amazon needn’t and doesn’t notify you.
 
 The only way to tell for sure is by continually reviewing your Amazon Seller Central account to determine if Amazon ever destroys or disposes of your inventory. It may never happen. But this is the only way to tell if it does happen.
-Amazon FBA Overcharges
+
+**5. Amazon FBA overcharges**
 
 Amazon FBA sellers are charged for storage and shipping based on product size and weight. Overcharges occur when products are assigned larger than accurate dimensions and/or weights.
 
 Check Amazon’s reported product dimensions and weight and compare it to the actual manufacturer metrics of your products. If Amazon is charging to store inventory that is larger and/or heavier than it actually is, you are being overcharged and owed reimbursement.
-Ways to Recover Amazon FBA Reimbursement
+
+### Ways to recover Amazon FBA reimbursement
+
 By now you’ve probably gathered that getting Amazon FBA reimbursement is a time-consuming not to mention annoying task. In addition to what we’ve already mentioned to uncover potential incidences that qualify for Amazon FBA reimbursement, review the Payments report available in Seller Central on a monthly basis. In the Transaction view, search by either “Balance Adjustment” or “FBA Reimbursement” to determine how much money Amazon potentially owes you.
 
 But wait, there’s more. You also need to regularly review shipping reports for any errors related to product shipment, fulfillment, and customer returns. If you have a lot of SKUs, that’s quite an undertaking.
@@ -95,11 +100,14 @@ This is of course tedious and not something you have a lot of time to devote tow
 
 There are companies that specialize in recovering Amazon FBA reimbursement. However, there is one that provides this service for little risk with the best results.
 
-The Best Amazon FBA Reimbursement Solution
-GETIDA (GET Intelligent Data Analytics) combines two powerful resources:
+![dollars in hand on a blue background](/images/uploads/3.png "image 3")
 
-Software that examines the last 18 months of your Amazon FBA transactions to flag potential reimbursement
-An experienced team of former Amazon reimbursement employees who know how and where to submit claims properly and follow up to ensure success. 
+### The best Amazon FBA reimbursement solution
+
+GETIDA (**GET I**ntelligent **D**ata **A**nalytics) combines two powerful resources:
+
+* Software that examines the last 18 months of your Amazon FBA transactions to flag potential reimbursement
+* An experienced team of former Amazon reimbursement employees who know how and where to submit claims properly and follow up to ensure success. 
 
 There is no charge to use the software or for GETIDA to file claims. And the first $400 in Amazon FBA reimbursement claims are free.
 
