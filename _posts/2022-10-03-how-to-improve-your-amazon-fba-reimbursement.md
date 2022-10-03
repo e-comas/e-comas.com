@@ -13,7 +13,7 @@ tags:
   - Operations
   - Finances
 ---
-You are owed Amazon FBA reimbursement whenever Amazon mishandles your inventory, customer orders, and/or returns. Amazon handles billions of worldwide transactions. Mistakes are going to happen. When this happens, Amazon FBA sellers are owed reimbursement for products misplaced, misrecorded, or lost.  
+You are owed Amazon FBA reimbursement whenever Amazon mishandles your inventory, customer orders, and/or returns. Amazon handles billions of worldwide transactions. [Mistakes](https://getida.com/inventory-management-mistakes-supply-chains-make/) are going to happen. When this happens, Amazon FBA sellers are owed reimbursement for products misplaced, misrecorded, or lost.  
 
 You might think Amazon automatically reimburses Amazon FBA sellers whenever this happens. Frequently, it doesn’t. In most cases, it’s up to the Amazon FBA seller to identify errors and file claims for reimbursement. It’s not the simplest process or the easiest to navigate. Many Amazon FBA sellers don’t know how to file for Amazon FBA reimbursement or don’t know that it’s worth their time and energy to track their Amazon FBA reimbursements. 
 
@@ -44,7 +44,7 @@ Let’s take a look at each type of FBA reimbursement and how you find out about
 
 The ways inventory gets lost occur: 
 
-* During shipping 
+* During [shipping](https://getida.com/understanding-ltl-vs-parcel-shipping/) 
 * At the Amazon FBA warehouse when it is accidentally placed in other Amazon FBA seller accounts
 * When the barcode is incorrect 
 
@@ -78,7 +78,7 @@ To identify any of these errors, perform an Amazon audit.
 
 **4. Destroyed and disposed of inventory**
 
-Amazon can destroy and dispose of any inventory it deems unsaleable, without prior permission from the Amazon FBA seller. And Amazon needn’t and doesn’t notify you.
+Amazon can destroy and dispose of any inventory it deems unsaleable, without prior permission from the [Amazon FBA seller](https://getida.com/how-much-do-amazon-sellers-make/). And Amazon needn’t and doesn’t notify you.
 
 The only way to tell for sure is by continually reviewing your Amazon Seller Central account to determine if Amazon ever destroys or disposes of your inventory. It may never happen. But this is the only way to tell if it does happen.
 
@@ -92,7 +92,7 @@ Check Amazon’s reported product dimensions and weight and compare it to the ac
 
 By now you’ve probably gathered that getting Amazon FBA reimbursement is a time-consuming not to mention annoying task. In addition to what we’ve already mentioned to uncover potential incidences that qualify for Amazon FBA reimbursement, review the Payments report available in Seller Central on a monthly basis. In the Transaction view, search by either “Balance Adjustment” or “FBA Reimbursement” to determine how much money Amazon potentially owes you.
 
-But wait, there’s more. You also need to regularly review shipping reports for any errors related to product shipment, fulfillment, and customer returns. If you have a lot of SKUs, that’s quite an undertaking.
+But wait, there’s more. You also need to regularly review shipping reports for any errors related to product shipment, fulfillment, and customer returns. If you have a lot of [SKUs](https://getida.com/whats-asin/), that’s quite an undertaking.
 
 Then you have to document and submit claims to the appropriate departments. Incorrectly filed claims are automatically rejected and require refiling. Claims must be submitted within 18 months of when the reported error occurred.
 
@@ -109,6 +109,6 @@ GETIDA (**GET I**ntelligent **D**ata **A**nalytics) combines two powerful resour
 * Software that examines the last 18 months of your Amazon FBA transactions to flag potential reimbursement
 * An experienced team of former Amazon reimbursement employees who know how and where to submit claims properly and follow up to ensure success. 
 
-There is no charge to use the software or for GETIDA to file claims. And the first $400 in Amazon FBA reimbursement claims are free.
+There is no charge to use the software or for [GETIDA](https://getida.com/) to file claims. And the first $400 in Amazon FBA reimbursement claims are free.
 
 It’s simple and easy to get started. Click the “Free Signup” button and provide the requested information. There’s no obligation.
