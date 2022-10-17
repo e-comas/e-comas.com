@@ -31,7 +31,7 @@ With Cross Selling, the customer does not originally intend to buy an additional
 
 The difference is illustrated clearly in this picture:
 
-![](/images/uploads/untitled-design-2022-10-17t160053.436.png)
+![](/images/uploads/untitled-design-2022-10-17t162353.152.png)
 
 ### Advantages of Upselling
 
@@ -49,7 +49,7 @@ The biggest risk in Upselling is distracting the potential customer too much and
 
 Accordingly, it is always important to choose, analyze and optimise the product selection for Upselling carefully and, above all, aptly. Possible risks should always be weighed up in this process. 
 
-## How you can successfully implement Upselling
+### How you can successfully implement Upselling
 
 When Upselling, it is important to always keep the customer's needs and wants in mind. You should adapt your offers to these preferences.
 
@@ -71,13 +71,15 @@ On Amazon, there are various ways and models to use Upselling. For example, Upse
 
 Furthermore, Upselling can be found in the automatically generated product comparison tables. In these lists, different models from different brands are compared with each other. However, as a merchant, you have no direct influence on the table and thus cannot influence whether your product is placed in the list or not. 
 
-![](https://lh6.googleusercontent.com/_uXjix3nsqf_Nn82DDOt4WSFVLxkh6D2S0Q2-wjtzCczwjEU413UyicrrAG-Xno3biiHRwjQ7enFJupntdL1PP_K-g_LRHs1kzS-EZW4tm2ii_K8DiqCCRfcdQnX9ioCR7ZXilSfJEphacGRvZjTZB6hgd300pIlGuXBAcLnr-pMZRCPNnnM5JlCcA)`Upselling on Amazon with Product Comparison Table for TVs`
+![](/images/uploads/untitled-design-2022-10-17t162438.100.png)
+
+`Upselling on Amazon with Product Comparison Table for TVs`
 
 With [A+ content](https://www.bidx.io/blog/amazon-a-content), on the other hand, vendors have the possibility to create their own comparison table. This allows them to offer the customer a higher-quality product variant, as well as to choose the comparison criteria and selection of products themselves. 
 
 However, for sellers, this option is only available if they register their brand at Amazon. Comparison tables are usually an effective method of highlighting the differences and advantages relevant to the customer. However, it is important to keep the table relatively simple in order to avoid confusing the customer. 
 
-![](https://lh4.googleusercontent.com/MgX0e2Rws-XeQqwhbJNQJ3KuJPHb3kx8Ak1aes3oK5FRQD15iL3yT-zesqDc4HLHG3HkBO7YA_fIQi4DSaxlIrbLmbqiAJo3CazQGkmgFp8UOOMpwqdy1H1J0SeCcz-8X1hwO4e9KROg2yn00DdHHFNpwXoV4vGhl0a6ekxlNEOD6p-a-tB6yXCMhA)
+![](/images/uploads/untitled-design-2022-10-17t162548.154.png)
 
 `Upselling on Amazon with A+ Content for TVs`
 
@@ -121,6 +123,6 @@ Author’s Bio:
 
 Lena Trapp is Marketing Manager at BidX. BidX supports Amazon sellers with software solutions that automate and optimize advertising on and off Amazon.
 
-![](https://lh6.googleusercontent.com/GA7byxV-gPfXc9KWnZ9aS473d2YzQ1MNeb7W1KcgbhgiqsohREXZYi92ojxuwjhcBWJZmGD_pF9AfV5z7ZXJoTB8i7D5RXXxWR0na47TeN9LlSMp66GcP4p38wkGioXnVQC2TSy0tZTnm9JGESukAfaSbB5tZcr31JQNM6xqXBI_iR9nFQws0pqQmA)
+![](/images/uploads/untitled-design-2022-10-17t162615.099.png)
 
 <!--EndFragment-->
