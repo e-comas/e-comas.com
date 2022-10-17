@@ -65,7 +65,7 @@ The right advertising measures also contribute to your success. With Sponsored A
 
 On Amazon, there are various ways and models to use Upselling. For example, Upselling takes place indirectly through automatically-generated product ads and links. These are listed for most Amazon products under "Customers who bought this item also bought", "Sponsored products", or "What other items do customers buy after seeing this item?". It should be noted, however, that the boundaries between Upselling and Cross Selling are often not clear in these cases.
 
-![](https://lh6.googleusercontent.com/ZMhydZLDcp_hXRPgHKKGDSq-OMiJbZuItHGFJmYWxS_reydTmbBqeuqQPE-7sZJqvl5T_zU_uHT7Ah4disqkhWDPbHQ53IiUpupvy-vGcIivZLJSadaCukueku_6vs7TOI_hFkeyMzvkFCRNpvVyXYmeVA0lIv9KhyK8vcrGyXkRIQvanJs5odeIJA)
+![](/images/uploads/untitled-design-2022-10-17t160920.710.png)
 
 *`Upselling on Amazon with Sponsored Products for TVs`*
 
