@@ -31,7 +31,9 @@ With Cross Selling, the customer does not originally intend to buy an additional
 
 The difference is illustrated clearly in this picture:
 
-### ![](https://lh4.googleusercontent.com/HLy-Hfz_pFx97iyEIPna35eAkHnZkPuTCqYd9XH_kbeQSN24AMigbWqJ1EyvFEOdtfcBIigKnskl5MzgzA9IIeyWIgImtYdwksl1lEVDnT-k05dsxG5jq0Y8LAz7YKE285iHyKB7dkiun68D5Xdr4_IXsIGbKQOfbTrBHuIek1NuI8mDIUnYfXaI)Advantages of Upselling
+![](/images/uploads/untitled-design-2022-10-17t160053.436.png)
+
+### Advantages of Upselling
 
 The fact that the customer has internally already made a fundamental purchase decision can have a great impact on increasing sales without incurring additional costs for customer acquisition. 
 
