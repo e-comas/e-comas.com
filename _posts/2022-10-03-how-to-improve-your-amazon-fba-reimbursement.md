@@ -10,8 +10,8 @@ excerpt: >
 thumbnail: /images/uploads/untitled-design-2022-10-03t141431.781.png
 thumbnail_alt: Dollar in hands
 tags:
-  - Operations
-  - Finances
+  - Strategy
+  - FBA
 ---
 You are owed Amazon FBA reimbursement whenever Amazon mishandles your inventory, customer orders, and/or returns. Amazon handles billions of worldwide transactions. [Mistakes](https://getida.com/inventory-management-mistakes-supply-chains-make/) are going to happen. When this happens, Amazon FBA sellers are owed reimbursement for products misplaced, misrecorded, or lost.  
 
