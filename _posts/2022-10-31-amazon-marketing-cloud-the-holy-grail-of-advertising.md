@@ -60,6 +60,8 @@ Lifestyle – based on customers' usual shopping habits\
 Contextual – based on customer searches for similar products\
 Retargeting – based on customers viewing or buying your product in the past.
 
+![](/images/uploads/1.png)
+
 ### Any examples of how AMC is used?
 
 We've already seen with one of our clients that AMC gives 'consideration period' as a metric, which allowed us to better re-target users inside the consideration window.
