@@ -11,6 +11,4 @@ thumbnail_alt: Amazon webinar panel
 tags:
   - Webinar
 ---
-![](/images/uploads/linkedin-amazon.png)
-
 <iframe src="https://www.salsify.com/fr/resources/les-strategies-amazon-ads-et-du-contenu-produit?reg_source=referral-ecomas-unpaid-WBR-FR-ALL-2022-12-08-From-Great-content-to-great-advertising&utm_medium=referral&utm_source=ecomas&utm_campaign=WBR-FR-ALL-2022-12-08-From-Great-content-to-great-advertising"680" height="1150"></iframe>
