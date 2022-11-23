@@ -6,7 +6,7 @@ date: 2022-11-23T10:19:18.817Z
 excerpt: >
   Find out more about Nella Argenziano, our new Head of Advertising and Davy
   Mouyabi, our new Head of DSP and Programmatic.
-thumbnail: /images/uploads/add-a-heading-3-.png
+thumbnail: /images/uploads/untitled-design-2022-11-23t104717.817.png
 thumbnail_alt: Nella and Davy
 tags:
   - Advertising
