@@ -2,7 +2,7 @@
 layout: blog
 title: "Don't stop spending: How to stay profitable on Amazon in a financial crisis"
 author: Jérôme de Guigné
-date: 2022-12-07T15:51:01.766Z
+date: 2022-12-08T07:51:01.766Z
 excerpt: "A financial crisis is bad news for everybody. But savvy businesses can
   stay ahead in uncertain times: The key is to not let your marketing slide"
 thumbnail: /images/uploads/empty-wallet-due-coronavirus-economic-impact-social-banner-illustration-small.jpg
