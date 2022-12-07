@@ -23,7 +23,9 @@ And there's no reason why only the largest businesses can survive: small brands 
 
 Here's what you can do to keep your business afloat.
 
-![Empty wallet financial crisis](/images/uploads/empty-wallet-due-coronavirus-economic-impact-social-banner-illustration-small.jpg)
+![Empty wallet financial crisis. CREDIT rawpixel.com via Freepik](/images/uploads/empty-wallet-due-coronavirus-economic-impact-social-banner-illustration-small.jpg)
+
+###### I﻿mage credit: rawpixel.com via Freepik
 
 ### The crisis
 
@@ -56,8 +58,6 @@ If you're on a tight budget you can start with a simple Sponsored Products campa
 Once you have enough data from this campaign, you can invest in more ASINs and keywords, and branch out to other types of Amazon ad campaign, like Sponsored Brands and Sponsored Video.
 
 Other businesses will stop investing in their advertising because of the crisis. That will make it easier for you to compete on keywords; we've seen brands actually get a boost to their sales in hard times, because they kept advertising when others stopped.
-
-
 
 ### Leverage your small business marketing power
 
