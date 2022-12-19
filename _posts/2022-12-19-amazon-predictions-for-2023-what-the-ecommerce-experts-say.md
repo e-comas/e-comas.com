@@ -64,6 +64,8 @@ Media forecasters suggest accelerated growth in connected TV, which I believe is
 
 2022 held some worst-case scenario aspects for much of CPG on Amazon from an inventory perspective. Mid-year changes in Amazon’s ordering strategy to run on thinner weeks of cover caused back-half budget drops for ads. My hope is to see inventory capacity normalise with demand in early 2023 after three wacky years in a row!
 
+![](/images/uploads/untitled-design-2022-12-19t151912.109.png)
+
 ### Jérôme de Guigné, Founder and CEO at e-Comas
 
 * **Main Amazon markets get tougher to stand out**
@@ -155,8 +157,6 @@ The main areas of growth for Amazon will be cloud computing, digital advertising
 Another trend in 2023 will be sustainability and “going green”. Not only is this an important metric for Amazon themselves, with over 50 fulfilment centres with solar roofs, but it is important to consumers. Alternative materials such as bamboo or recycled steel may gain favour over acrylic and single-use plastic alternatives. 
 
 Amazon is a stickler for efficiency and operational excellence, so one big aspect we expect to continue to tighten up is the chargebacks and compliance process. Vendors will need to be more adherent to Amazon’s systems, so investing in integration systems through EDI (such as KhooCommerce) could be of benefit to Amazon Vendors. Seller central users should consider using PIM systems such as Salsify to help to maintain and manage their catalogues. 
-
-
 
 ![](/images/uploads/sustainability.png)
 
