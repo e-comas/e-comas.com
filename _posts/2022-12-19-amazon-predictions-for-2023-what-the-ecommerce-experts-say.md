@@ -64,7 +64,7 @@ Media forecasters suggest accelerated growth in connected TV, which I believe is
 
 2022 held some worst-case scenario aspects for much of CPG on Amazon from an inventory perspective. Mid-year changes in Amazon’s ordering strategy to run on thinner weeks of cover caused back-half budget drops for ads. My hope is to see inventory capacity normalise with demand in early 2023 after three wacky years in a row!
 
-![](/images/uploads/untitled-design-2022-12-19t151912.109.png)
+![](/images/uploads/zach.png)
 
 ### Jérôme de Guigné, Founder and CEO at e-Comas
 
