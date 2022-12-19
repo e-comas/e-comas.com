@@ -22,7 +22,7 @@ We’ve spoken to a variety of our industry leader friends and gathered their in
 
 * Shoppers will remain reliant on digital research even while in store
 * Consumers will be more selective about what they spend their money on
-* Best product information for every SKU is even more key\*\*  
+* Best product information for every SKU is even more key 
 
 We’re headed into a new era for retail that is post-pandemic; new recession. Firstly,
  consumers are returning to in-store shopping, but will remain reliant on digital research
@@ -89,6 +89,8 @@ Have you ever heard of the lipstick effect? This term was coined by Estee Lauder
 I also predict that there will be a definite shift in the way that consumers purchase overall. Our economy is in a recession, and consumers don’t have as much purchasing power as in previous years, so they are going to be looking for good deals on necessities and small nice-to-haves, such as self-care items. 
 
 So, if you’re not adding discounts to your Amazon listings, you will want to offer deals and discounts in 2023 so that you can capture consumers looking to save money!
+
+![](/images/uploads/carrie-helium-10.png)
 
 ### Destaney Wishon, CEO and Co-Founder at BetterAMS 
 
