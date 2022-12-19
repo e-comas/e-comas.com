@@ -16,13 +16,13 @@ tags:
 ---
 Keeping up to date with the industry’s trends and ever-changing needs is key to ensuring your business is prepared for the year ahead.
 
-We’ve spoken to a variety of our industry leader friends and gathered their insights and predictions for Amazon and the wide world of eCommerce in the new year…
+We’ve spoken to a variety of our industry leader friends and gathered their insights and predictions for Amazon and the wide world of eCommerce in the new year...
 
-### Salsify
+### S﻿alsify
 
-* Shoppers will remain reliant on digital research even while in store
-* Consumers will be more selective about what they spend their money on
-* Best product information for every SKU is even more key 
+* **Shoppers will remain reliant on digital research even while in store**
+* **Consumers will be more selective about what they spend their money on**
+* **Best product information for every SKU is even more key** 
 
 We’re headed into a new era for retail that is post-pandemic; new recession. Firstly,
  consumers are returning to in-store shopping, but will remain reliant on digital research
@@ -41,6 +41,8 @@ As shoppers scrutinise products and pricing, brands and retailers are going to b
  best product information for every SKU. Sixty-seven per cent of shoppers said that
  product descriptions helped them most when deciding what to buy, followed by ratings
  and reviews (61%), and product images (34%).
+
+![](/images/uploads/salsify-3-.png)
 
 ### Clare Hogan, Senior Retail Media Account Manager at Pacvue
 
@@ -79,7 +81,7 @@ Though this year’s Black Friday online sales saw a 2.3% increase over 2021, fa
 
 A strong Q4 will enable eCommerce business owners to reinvigorate their businesses, thus propelling the industry forward as a whole. Despite recent speculation of a recession and upcoming federal rate increases, we feel confident that the eCommerce industry will continue to grow throughout the next 12 months but at a more moderate pace as the COVID-19 boom continues to cool off.
 
-#### Carrie Miller, Senior Brand Evangelist at Helium 10 
+#### Carrie Miller, Senior Brand Evangelist at Helium 10
 
 * **Say hello to the Self Care Effect**
 * **Consumers will be looking for more deals and bargains**
@@ -92,7 +94,7 @@ So, if you’re not adding discounts to your Amazon listings, you will want to o
 
 ![](/images/uploads/carrie-helium-10.png)
 
-### Destaney Wishon, CEO and Co-Founder at BetterAMS 
+### Destaney Wishon, CEO and Co-Founder at BetterAMS
 
 * **Video will play a much bigger role in advertising**
 * **Amazon will continue to invest in their influencer programs and social pretense**
@@ -150,8 +152,6 @@ Amazon is a stickler for efficiency and operational excellence, so one big aspec
 I think off-Amazon advertising will continue to be a focus, specifically DSP and Buy with Prime. This is a major opportunity for Amazon; the total addressable market for Amazon is enormous, and I think that’s going to continue to be a focus.
 
 Ad costs and ad properties will continue to rise and diversify. There are going to be more placements that come out. There are also going to be more features and opportunities to display your brand and ultimately increase spend on driving really good traffic. So, brands that can lean into that and understand the new opportunities and the complexities around it can do well.
-
-
 
 ***Thank you to everyone for your input and insights! Best wishes to our clients and partners for a happy and prosperous New Year!***
 
