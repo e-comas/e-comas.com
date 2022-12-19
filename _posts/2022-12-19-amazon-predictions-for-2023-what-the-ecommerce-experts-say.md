@@ -8,7 +8,7 @@ excerpt: >+
   insights and predictions for Amazon and the wide world of eCommerce in the new
   year…
 
-thumbnail: /images/uploads/blogpredictions-2-19thdec-ig-1080x1080.png
+thumbnail: /images/uploads/untitled-design-2022-12-19t150947.749.png
 thumbnail_alt: Crystall ball
 tags:
   - Strategy
@@ -53,6 +53,8 @@ Video continues to show high engagement and conversion rates with consumers, esp
 
 Consumers will be more price-conscious in Consumer-Packaged Goods (CPG) categories, looking for products that will achieve the same goals at lower prices. Brands considered more ‘lifestyle brands’ may have to focus on higher-income consumers to continue to grow their brand at the same rate.
 
+![](/images/uploads/video-ads.png)
+
 ### **Zachary Zaerr, Retail Media Account Director at Pacvue**
 
 * **Connected TV could see accelerated growth**
@@ -71,6 +73,8 @@ The maturity of the main Amazon markets makes it a tougher fight to get space on
 
 As we head into troubled months due to inflation, we expect and advise more brands to diversify their market approach to have several lines of revenue. For example, launching in Europe to provide additional sources of revenue.
 
+![](/images/uploads/jerome.png)
+
 ### Yoni Mazor, Co-Founder and CGO at GETIDA
 
 * **The eCommerce industry will continue to grow but at a more moderate pace** 
@@ -80,6 +84,8 @@ Black Friday and Cyber Monday statistics are painting an encouraging picture for
 Though this year’s Black Friday online sales saw a 2.3% increase over 2021, falling short of an 8.6% increase in 2021 and an unprecedented 36% increase in 2020, a record 196.7 million consumers shopped on Cyber Monday and Black Friday. In a post-COVID world where consumers are more accustomed than ever to shopping online, eCommerce sales have effectively gained the upper hand over in-person retail shopping for Q4 and holiday shopping during Black Friday versus Cyber Monday.
 
 A strong Q4 will enable eCommerce business owners to reinvigorate their businesses, thus propelling the industry forward as a whole. Despite recent speculation of a recession and upcoming federal rate increases, we feel confident that the eCommerce industry will continue to grow throughout the next 12 months but at a more moderate pace as the COVID-19 boom continues to cool off.
+
+![](/images/uploads/black-friday.png)
 
 #### Carrie Miller, Senior Brand Evangelist at Helium 10
 
@@ -113,12 +119,16 @@ All of these rollouts point to the direction Amazon will go in 2023. More social
 
 Amazon is giving us the resources to truly connect with our audience. They are prioritising brand building through all of the new creative assets, and brands that take advantage of this in 2023 will succeed. 
 
+![](/images/uploads/d-wishon.png)
+
 ### Jana Krekic, Founder and CEO at YLT Translations
 
 * **AI learning and simulation are going to be developing more and more, especially around content**
 * **TikTok is going to be a major social media shopping platform**
 * **Sustainability is going to be very important**
 * **Voice search is going to be bigger and bigger, and I believe so will Amazon Voice Shopping as well**
+
+![](/images/uploads/untitled-design-2022-12-19t150835.593.png)
 
 ### Ellen Sipp-Paris, Content Manager at eComEngine
 
@@ -132,6 +142,8 @@ Big sales events, both online and in-store, will also become more frequent and s
 
 Finally, we’ll see greater numbers of omnichannel shoppers, so you’ll need to find ways to make your Amazon store stand out from the crowd. Buy online, pick up in-store and your mobile shopping experience could be key factors for conversion with the modern-day customer.
 
+![](/images/uploads/ellen-ecome.png)
+
 ### Chris Khoo, Sales Director at KhooCommerce
 
 * **Continued use of data to personalise the customer experience**
@@ -144,6 +156,10 @@ Another trend in 2023 will be sustainability and “going green”. Not only is 
 
 Amazon is a stickler for efficiency and operational excellence, so one big aspect we expect to continue to tighten up is the chargebacks and compliance process. Vendors will need to be more adherent to Amazon’s systems, so investing in integration systems through EDI (such as KhooCommerce) could be of benefit to Amazon Vendors. Seller central users should consider using PIM systems such as Salsify to help to maintain and manage their catalogues. 
 
+
+
+![](/images/uploads/sustainability.png)
+
 ### Dan Brownsher, Founder at Channel Key
 
 * **Advertising off Amazon remains a focus**
@@ -152,6 +168,8 @@ Amazon is a stickler for efficiency and operational excellence, so one big aspec
 I think off-Amazon advertising will continue to be a focus, specifically DSP and Buy with Prime. This is a major opportunity for Amazon; the total addressable market for Amazon is enormous, and I think that’s going to continue to be a focus.
 
 Ad costs and ad properties will continue to rise and diversify. There are going to be more placements that come out. There are also going to be more features and opportunities to display your brand and ultimately increase spend on driving really good traffic. So, brands that can lean into that and understand the new opportunities and the complexities around it can do well.
+
+![](/images/uploads/d-brownsher.png)
 
 ***Thank you to everyone for your input and insights! Best wishes to our clients and partners for a happy and prosperous New Year!***
 
