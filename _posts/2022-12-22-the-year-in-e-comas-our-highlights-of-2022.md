@@ -34,6 +34,8 @@ For the electronic brand Tellur, during Q4 with a complete rework on their spons
 
 We’re very proud of our team for hitting these goals, and for having such great clients!
 
+![](/images/uploads/untitled-design-2022-12-22t155307.410.png)
+
 ### Great shows
 
 It still feels so good to meet in person after lockdown. This year we made it to these great shows:
@@ -50,7 +52,7 @@ We were particularly honoured to be asked to speak at the Prosper Show, Amazon S
 
 Catch us at all these shows and more in 2023!
 
-![](https://lh3.googleusercontent.com/hu8lDNLcwI495dOan1vpHebG6btX55HeK0VzD3qlg2M5JKNNzUOUd2kM_1T66PH2y98CMIN5c4bFrZcPlPM9QS2QsppBMAUQBDOvfVOrlyk2WudlqFY38EMh7jAgjAR28NNutnUdCY2thrhT_rHy7SgCYTlLsJkzXWDEn_9STYppYvbN0qw16ECBerS6qQ)
+![](/images/uploads/unboxed.png)
 
 ### Our expertise recognised
 
@@ -62,7 +64,7 @@ Amazon Ads even published [this case study](https://advertising.amazon.com/libra
 
 [Jérôme joined the Forbes Business Council](https://e-comas.com/2022/06/10/e-comas-founder-j%C3%A9r%C3%B4me-is-now-a-forbes-writer.html) this year, meaning he gets his articles published on Forbes' website! [Here's his latest](https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/18/4-native-e-commerce-trends-in-a-cookie-less-era/?sh=3f730e86d85d), on native eCommerce.
 
-![](https://lh3.googleusercontent.com/Qnm0aU63lvVb_qU2O3vh1mzYBH3mz0KJBOrYwLvXO1RUSLiHe8qhP9rtjNip3-RstVWDYtEs2_ThUrxz5y5DLRvHnhwQn4SdzQt-jIK96Bfxl7W6FgTsMGErnLOjIB-oRK2hFcSXpBSmLukVYQqxZ0M63R89Gcxicivj2NUQwin5zKc0oakBl_Lf8IM1XQ)
+![](/images/uploads/jerome2.png)
 
 ### Content kings and queens
 
@@ -78,7 +80,7 @@ Our [podcast](https://e-comas.com/podcast.html) has also done really well this y
 
 It's great to see our customers doing really well, too, particularly benefiting from Amazon's social features, such as Amazon Live.
 
-![](https://lh5.googleusercontent.com/ax4Rrj7YveF-RDoFLsv30EAFcsnvzSfhitwmB9Ksl_mduX6RA40apEBhd4LxpdmGQRuQLQn3qJu8g2CZ3xeg5Dk_82ZeZBQBsCk0Gv35jW7SEwEk3g_m9I_yCEf_-wKwywiMtEJ9XWDQ0z70_P-B9W4CoA6a-nbuyFBJ3EAMOI1VoClYCTEgvdC_wVItAg)
+![](/images/uploads/podcast.png)
 
 ### Our team grew again!
 
@@ -86,7 +88,7 @@ We're very proud to have doubled in size over the last two years, and we've welc
 
 Snophia Dmonte, Manasa Murthy, Richard Arokiaraj, Romain Dattée, Mario Jeffrin, Kevin Fernando, Anusha Banda, Appachu Kodira, Stefan Marian, Varuna Sridhar, Anchit Abraham, Antonella Argenziano, Davy Mouyabi, amongst many more: Welcome! All experts in eCommerce, and all wonderful people. Be sure to connect with them on LinkedIn. 
 
-![](https://lh5.googleusercontent.com/7zqZluiWUM-QAhdEpfxt6YL2SjAQCqbcR76Jho1awK8StVoIT0BtyPaZoH5xu71dZJQ-JRgRxIAJzXzl9pXZVerlA2qI71xN0i3HZc2yiqAF63AybCyBoBvWqx6-e_5AwDmkGv5k2I0tm6YAF3E8Lzow31ZMUbKSC4IgWJcp-elseI-alXUJmkXdwDjJ4w)
+![](/images/uploads/team2.png)
 
 ### Getting together
 
@@ -96,6 +98,6 @@ It's our incredible team that makes us what we are.
 
 Thanks to our loyal clients, our fantastic supporters and everyone who has supported us in 2022. Happy New Year to all of you – here's to a great 2023!
 
-![](https://lh6.googleusercontent.com/zKBxbsMz0-guEYXnLs5mZWAb1iG-Y5Ciu4r-T5ivvzdkwtiw0QNN9TLymn88JIzCCT5dXfnalj_RgnOqMqLgF8Cs2dlB8ap8rtUBizhOkft-c0v5IiNJjTsQYwPRgQyOeBaSfkiyyLetfPSurYioz7FEqbqizcppbg89_aeIIvrqrVWvv7tG6SfWqyYdmg)
+![](/images/uploads/team4.png)
 
 <!--EndFragment-->
