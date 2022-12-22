@@ -88,7 +88,7 @@ We're very proud to have doubled in size over the last two years, and we've welc
 
 Snophia Dmonte, Manasa Murthy, Richard Arokiaraj, Romain Dattée, Mario Jeffrin, Kevin Fernando, Anusha Banda, Appachu Kodira, Stefan Marian, Varuna Sridhar, Anchit Abraham, Antonella Argenziano, Davy Mouyabi, amongst many more: Welcome! All experts in eCommerce, and all wonderful people. Be sure to connect with them on LinkedIn. 
 
-![](/images/uploads/team2.png)
+![](/images/uploads/team22.png)
 
 ### Getting together
 
@@ -98,6 +98,6 @@ It's our incredible team that makes us what we are.
 
 Thanks to our loyal clients, our fantastic supporters and everyone who has supported us in 2022. Happy New Year to all of you – here's to a great 2023!
 
-![](/images/uploads/team4.png)
+![](/images/uploads/team44.png)
 
 <!--EndFragment-->
