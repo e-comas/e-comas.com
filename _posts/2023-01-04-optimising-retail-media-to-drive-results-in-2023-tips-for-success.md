@@ -36,6 +36,8 @@ It is no coincidence that these three lessons are achieved through optimised bud
 
 But first, how do brands prepare their ad campaigns for 2023?
 
+![](/images/uploads/untitled-design-2023-01-04t090959.883.png)
+
 ### Early 2023 Advertising Strategies
 
 As we move from Q4 into 2023, there are many advertising optimisations to consider.
@@ -106,8 +108,6 @@ Here are three ways brands and agencies can achieve budget fluidity:  
 1. **Get Leadership Buy-in**: Have a plan and standard operating procedure (SOP) with clear directions and more agile processes for getting budget approval. Bring teams closer together so that they can plan more holistically. To do that, you need to measure and monitor the right KPIs across all platforms. Also, consider appointing an internal advocate who can champion budget fluidity.  
 2. **Avoid Monthly Budget Lock-in**: Look at the entire year with the goal of driving the most efficient spending annually or quarterly, allowing you to be more or less aggressive in the short term. Build on more planning checkpoints and shorter planning cycles. Set aside a fund that can be used for testing and learning. 
 3. **Flexibility is Key**: Budget fluidity can also make you adaptable in new markets as you navigate new regulations and marketing tactics. Plan to invest in [growing platforms](https://www.webinterpret.com/us/blog/top-online-marketplaces/) next year, such as Walmart, eBay, and Mercado Libre, but avoid locking in a specific amount of ad spend to these retailers and prepare to shift your budget. Be more prepared to change things when new information and data are available. 
-
-
 
 **[Contact us](https://www.pacvue.com/demo) today to learn more tips and tricks to optimise your retail media promotions and budget, lower costs, stay ahead of the competition, and increase sales across Amazon, Walmart, Instacart, Criteo, and other ad platforms. To make sure you don't miss the latest news, product updates, and best practices from the leading eCommerce marketplaces, follow the [Pacvue Blog](https://www.pacvue.com/discover/blog).**
 
