@@ -36,13 +36,13 @@ It is no coincidence that these three lessons are achieved through optimised bud
 
 But first, how do brands prepare their ad campaigns for 2023?
 
-![](/images/uploads/untitled-design-2023-01-04t090959.883.png)
+![](/images/uploads/untitled-design-2023-01-04t092355.493.png)
 
 ### Early 2023 Advertising Strategies
 
 As we move from Q4 into 2023, there are many advertising optimisations to consider.
 
-#### Invest Early in Content
+##### Invest Early in Content
 
 Too many brands consider their Cyber 5 success a season rather than carrying the momentum from tent-pole events into 2023.
 
@@ -54,23 +54,23 @@ No ad format is riper for investment than video. 
 
 According to Hubspot, video creative is the [most eye-catching ad format for consumers](https://blog.hubspot.com/marketing/content-trends-preferences). Video formats consistently outperform images, email newsletters, or PDFs. Simply put, engaging ads (particularly video) will help drive ROI in 2023.
 
-#### Elevate Your Advertising Mix
+##### Elevate Your Advertising Mix
 
 It is a great time to prioritise one or two new ad types or targeting strategies to test in 2023. 
 
-#### **New Ad Types**
+##### **New Ad Types**
 
 Newer ad types, such as Sponsored Brand Video or Amazon DSP, help brands uncover new growth channels and determine the best ad formats for their product lines. 
 
 More importantly, it can show which ad types your customers prefer.
 
-#### **New Targeting Strategies**
+##### **New Targeting Strategies**
 
 Brands can take a more granular approach to their targeting strategy in 2023. For example, [Amazon’s product targeting](https://advertising.amazon.com/blog/reach-relevant-audiences-with-product-targeting) lets brands reach an audience browsing for similar or complementary products.
 
 [Amazon’s lifestyle audiences](https://advertising.amazon.com/resources/whats-new/sponsored-display-amazon-audiences) are an excellent resource for brands that want to drive awareness, as audience targets are organised across behaviors and shared preferences that map to lifestyle segments, such as “Tech Enthusiasts” or “Foodies.”  
 
-#### **Deal Types** 
+##### **Deal Types** 
 
 Brands can generate early 2023 results by planning deals and promotions across micro-holidays, such as Valentine's Day, or larger holidays like Easter. When preparing your ad campaigns for 2023, here are the four deal types available on Amazon to help create a holistic approach:
 
@@ -79,23 +79,27 @@ Brands can generate early 2023 results by planning deals and promotions across m
 3. **Lightning Deals**, which can help you make the most of your stock by shooting up sales during high-traffic event days, with a similar timeframe to wow deals.
 4. **Price Discounts** help you outbid competitor prices and reduce product abandonment rates by making the purchase appear more worthwhile.  
 
+![](/images/uploads/untitled-design-2023-01-04t092450.801.png)
+
 ### Build Your 2023 Expansion Plan
 
 For most brands, budget constraints and high revenue targets are creating anxiety. “How can I do more with less but make smart choices to grow profits?”
 
 In 2023, your expansion success will come down to the marketplaces you choose to invest in, the way you spread your budgets, and the technology you use to support your brand.
 
-#### **New Marketplaces**
+##### **New Marketplaces**
 
 If you’re looking for platforms to expand your consumer reach, Walmart, Alibaba, eBay, Kroger, and Mercado Libre all have unique benefits. Brands should also be monitoring the social commerce evolution for platforms like TikTok.
 
-#### **Diversify Your Ad Spend**
+##### **Diversify Your Ad Spend**
 
 Marketplace expansion should be paired with budget controls. Each new platform will have benchmarks and reporting to help you decide where your ad dollar goes furthest.
 
-#### **Ad Tech Tools**
+##### **Ad Tech Tools**
 
 Centralising all your marketplace data into helpful ad tech tools, like budget calendars and daypart bidding solutions, can help you monitor the increased ad spend and maximise your budget by cutting out elements without return.
+
+![](/images/uploads/untitled-design-2023-01-04t092618.796.png)
 
 ### Work Towards Achieving Budget Fluidity 
 
