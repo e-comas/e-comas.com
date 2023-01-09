@@ -19,7 +19,7 @@ Amazon has been dabbling in social commerce for a while now. Its [Posts](https:/
 
 Now it has brought the TikTok model into the marketplace as well, with new product [Amazon Inspire](https://www.amazon.com/amazon.com/b?node=24672145011).
 
-What is Amazon Inspire?
+#### What is Amazon Inspire?
 
 Inspire is an in-app shopping feed, made up of shoppable photos and short-form videos.
 
@@ -29,13 +29,11 @@ The idea is you can scroll through posts from brands, influencers and other cust
 
 All images and videos are shoppable, so it's an easy step from browsing to buying.
 
-  
+![](/images/uploads/untitled-design-2023-01-09t143527.008.png)
 
-\[pics credit: Amazon]
+*`[Photo credit: Amazon]`*
 
-
-
-Why has Amazon created Inspire?
+### Why has Amazon created Inspire?
 
 While high street retail has recovered somewhat since the pandemic, online shopping is here to stay.
 
@@ -49,9 +47,7 @@ This seems to be the way eCommerce is going: influential, engaging, content-driv
 
 With Inspire's dynamic content and easy shopping model, it can engage more customers with their favourite kinds of products and brands.
 
-
-
-What do the e-Comas team like about it?
+### What do the e-Comas team like about it?
 
 We like that it offers customer-to-customer interaction, which will potentially revolutionise the product reviews model.
 
@@ -59,9 +55,7 @@ Customers can already add photos and videos to their reviews on Amazon, of cours
 
 Also, by featuring them in feeds, Amazon Inspire could give reviews a new prominence. We know how important reviews are to customers: we know how heavily shoppers rely on them in making a decision. But they've always been below the fold, so to see them featured actually as inspiration for shoppers will be really interesting.
 
-
-
-How will it work for brands?
+### How will it work for brands?
 
 For now, Inspire is populating feeds using brand content from Amazon Posts. So if you're in the US, [start using Posts now](https://e-comas.com/2021/12/13/social-media-on-amazon-why-you-should-try-posts-and-not-just-because-it-s-free.html) – it's free, and we've seen great results with our clients.
 
@@ -69,13 +63,9 @@ It's also using influencer content from the [Amazon Influencer Program](https://
 
 In future, we expect brands will be able to post their own short-form videos.
 
-Our own Sarra Matallah, an expert in Amazon's social features, says: 
+### Ok, where can I get it, and when?
 
-
-
-Ok, where can I get it, and when?
-
-For now it's in the US only: from December 2022, it's available to select customers, and will be rolled out US-wide in the next few months. Depending on its success there, it will be available in other marketplaces.
+For now, it's in the US only: from December 2022, it's available to select customers, and will be rolled out US-wide in the next few months. Depending on its success there, it will be available in other marketplaces.
 
 Like Amazon Posts and Amazon Live, it's currently free for brands to use.
 
