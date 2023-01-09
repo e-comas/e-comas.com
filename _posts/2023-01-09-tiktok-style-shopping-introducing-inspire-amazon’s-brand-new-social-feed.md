@@ -55,6 +55,8 @@ Customers can already add photos and videos to their reviews on Amazon, of cours
 
 Also, by featuring them in feeds, Amazon Inspire could give reviews a new prominence. We know how important reviews are to customers: we know how heavily shoppers rely on them in making a decision. But they've always been below the fold, so to see them featured actually as inspiration for shoppers will be really interesting.
 
+![](/images/uploads/untitled-design-2023-01-09t143858.111.png)
+
 ### How will it work for brands?
 
 For now, Inspire is populating feeds using brand content from Amazon Posts. So if you're in the US, [start using Posts now](https://e-comas.com/2021/12/13/social-media-on-amazon-why-you-should-try-posts-and-not-just-because-it-s-free.html) – it's free, and we've seen great results with our clients.
