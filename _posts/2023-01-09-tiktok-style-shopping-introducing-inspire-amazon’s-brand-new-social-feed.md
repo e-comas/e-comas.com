@@ -71,7 +71,7 @@ For now, it's in the US only: from December 2022, it's available to select custo
 
 Like Amazon Posts and Amazon Live, it's currently free for brands to use.
 
-Our Account Manager Sarra Matallah says: “It is a smart move from Amazon to merge social and shopping in one place. Social commerce is what Amazon has been somewhat missing, and the newly launched Amazon Inspire will fill that gap and make the shopping experience more visual and dynamic.”
+Our Senior Account Manager and Team Lead Sarra Matallah says: “It is a smart move from Amazon to merge social and shopping in one place. Social commerce is what Amazon has been somewhat missing, and the newly launched Amazon Inspire will fill that gap and make the shopping experience more visual and dynamic.”
 
 **If you're selling in the US, [contact us today](http://e-comas.com/contact.html) to see how you can take advantage of Amazon Live, Amazon Posts and Amazon Inspire!**
 
