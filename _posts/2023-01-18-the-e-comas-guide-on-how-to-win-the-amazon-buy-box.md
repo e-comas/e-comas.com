@@ -24,11 +24,7 @@ Knowing how the Amazon algorithm works and how it determines who gets the Buy Bo
 
 The Amazon Buy Box is the area on an Amazon product detail page where customers can add the item to their shopping cart or buy it right away. You’ll have come across the Buy Box before – it’s the box that appears on the right-hand side of a listing, where the "Add to Cart" and "Buy Now" buttons are located.
 
-
-
-![](https://lh5.googleusercontent.com/VQxkUPSOWxLKTinFZWxModI27qpPSqUYsRARHV9ifrrydg8dkankjci9iH97G_htNT-xeAtWU0-bDKiPrtg8cnaJyCIgyUl1iVTR24kh4uYnLn7-QEAQgkPob-yKEBVMgPEJKK2h5TyBziVhkXDnPT_q-beRNTZSrfWLX8_oZab7iSxxjCLczlybCKsXkw)
-
-
+![](/images/uploads/untitled-design-2023-01-18t103840.198.png)
 
 The Amazon Buy Box has a lot of power in determining who wins the sale because it’s usually placed at the top of a product detail page and always visible. It’s also prominently displayed for customers browsing products using a mobile device, so your chances of winning the sale are even higher.
 
@@ -114,9 +110,7 @@ Usually, people think the lowest-priced offer wins the Buy Box, but that’s not
 
 Let’s take a look at an example:
 
-![](https://lh3.googleusercontent.com/9xdx5ajEXdaS4DTkk7DFY0ZjO5bgAgnqG7TfVgsnoCtgCXkGkQVVguyNJlva-gncbBerD_a6-NUQtNUFIp4q2LJjqM7QUc6tNSm1XM69SXofBOfY_5hs0BfYGNpnjsyjY1l20lzKyO4rlDo_FFywFPnE5T0AesKgIZqmnRWIXrFFl4mj0RcrIB9j54l1fQ)
-
-
+![](/images/uploads/untitled-design-2023-01-18t103902.048.png)
 
 Nazli explains: “In this instance, the cheapest offer doesn’t have Prime delivery, and the buyer rate is 98%. So, the offer with 100% and Prime delivery wins the Buy Box even though it’s priced a bit higher.
 
