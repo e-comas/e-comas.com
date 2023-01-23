@@ -29,6 +29,8 @@ One of the most significant ways in which AI is impacting eCommerce is through t
 
 By automating customer service, chatbots help eCommerce companies save time and money while providing customers with a hassle-free shopping experience.
 
+![](/images/uploads/untitled-design-2023-01-23t104042.909.png)
+
 #### 2. Better marketing campaigns 
 
 Another influential application of AI in eCommerce is personalisation. For instance, AI-powered algorithms can analyse customer data, such as browsing history, purchase history, and demographics, to create personalised product recommendations, advertising, and marketing campaigns. 
@@ -61,6 +63,8 @@ Another challenge is the need for specialised expertise to implement AI solution
 
 Nevertheless, despite these challenges, the benefits of AI in eCommerce are clear. By automating customer service, personalising the shopping experience, optimising pricing and inventory management, and improving the overall customer experience, AI can help eCommerce companies increase efficiency, improve customer satisfaction, and drive sales.
 
+![](/images/uploads/untitled-design-2023-01-23t104726.580.png)
+
 ### Limitations of AI in eCommerce
 
 There are a few limitations to AI, such as data quality, privacy and security, specialised expertise, ethical implications, and a lack of human interaction. The most important thing to remember is that AI is merely a tool to make various eCommerce processes more efficient and should not be considered a human substitute. 
@@ -84,6 +88,8 @@ AI can be used to make important decisions, such as product recommendations, or 
 #### Human interaction
 
 AI can automate customer service, but that doesn't mean it can replace human interactions and empathy. This could lead to dissatisfaction and loss of trust from customers. Additionally, it's worth noting that while AI can provide some helpful suggestions, a human touch is still important to finalise any content or design to ensure that it effectively communicates a brand's message and values.
+
+![](/images/uploads/untitled-design-2023-01-23t104827.545.png)
 
 ### The future of AI in eCommerce
 
