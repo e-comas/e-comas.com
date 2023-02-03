@@ -1,12 +1,13 @@
 ---
 layout: blog
-title: "e-Comas Dashboard - Release Notes "
+title: "e-Comas Compas Dashboard - Release Notes "
 author: Claudiu Clement
 date: 2023-02-03T07:23:39.613Z
 excerpt: The latest update for e-Comas's Dashboarding Product
 thumbnail: /images/uploads/1.png
 thumbnail_alt: Everything is in the clouds. Isn't it?
-tags: []
+tags:
+  - Dashboard
 ---
 # **R﻿elease Notes (Feb 3 '22) V1.4**
 
