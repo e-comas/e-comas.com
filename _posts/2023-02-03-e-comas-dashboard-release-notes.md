@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "e-Comas Dashboard - Release Notes "
+title: "e-Comas Compas Dashboard - Release Notes "
 author: Claudiu Clement
 date: 2023-02-03T07:23:39.613Z
 excerpt: The latest update for e-Comas's Dashboarding Product
