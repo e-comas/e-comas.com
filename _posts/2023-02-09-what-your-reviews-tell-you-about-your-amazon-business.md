@@ -20,6 +20,8 @@ In this article, we’ll share five things your Amazon reviews are saying about 
 
 ![Image by Freepik](/images/uploads/5364311-smallest.jpg "Image by Freepik")
 
+*I﻿mage by Freepik*
+
 ### 1: What to stock up on and promote
 
 It’s very common to have a handful of “superstar” products be responsible for most of your product reviews and revenue. If you’re lucky enough to be in this position, stay on guard so you don’t squander it! This means:
