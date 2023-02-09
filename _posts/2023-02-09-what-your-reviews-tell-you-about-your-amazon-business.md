@@ -6,7 +6,7 @@ date: 2023-02-09T10:08:09.093Z
 excerpt: Your Amazon reviews are a vital source of audience data. In this guest
   blog from our friends at eComEngine, we share five things your Amazon reviews
   are saying about your business and how you can benefit from them
-thumbnail: /images/uploads/5364311.jpg
+thumbnail: /images/uploads/5364311-smallest.jpg
 thumbnail_alt: Someone leaving a bad review. Image by Freepik
 tags:
   - Operations
@@ -18,7 +18,7 @@ But in the mad dash to boost your review numbers, it’s easy to forget about th
 
 In this article, we’ll share five things your Amazon reviews are saying about your business and how you can benefit from listening. 
 
-![Image by Freepik](/images/uploads/5364311-small.jpg "Image by Freepik")
+![Image by Freepik](/images/uploads/5364311-smallest.jpg "Image by Freepik")
 
 ### 1: What to stock up on and promote
 
