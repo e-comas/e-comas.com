@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: How to Leverage Content to Build Brand Awareness with Michelin
+title: How to Leverage Content to Build Brand Awareness on Amazon with Michelin
 author: e-Comas Team
 date: 2023-02-21T17:00:00.000Z
 excerpt: For our latest webinar, Pierre-Loic Petit from Michelin shares some
