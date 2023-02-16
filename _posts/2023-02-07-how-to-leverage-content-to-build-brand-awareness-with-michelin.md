@@ -11,4 +11,4 @@ thumbnail_alt: Don't miss our next webinar
 tags:
   - Webinar
 ---
-<iframe src="https://us02web.zoom.us/webinar/register/WN_lq-JQrqqQNipE1o62iFB8Q" width="680" height="1150"></iframe>
+<iframe src="https://us02web.zoom.us/webinar/register/WN_lq-JQrqqQNipE1o62iFB8Q" height="1150"></iframe>
