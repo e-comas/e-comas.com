@@ -2,7 +2,7 @@
 layout: blog
 title: "The 2nd Buy Box: What Amazon’s new feature means for brands"
 author: Jérôme de Guigné
-date: 2023-02-27T12:44:26.442Z
+date: 2023-02-28T08:44:26.442Z
 excerpt: >
   The new 2nd Buy Box from Amazon gives more sellers a chance of being chosen,
   even with higher prices or slower delivery. Here's how it works
