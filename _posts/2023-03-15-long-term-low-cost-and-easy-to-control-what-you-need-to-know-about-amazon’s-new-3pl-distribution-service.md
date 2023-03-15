@@ -3,7 +3,7 @@ layout: blog
 title: "Long-term, low-cost and easy to control: What you need to know about
   Amazon’s new 3PL distribution service"
 author: " Jérôme de Guigné"
-date: 2023-03-15T15:26:33.057Z
+date: 2023-03-22T15:26:33.057Z
 excerpt: Amazon is addressing sellers' upstream distribution problems, by
   opening its own third party logistics (3PL) service with huge new warehouse
   facilities. Here's everything you need to know about AWD
