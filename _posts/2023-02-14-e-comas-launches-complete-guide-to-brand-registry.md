@@ -2,7 +2,7 @@
 layout: blog
 title: e-Comas launches complete guide to Brand Registry
 author: Jess Chapman
-date: 2023-02-14T07:39:21.046Z
+date: 2023-03-16T09:00:21.046Z
 excerpt: Every key feature of Amazon Brand Registry detailed in e-Comas's new
   white paper, as survey finds many benefits are still unknown
 thumbnail: /images/uploads/brand-reg-white-paper.png
