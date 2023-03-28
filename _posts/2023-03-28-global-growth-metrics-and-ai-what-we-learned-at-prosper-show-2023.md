@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Global growth, metrics and AI: What we learned at Prosper Show 2023"
-author: e-Comas team
+author: Jérôme de Guigné
 date: 2023-03-28T13:19:04.608Z
 excerpt: >
   Here's an e-Comas round-up of our biggest learnings Prosper Show 2023, the
