@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Global growth, metrics and AI: What we learned at Prosper Show 2023"
-author: e-Comas team
+author: Jérôme de Guigné
 date: 2023-03-28T13:19:04.608Z
 excerpt: >
   Here's an e-Comas round-up of our biggest learnings Prosper Show 2023, the
@@ -21,6 +21,7 @@ We don't like keeping secrets, so here's an e-Comas round-up of our biggest lear
 ### Metrics for the long term
 
 We loved the opening keynote from Cody Griffin of Dr Squatch, talking about the value of TACOS compared to CPA vs Customer LTV.
+
 CPA (cost per acquisition) vs LTV (lifetime value) gives you a big-picture metric of how effective your ads are in the long term, in contrast to TACOS, which only measures a one-time transaction and fails to give you the bigger picture of that customer.
 
 ### Global expansion
