@@ -31,6 +31,8 @@ They chatted like old friends about how to scale your business and grow for the 
 
 The key takeaway was start with logistics, making sure your products can be made available. Then content - localised when going global - and only then move into advertising. Yes, without successful advertising it’ll be difficult to achieve. But without a proper supply chain and great content to engage your customers, your advertising money will be wasted.
 
+![](/images/uploads/untitled-design-19-.png)
+
 ### AI use
 
 ChatGPT was a hot topic of the show, as sellers discussed its use for generating listings content as well as aggregating feedback from customers. Some tools like [Salsify](https://www.salsify.com/press-release-generative-ai-product-content-creation) have announced their platform has integrated with OpenAI to help create product content, for instance.
