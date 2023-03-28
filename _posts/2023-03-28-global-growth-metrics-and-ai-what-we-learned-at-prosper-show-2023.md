@@ -21,6 +21,7 @@ We don't like keeping secrets, so here's an e-Comas round-up of our biggest lear
 ### Metrics for the long term
 
 We loved the opening keynote from Cody Griffin of Dr Squatch, talking about the value of TACOS compared to CPA vs Customer LTV.
+
 CPA (cost per acquisition) vs LTV (lifetime value) gives you a big-picture metric of how effective your ads are in the long term, in contrast to TACOS, which only measures a one-time transaction and fails to give you the bigger picture of that customer.
 
 ### Global expansion
