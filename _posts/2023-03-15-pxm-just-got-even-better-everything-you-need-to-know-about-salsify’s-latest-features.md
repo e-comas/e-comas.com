@@ -7,7 +7,7 @@ date: 2023-03-20T17:51:01.666Z
 excerpt: >
   Here's a round-up of the best new features from PXM specialist Salsify,
   designed to help clients syndicate their content more easily and efficiently
-thumbnail: /images/uploads/salsify-logo-768x299.png
+thumbnail: /images/uploads/untitled-design-27-.png
 thumbnail_alt: Salsify logo
 tags:
   - Content
