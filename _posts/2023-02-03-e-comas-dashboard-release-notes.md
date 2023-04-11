@@ -9,14 +9,11 @@ thumbnail_alt: Everything is in the clouds. Isn't it?
 tags:
   - Dashboard
 ---
-# **/seller R﻿elease Notes  (Feb 3 '23) V1.4** 
+# **/seller R﻿elease Notes (Apr 11 '23) V1.6**
 
-1. R﻿emoved SKU column from Sales/DeepDive ASIN table due to innacuracies 
-2. I﻿mproved accuracy of Inventory section 
-3. R﻿edesigned visualizations across the reports
-4. F﻿ixed bug of data being limited to only 2022 in the Overview main table
-
-
+1. F﻿ixed various data innacuracies
+2. R﻿e-designed the best seller table in Sales->Deep-Dive to overcome memory limitations
+3. S﻿olidifyed the backend coding to limit future outages
 
 # **/seller R﻿elease Notes (Mar 3 '23) V1.5**
 
@@ -30,3 +27,12 @@ tags:
 
 1. T﻿ACOS KPI bug fixed
 2. V﻿arious data innacuracies fixed
+
+
+
+# **/seller R﻿elease Notes  (Feb 3 '23) V1.4**
+
+1. R﻿emoved SKU column from Sales/DeepDive ASIN table due to innacuracies 
+2. I﻿mproved accuracy of Inventory section 
+3. R﻿edesigned visualizations across the reports
+4. F﻿ixed bug of data being limited to only 2022 in the Overview main table
