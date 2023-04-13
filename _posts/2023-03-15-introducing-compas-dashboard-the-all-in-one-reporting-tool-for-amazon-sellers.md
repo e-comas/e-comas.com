@@ -50,7 +50,7 @@ One of the biggest benefits of using Compas Dashboard is the time and effort it 
 
 Compas Dashboard is easy to use and accessible from anywhere, on desktop, tablet, or smartphone.
 
-e-Comas's Claudiu Clement says: “As an Amazon seller, you have a lot of different aspects to manage in your business. From product information, sales, and advertising, to shipping, customer service, and more.
+e-Comas's Senior Consultant Claudiu Clement says: “As an Amazon seller, you have a lot of different aspects to manage in your business. From product information, sales, and advertising, to shipping, customer service, and more.
 
 “On top of it you might sell on other channels as well, or have other Ads platforms, like Google Ads, Linkedin Ads, TikTok Ads. It can be challenging to keep track of everything and make informed decisions based on the data you have.
 
