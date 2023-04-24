@@ -2,7 +2,7 @@
 layout: blog
 title: "Amazon Attribution: how advertising off-Amazon helps your keyword ranking"
 author: " Jérôme de Guigné"
-date: 2023-03-27T12:26:45.486Z
+date: 2023-04-24T12:26:45.486Z
 excerpt: There has never been a better time to advertise your Amazon listings
   OFF Amazon. Here’s the e-Comas guide to boosting your sales while saving on ad
   spend, using Amazon Attribution.
