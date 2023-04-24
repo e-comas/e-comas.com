@@ -20,7 +20,7 @@ e-Comas is delighted to launch our brand new all-in-one reporting tool for Amazo
 
 Compas Dashboard allows sellers to manage all their operations in one place: their retail channels, product information, sales, advertising, shipping, customer service, and more.
 
-![Compas dashboard in action](/images/uploads/screenshot-2023-02-03-at-11.48.07-am-small.jpg)
+![Compas dashboard in action](/images/uploads/untitled-design-34-.png)
 
 ### What is Compas Dashboard?
 
