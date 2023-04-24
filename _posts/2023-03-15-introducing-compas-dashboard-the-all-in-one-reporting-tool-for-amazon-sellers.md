@@ -2,7 +2,7 @@
 layout: blog
 title: Introducing Compas Dashboard - The All-In-One Reporting Tool for Amazon Sellers
 author: Jérôme de Guigné
-date: 2023-03-28T14:40:38.736Z
+date: 2023-04-25T14:40:38.736Z
 excerpt: >+
   e-Comas announces brand new all-in-one reporting tool for Amazon sellers,
   Compas Dashboard, which allows sellers to manage all their operations in one
