@@ -19,7 +19,7 @@ Amazon is addressing sellers' upstream distribution problems, by opening its own
 
 Separate from its fulfilment centres, the new Amazon Warehousing & Distribution (AWD) service will be available to sellers on a pay-as-you-go basis, with lower fees and automated replenishment.
 
-![](/images/uploads/andrew-stickelman-4zsqhtix8h8-unsplash-tiny.jpg)
+![](/images/uploads/untitled-design-39-.png)
 
 *Photo by [Andrew Stickelman](https://unsplash.com/@astickelman93?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/4zSqHtIx8H8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
