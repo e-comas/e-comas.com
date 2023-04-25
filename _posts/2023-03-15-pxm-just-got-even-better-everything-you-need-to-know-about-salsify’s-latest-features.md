@@ -107,6 +107,6 @@ The second is syndicating those listings to the different endpoints: Amazon, Wal
 
 e-Comas works closely with Salsify to ensure our clients' content is centralised and highly consistent. We help brands get set up on Salsify, coach them in using it and manage their PXM.
 
-##### [F﻿ind out how e-Comas and Salsify can help you!](e-comas.com/contact.html)
+[Find out how e-Comas and Salsify can help you!](https://e-comas.com/contact.html)
 
 <!--EndFragment-->
