@@ -19,7 +19,7 @@ Advertising ON the eCommerce behemoth is the most competitive it's ever been. An
 
 Here’s the e-Comas guide to boosting your sales while saving on ad spend, using Amazon Attribution.
 
-![Photo of phone icons including Facebook](/images/uploads/brett-jordan-eefrxcpixna-unsplash.jpg "Photo by Brett Jordan on Unsplash")
+![Photo of phone icons including Facebook](/images/uploads/untitled-design-40-.png "Photo by Brett Jordan on Unsplash")
 
 *Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/EefRxCpIxnA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
