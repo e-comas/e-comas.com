@@ -9,6 +9,6 @@ excerpt: A holistic approach is crucial for measuring the effectiveness of your
 thumbnail: /images/uploads/genericwebinar-6thoct-ig-1080x1080.jpg
 thumbnail_alt: Don't miss our next webinar
 tags:
-  - "#Webinar"
+  - Webinar
 ---
 <iframe src="https://us02web.zoom.us/webinar/register/WN_DqLx-pQmTGS__wweH66wmQ#/registration" width="680" height="1150"></iframe>
