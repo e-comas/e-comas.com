@@ -21,7 +21,7 @@ Prime Day is well worth investing in. Outside Q4 it's the biggest shopping event
 
 As well as sales, it's also an opportunity to drive traffic, awareness and reviews. We've seen many clients generate massive successes with Prime Day, and we believe it should be a core part of your marketing strategy on Amazon.
 
-We've put together an advertising strategy you can use as a guide to maximise the time around the event, as well as the event itself.
+Our team at [e-Comas](https://e-comas.com/) have put together an advertising strategy you can use as a guide to maximise the time around the event, as well as the event itself.
 
 ![Prime Day logo](/images/uploads/prime-day.png "Prime Day logo")
 
@@ -66,8 +66,6 @@ On Prime Day there’s so much traffic, it’s difficult to gauge how much budge
 It's best to use software to continuously monitor your bids. Automation tools allow you to adjust your bids automatically, increasing them or increasing your budget if it starts to run out.
 
 We like [Pacvue's solution](https://www.pacvue.com/solutions/pacvue-platform) for automatic bids.
-
-
 
 #### For more help on maximising your Prime Day strategy, [get in touch with us today](https://e-comas.com/contact.html)!
 
