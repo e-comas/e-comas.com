@@ -2,7 +2,7 @@
 layout: blog
 title: "Get legit reviews for new products: How to join the Amazon Vine Program"
 author: " Jérôme de Guigné"
-date: 2023-06-12T11:14:06.232Z
+date: 2023-06-12T08:14:06.232Z
 excerpt: For your traffic to convert on Amazon, you need reviews of your
   products - but how can you get them? The Amazon Vine Program might have the
   answer...
