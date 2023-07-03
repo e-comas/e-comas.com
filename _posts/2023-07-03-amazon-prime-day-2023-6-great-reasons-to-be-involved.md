@@ -69,7 +69,7 @@ Last year, a third of all items bought on Prime Day were bought from small busin
 
 Amazon was particularly focused on this in its [press coverage](https://press.aboutamazon.com/news-releases/news-release-details/prime-day-2022-was-biggest-prime-day-event-ever/) of the event, and puts a lot of [focus on small businesses](https://www.aboutamazon.com/news/small-business/amazon-supports-small-business-week-2023) generally – after all, it's good for Amazon's public image to be seen as a platform for family companies and indie makers.
 
-This year it's particularly promoting Black-owned, women-owned, and military family-owned brands, as well as independent artisans, using amazon.com/primedaysmallbusiness.
+This year it's particularly promoting Black-owned, women-owned, and military family-owned brands, as well as independent artisans, using [amazon.com/primedaysmallbusiness](amazon.com/primedaysmallbusiness).
 
 ### Reason 6: Household items are on the rise
 
