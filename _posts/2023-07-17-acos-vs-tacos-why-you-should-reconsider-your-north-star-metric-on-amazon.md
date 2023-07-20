@@ -6,7 +6,7 @@ date: 2023-07-17T09:43:28.731Z
 excerpt: ACoS has long been one of the most popular Amazon sales metrics - but
   it might not be showing you the full story. Here's why you should consider
   Total Advertising Cost of Sales (TACoS) instead
-thumbnail: /images/uploads/north-star.jpg
+thumbnail: /images/uploads/untitled-design-54-.png
 thumbnail_alt: "North Star "
 tags:
   - Advertising
@@ -15,7 +15,7 @@ tags:
 
 Are you using Advertising Cost of Sales (ACoS) as your North Star Metric?
 
-![North Star]( "North Star")
+![North Star](/images/uploads/untitled-design-54-.png "North Star")
 
 ACoS has long been one of the most popular Amazon sales metrics: a powerful gauge of how well your ads are performing, clearly showing ROI.
 
