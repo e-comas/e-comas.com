@@ -15,7 +15,7 @@ tags:
 
 Are you using Advertising Cost of Sales (ACoS) as your North Star Metric?
 
-![North Star](/images/uploads/north-star-small.png "North Star")
+![North Star]( "North Star")
 
 ACoS has long been one of the most popular Amazon sales metrics: a powerful gauge of how well your ads are performing, clearly showing ROI.
 
