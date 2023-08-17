@@ -5,7 +5,7 @@ author: Jess Chapman
 date: 2023-08-21T16:39:06.586Z
 excerpt: Jérôme de Guigné, founder and CEO of eCommerce agency e-Comas, is now a
   member of the Advisory Council for the Prosper Show
-thumbnail: /images/uploads/jérôme-de-guigné-headshot-smaller.jpg
+thumbnail: /images/uploads/j-for-zoom.png
 thumbnail_alt: Jerome de Guigne
 tags:
   - Strategy
@@ -15,7 +15,7 @@ tags:
 
 Jérôme de Guigné, founder and CEO of eCommerce agency e-Comas, is now a member of the Advisory Council for the Prosper Show. 
 
-![Jerome de Guigne](/images/uploads/jérôme-de-guigné-headshot-smaller.jpg "Jerome de Guigne")
+![Jerome de Guigne](/images/uploads/untitled-design-57-.png "Jerome de Guigne")
 
 Prosper is a major US-based trade show for eCommerce sellers. Jérôme will be bringing his European perspective and global expansion expertise to the Advisory Council, which helps Prosper to enhance exhibitor and attendee engagement, satisfaction, and overall experience. 
 
