@@ -3,7 +3,7 @@ layout: blog
 title: "Boost your business on Amazon during the Golden Quarter: Planning for Q4
   2023 (and the second Prime Day!)"
 author: Jérôme de Guigné
-date: 2023-08-22T16:04:57.483Z
+date: 2023-08-27T16:04:57.483Z
 excerpt: Christmas is around the corner, and with it Black Friday, Cyber Monday
   and the second Prime Day. Here's e-Comas's annual guide to planning your
   Amazon campaigns for Q4 2023
