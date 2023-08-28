@@ -7,7 +7,7 @@ date: 2023-08-27T16:04:57.483Z
 excerpt: Christmas is around the corner, and with it Black Friday, Cyber Monday
   and the second Prime Day. Here's e-Comas's annual guide to planning your
   Amazon campaigns for Q4 2023
-thumbnail: /images/uploads/present.jpeg
+thumbnail: /images/uploads/untitled-design-59-.png
 thumbnail_alt: Amazon package in Christmas paper
 tags:
   - Strategy
@@ -21,7 +21,7 @@ It's not just Christmas and other big holidays you need to plan for, but timing 
 
 And for the second time, Amazon is once again running a bonus autumn Prime Day, which is well worth taking advantage of.
 
-![Prime Big Deal Days](/images/uploads/1691499608292.jpg "Prime Big Deal Days")
+![Prime Big Deal Days](/images/uploads/untitled-design-60-.png "Prime Big Deal Days")
 
 Here's the e-Comas annual guide to planning for Q4 2023.
 
@@ -99,7 +99,8 @@ Did you know Amazon now offers a 3PL warehousing and distribution service for lo
 
 It's currently only available in the US, but that includes sellers outside the US who sell their products on Amazon.com. [More info here.](https://e-comas.com/2023/03/22/long-term-low-cost-and-easy-to-control-what-you-need-to-know-about-amazon-s-new-3pl-distribution-service.html)
 
-##### **\
-Want more guidance on how to make the most of your Amazon presence this holiday? [Talk to us!](https://e-comas.com/contact.html)**
+##### \*\*\
+
+Want more guidance on how to make the most of your Amazon presence this holiday? [Talk to us!](https://e-comas.com/contact.html)\*\*
 
 <!--EndFragment-->
