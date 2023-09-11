@@ -7,8 +7,8 @@ excerpt: "Whether you want to handle the fulfilment in-house or work with a
   third-party logistics provider (3PL), this beginner's guide from our partners
   Packshack will help you understand the process and optimise it for your
   business. "
-thumbnail: /images/uploads/1.png
-thumbnail_alt: hold image
+thumbnail: /images/uploads/untitled-design-64-.png
+thumbnail_alt: Packaging
 ---
 <!--StartFragment-->
 
@@ -17,6 +17,8 @@ As an eCommerce seller, a smooth and efficient order fulfilment process is cruci
 This beginner's guide will take you through the fundamental steps in order fulfilment. Whether you want to handle the fulfilment in-house or work with a third-party logistics provider (3PL), the following chapters will help you understand the process and optimise it for your business. 
 
 ### Picking: Selecting the Items 
+
+![](/images/uploads/untitled-design-65-.png)
 
 The first step in the order fulfilment process is locating and selecting all the items that the customer has ordered from you. This step may seem simple at first glance, but it’s important to have an organised inventory management system and efficient picking processes in place: 
 
@@ -38,6 +40,8 @@ Use a real-time inventory management system or – when you already have a bigge
 
 ### Packing – Preparing the Goods for Transport 
 
+![](/images/uploads/untitled-design-67-.png)
+
 Once the right items are selected, the next step is to pack them securely to prevent damage during shipping. However, efficient packaging not only protects your products, but should also contribute to a positive unpacking experience for your customers and transport your brand’s essence. 
 
 **Appropriate Packaging Materials** 
@@ -57,6 +61,8 @@ Optimise your packaging process for efficiency. Standardise the packing steps to
 Include all necessary documentation, such as invoices or delivery notes, as well as promotional inserts or thank you letters. This can encourage customer loyalty and provide important information to the buyer. Many brands also use inserts to promote their customer programme or to participate in cross-promotions with other brands. You can also simplify the return process for your customers by enclosing a return slip. 
 
 ### Shipping – Choosing the Right Shipping Method 
+
+![](/images/uploads/untitled-design-66-.png)
 
 After picking and packing, the final step is to ship the package to the customer's address. Choosing the right shipping methods is crucial, as they will affect delivery times, costs and customer satisfaction. 
 
@@ -95,5 +101,7 @@ Need help streamlining your fulfilment operations? Reach out to [Packshack](http
 ### About Packshack
 
 Packshack provides multi-channel fulfilment for global eCommerce brands that require D2C, FBM, B2B or FBA fulfilment with lower overheads and quick set-up. Their growing, technology-led fulfilment network includes over a dozen warehouses in strategic locations, such as the UK, the Netherlands, Germany, and the United States.
+
+![](/images/uploads/untitled-design-68-.png)
 
 <!--EndFragment-->
