@@ -1,12 +1,11 @@
 ---
 layout: blog
 title: "Pick, Pack & Ship: A Beginner’s Guide to Fulfilment "
-author: Kristina Mertens​, Packshack
+author: Kristina Mertens​
 date: 2023-09-11T08:30:55.645Z
 excerpt: "Whether you want to handle the fulfilment in-house or work with a
-  third-party logistics provider (3PL), this beginner's guide from our partners
-  Packshack will help you understand the process and optimise it for your
-  business. "
+  third-party logistics provider (3PL), this beginner's guide will help you
+  understand the process and optimise it for your business. "
 thumbnail: /images/uploads/untitled-design-64-.png
 thumbnail_alt: Packaging
 ---
@@ -36,7 +35,7 @@ It’s crucial to sooner than later implement a barcode scanning technology to i
 
 **Software Usage** 
 
-Use a real-time inventory management system or – when you already have a bigger operation – a [warehouse management system](https://packshack.com/service/fulfilment-software/). This ensures that you always know the exact quantity of each item in stock to avoid overselling and reordering. You can also use the software to create stock forecasts. 
+Use a real-time inventory management system or – when you already have a bigger operation – a warehouse management system. This ensures that you always know the exact quantity of each item in stock to avoid overselling and reordering. You can also use the software to create stock forecasts. 
 
 ### Packing – Preparing the Goods for Transport 
 
@@ -84,7 +83,7 @@ Work with reliable shipping service providers who have a track record of on-time
 
 ### Handling Your Own Fulfilment vs. Using A 3PL 
 
-Sooner or later, eCommerce merchants are faced with the decision of whether to handle order processing (fulfilment) internally or to use the services of a [professional fulfilment service provider](https://www.packshack.com/). Both approaches have their pros and cons, but above a certain size and complexity of your business, working with an expert can make all the difference. 
+Sooner or later, eCommerce merchants are faced with the decision of whether to handle order processing (fulfilment) internally or to use the services of a professional fulfilment service provider. Both approaches have their pros and cons, but above a certain size and complexity of your business, working with an expert can make all the difference. 
 
 In-house fulfilment allows companies to design the entire process their way and retain control over storage, picking and shipping. They can react more quickly to special customer requests or subsequent changes to orders. However, companies with their own fulfilment often run into scaling problems quite quickly as the business grows. Warehouse space, staff and processes need to be adjusted accordingly to maintain flexibility and professionalism at the same level, which requires additional investment. 
 
@@ -96,12 +95,6 @@ And although the costs for the service provider may be higher initially, they ar
 
 Mastering the picking, packing and shipping process is critical to the success of any eCommerce business. A well-executed fulfilment process increases customer satisfaction, reduces errors and helps build a positive brand image. By maintaining a well-organised inventory, efficient packing processes and a variety of attractive shipping options, you can ensure that your customers receive their orders accurately and quickly. As you grow, continually optimising these processes is key to scaling your business while maintaining high customer service standards. 
 
-Need help streamlining your fulfilment operations? Reach out to [Packshack](https://packshack.com/)!
-
-### About Packshack
-
-Packshack provides multi-channel fulfilment for global eCommerce brands that require D2C, FBM, B2B or FBA fulfilment with lower overheads and quick set-up. Their growing, technology-led fulfilment network includes over a dozen warehouses in strategic locations, such as the UK, the Netherlands, Germany, and the United States.
-
-![](/images/uploads/untitled-design-68-.png)
+![]()
 
 <!--EndFragment-->
