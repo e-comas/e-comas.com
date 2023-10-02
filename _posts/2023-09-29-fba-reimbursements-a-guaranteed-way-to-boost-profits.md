@@ -27,7 +27,9 @@ For example, if your inventory is lost during [shipment](https://getida.com/reso
 
 It is also possible that Amazon has overcharged you for the shipping or packing of one of your products. This can be due to inaccurate records of the dimensions or weight of that particular product. Be sure to have the accurate measurements for your products on hand when you file your claim. Keep in mind that discrepancies related to product dimensions must be reported within 90 days. This makes it particularly important to monitor your account records diligently. 
 
-### ![](https://lh4.googleusercontent.com/DgvKD_AUUaX_RlznvO-J55jqfXC8lu5AygmpLUVHwr2qnbB4s3DgVRdHe59sXW_xQ8Y5aoKj-mxn9lgRGSzMnLDHP5Pw6I0nPBFc1XG4qYuW8wrUJcpb2q2w03YsMAXYJm6jaCJYlKd65bmfdNrL9Gg)2. How much do discrepancies affect your business?
+![](/images/uploads/untitled-design-81-.png)
+
+### 2. How much do discrepancies affect your business?
 
 You might be asking yourself if the hassle of filing for FBA refunds is worth it for you and your business. On average, an Amazon seller’s discrepancy rate is 1% to 3%, translating to a problem with 1 to 3 products out of 100. This is an impressively low rate that speaks to the quality of Amazon’s logistics, however, even this gigantic platform makes errors that can hurt your business.
 
@@ -59,7 +61,7 @@ Getida only charges you a recovery fee for refunds they successfully obtain, so 
 
 Signing up with Getida only takes a few minutes, and provides you with immediate access to a free dashboard where you can generate an estimate of your potential refund. If you decide to proceed with the recovery process, you can upgrade your account to get your money back.
 
-![](https://lh5.googleusercontent.com/8kb7vfyQwsek5nb7EbBQya18Ghz80RtrkMt7DHrknkzdlUzDInCFwjkd1_Bo_sVbQ1qqltqlDWInOIcqPIDv6XVr1sSYCxDMsjlb1vgkGJxwW20zPxoEj8hR3hO2SyAa9kQI5_jT_YiCaDdAXnz4IGk)
+![](/images/uploads/untitled-design-82-.png)
 
 ### Going forward and getting your FBA refund
 
