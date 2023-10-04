@@ -17,3 +17,5 @@ Join us as Ellie Hanson from AVASK gives us a high-level overview of legislative
 
 
 We’ll cover some of the key legislation for Amazon Sellers, and what you need to keep in mind when growing your brand; including the latest Plastic Packing Taxations and Extended Producer Responsibility legislation, rolling out across the UK and EU.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRpHqZ6O_eE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
