@@ -4,8 +4,8 @@ title: How To Use Tech to Simplify PIM-Related Tasks
 author: The e-Comas team
 date: 2023-04-26T16:00:45.462Z
 excerpt: "Watch our ‘secrets of brands’ webinar as Lorena Gonzalez from Mattel talks about how the multinational toy manufacturer leverages technology to simplify its PIM-related tasks."
-thumbnail: /images/uploads/SubstarWebinar-18thApril-LI-1200x1200.jpg
-thumbnail_alt: Our next webinar
+thumbnail: /images/uploads/SMattelWebinar-15thMarch-LI-1200x1200.jpg
+thumbnail_alt: Mattel webinar
 tags:
   - Webinar
 ---
