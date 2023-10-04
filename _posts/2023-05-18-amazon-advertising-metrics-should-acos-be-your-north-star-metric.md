@@ -6,9 +6,10 @@ date: 2023-06-06T00:43:00.000Z
 excerpt: A holistic approach is crucial for measuring the effectiveness of your
   Amazon advertising campaigns. Join us for our next webinar with Amazon Ads as
   Nella Argenziano, Head of Advertising at e-Comas, explains why.
-thumbnail: /images/uploads/genericwebinar-6thoct-ig-1080x1080.jpg
+thumbnail: /images/uploads/WebinarACos-24thMay-LI-1200x1200.jpg
 thumbnail_alt: Don't miss our next webinar
 tags:
   - Webinar
 ---
-<iframe src="https://us02web.zoom.us/webinar/register/WN_DqLx-pQmTGS__wweH66wmQ#/registration" width="680" height="1150"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ufQky1NoVGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

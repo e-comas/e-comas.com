@@ -1,14 +1,13 @@
 ---
 layout: blog
-title: How to Grow Online and Offline Sales With Amazon Ads
+title: How To Use Tech to Simplify PIM-Related Tasks
 author: The e-Comas team
 date: 2023-04-26T16:00:45.462Z
-excerpt: "Join us for our ‘secrets of brands’ webinar as , Lidia Santos from
-  Sunstar talks us through how their oral care brand GUM grows online AND
-  offline sales with Amazon advertising. "
-thumbnail: /images/uploads/genericwebinar-6thoct-fb-1200x1200-1-.jpg
+excerpt: "Watch our ‘secrets of brands’ webinar as Lorena Gonzalez from Mattel talks about how the multinational toy manufacturer leverages technology to simplify its PIM-related tasks."
+thumbnail: /images/uploads/SubstarWebinar-18thApril-LI-1200x1200.jpg
 thumbnail_alt: Our next webinar
 tags:
   - Webinar
 ---
-<iframe src="https://us02web.zoom.us/webinar/register/WN_t8gK4CgRRZmZbUXj68rejA#/registration" width="680" height="1150"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56uWJMOmf1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
