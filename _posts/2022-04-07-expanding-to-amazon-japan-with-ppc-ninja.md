@@ -18,7 +18,7 @@ Join us as Ritu Java from [PPC Ninja](https://www.ppcninja.com/) discusses some 
 
 **WHEN: Thursday 7th April, 5pm CET**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3IXasA8hTXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3IXasA8hTXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <!--EndFragment-->

@@ -13,6 +13,6 @@ tags:
 
 Join us as Alexandra Robson and Melanie Shabangu from AVASK gives us an update on the latest legislation affecting Amazon businesses. We’ll cover some of the key policies and VAT rules for Amazon Sellers to keep your brand compliant, including the latest on Extended Producer Responsibility (EPR) and One-Stop Shop (OSS) in Europe and Customs. Plus, available pilot programs offered by AVASK to Amazon Selling Partners and how you can benefit from these.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aspBnDveHEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aspBnDveHEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!--EndFragment-->

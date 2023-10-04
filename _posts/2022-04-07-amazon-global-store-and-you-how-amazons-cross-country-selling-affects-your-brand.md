@@ -45,4 +45,4 @@ More than ever, Global Store makes having a worldwide pricing strategy inevitabl
 ### Watch our video about this from CEO Jérôme de Guigné:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gemRIwtkIfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gemRIwtkIfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
