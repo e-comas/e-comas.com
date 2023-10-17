@@ -14,6 +14,10 @@ tags:
 
 Did you know that, as a Seller or Vendor, Amazon is likely to owe you money – money that you could be claiming back?
 
+![Money in hands](/images/uploads/closeup-female-hands-counting-euro-banknotes-world-money-inflation-economy-concept.jpg "Money in hands")
+
+*Image by wirestock on Freepik*
+
 Up to 3% of your Amazon stock gets lost, damaged, destroyed or disposed of – and many sellers don't even know they can claim reimbursements for that stock.
 
 There are dozens of different types of Amazon overbillings and deductions that you could be recouping.
@@ -22,7 +26,7 @@ The snag is that the processes for recouping lost revenue on Amazon are complex 
 
 But don't stress: e-Comas and our specialist partners can help you through the process. Read on to find out how!
 
-How does Amazon revenue get lost?
+### How does Amazon revenue get lost?
 
 As mentioned, quite a chunk of Amazon's billions of dollars worth of FBA stock, in thousands of warehouses all over the world, goes missing or gets destroyed.
 
@@ -33,8 +37,6 @@ Think: you’ve borne the cost of producing the item, it’s been lost or destro
 What's 3% of your annual revenue? Thousands – and you could get it all back. Amazon will reimburse you the retail price of each item that goes missing (minus fees).
 
 Amazon gives you 18 months to make most claims (but only 90 days for some types of claim). That means, if you were to audit your account for potential reimbursements today, you’d probably see a large chunk of cash dating back over a year - but if you don’t claim it, it’s lost forever. 
-
-
 
 What kind of charges can you recoup?
 
@@ -48,8 +50,6 @@ There are lots of types of claim you can make. Here are a few reasons to claim:
 * The seller was billed more than the initial order amount
 * The seller was wrongfully charged for weight or dimension of inventory
 * The carrier lost, damaged or destroyed the product during shipping.
-
-
 
 How our service works
 
