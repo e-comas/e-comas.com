@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: How eComas is becoming the most data driven agency in the world
+title: How e-Comas is becoming the most data driven agency in the world
 author: Jess Chapman
 date: 2023-10-17T12:42:23.082Z
 excerpt: Data is the key to modern business success. That's why, with
