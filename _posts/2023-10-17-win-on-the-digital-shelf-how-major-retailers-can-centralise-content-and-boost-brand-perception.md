@@ -22,9 +22,7 @@ For a major brand like Bollé, with between 200-250 SKUs and a dozen digital cat
 
 Bollé chose Salsify, the leading Product Experience Management (PXM) software, to accomplish this, and e-Comas as its implementation partner to bring the technology fully to life.
 
-
-
-The challenge
+### The challenge
 
 Bollé was established in 1888, a French pioneer of molded nylon products. Its sunglasses and sportswear became famous all over the world, and today Bollé has particular strength in the specialty markets of snow sports, water sports, golf, tennis, cycling and outdoor.
 
@@ -40,9 +38,7 @@ The Bollé team looked for unique technology that could:
 
 Bollé chose Salsify on the strength of its powerful offering to “win on the digital shelf”, and worked with e-Comas, a global eCommerce agency and official Salsify Solution Partner, to implement it company-wide.
 
-
-
-Rising to the challenge
+### Rising to the challenge
 
 e-Comas worked closely with Bollé to set the team up with Salsify and ensure seamless integration with all endpoints, including Amazon and Bollé’s own website.
 
@@ -61,9 +57,7 @@ The Salsify specialists within e-Comas were able to:
 2. US Amazon Buy Box & Availability Report
 3. US Amazon Map Violation Report.
 
-
-
-And the result was...
+### And the result was...
 
 As a result of implementing Salsify with e-Comas’ help, Bollé's time-to-market was improved from the very first day, from weeks to a matter of days.
 
@@ -81,9 +75,6 @@ It's a perfect example of how big brands can utilise powerful PXM software like 
 
  This project also shows the benefit of having a trusted expert partner like e-Comas to walk the team through implementation, and configure the software so that your content meets the needs of every marketplace for optimised product experiences and increased conversion.
 
-\
-Want to know more about how we work with Salsify? [Read more](https://e-comas.com/2022/10/31/salsify-made-simple-how-our-favourite-pxm-software-syndicates-your-content.html) or [contact us](https://e-comas.com/contact.html) today!
-
-
+##### Want to know more about how we work with Salsify? [Read more](https://e-comas.com/2022/10/31/salsify-made-simple-how-our-favourite-pxm-software-syndicates-your-content.html) or [contact us](https://e-comas.com/contact.html) today!
 
 <!--EndFragment-->
