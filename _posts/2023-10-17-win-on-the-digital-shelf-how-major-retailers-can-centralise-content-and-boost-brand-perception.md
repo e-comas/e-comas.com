@@ -84,9 +84,11 @@ Bollé says: “The main goal of the project was to ensure we can serve Amazon a
 
 “The quality, time efficiency, and external and internal requests of training factors speak for themselves.”
 
-It's a perfect example of how big brands can utilise powerful PXM software like Salsify to optimise their product content and boost their brand presence across multiple marketplaces, and therefore win on the digital shelf.
+It's a perfect example of how big brands can utilise powerful PXM software like Salsify to optimise their product content and boost their brand presence across multiple marketplaces and other channels like DTC websites, and therefore win on the digital shelf.
 
- This project also shows the benefit of having a trusted expert partner like e-Comas to walk the team through implementation, and configure the software so that your content meets the needs of every marketplace for optimised product experiences and increased conversion.
+This project also shows the benefit of having a trusted expert partner like e-Comas to walk the team through implementation, and configure the software so that your content meets the needs of every marketplace for optimised product experiences and increased conversion.
+
+Taye Mohler, VP of Partners & Alliances at Salsify acknowledges that “e-Comas and Salsify have successfully accomplished multiple joint customer projects like the PXM deployment at Bollé. e-Comas is a true expert, helping brands maximise their brand potential on Amazon and other online marketplaces. We are excited to build on our success stories to continue to grow our partnership".
 
 ##### Want to know more about how we work with Salsify? [Read more](https://e-comas.com/2022/10/31/salsify-made-simple-how-our-favourite-pxm-software-syndicates-your-content.html) or [contact us](https://e-comas.com/contact.html) today!
 
