@@ -26,7 +26,9 @@ Bollé chose Salsify, the leading Product Experience Management (PXM) software, 
 
 Bollé was established in 1888, a French pioneer of molded nylon products. Its sunglasses and sportswear became famous all over the world, and today Bollé has particular strength in the specialty markets of snow sports, water sports, golf, tennis, cycling and outdoor.
 
-![](/images/uploads/untitled-design-90-.png)
+![](/images/uploads/untitled-design-90-.png "Image Source: Bolle.com")
+
+*Image Source: Bolle.com*
 
 Before Salsify, Bollé was using diverse solutions – an ERP system for its Product Information Management (PIM), the cloud for its Digital Asset Management (DAM), and OneDrive for content sharing. The system was unwieldy and complicated: it wasn't centralised, so consistency was very difficult to maintain, and involved numerous personnel.
 
@@ -38,7 +40,18 @@ The Bollé team looked for unique technology that could:
 
 Bollé chose Salsify on the strength of its powerful offering to “win on the digital shelf”, and worked with e-Comas, a global eCommerce agency and official Salsify Solution Partner, to implement it company-wide.
 
-### Rising to the challenge
+### Why Salsify was a game-changer
+
+Salsify’s unified PXM solution is unique in the industry, enabling brands, retailers and distributors to optimise the product experience for their eCommerce teams and shoppers. Salsify’s capabilities that changed Bollé’s way of working include:
+
+* The centralisation of product content in one single, user-friendly platform
+* The connection to various sales channels (like the Amazon Marketplace and their DTC site) while complying to channel-specific requirements, making product content delivery quick and accurate on the digital shelf 
+* The validation of product content to ensure the data is accurate and complete
+* The process automation saving time and money and preventing errors.
+
+Salsify served Bollé as the centralised and intuitive solution for managing product data that helped them leave their previous hassles from disparate solutions behind them. By offering more than a traditional PIM system and going beyond the organisation of product information and accuracy validation of the latter.
+
+### Rising to the challenge: How e-Comas maximised the platform’s value
 
 e-Comas worked closely with Bollé to set the team up with Salsify and ensure seamless integration with all endpoints, including Amazon and Bollé’s own website.
 
