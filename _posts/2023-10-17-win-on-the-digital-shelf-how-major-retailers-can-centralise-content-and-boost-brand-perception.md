@@ -26,7 +26,7 @@ Bollé chose Salsify, the leading Product Experience Management (PXM) software, 
 
 Bollé was established in 1888, a French pioneer of molded nylon products. Its sunglasses and sportswear became famous all over the world, and today Bollé has particular strength in the specialty markets of snow sports, water sports, golf, tennis, cycling and outdoor.
 
-![](https://lh3.googleusercontent.com/BiwXtT_WCaA7na-G_WuW8ZoXRKDW9VDbXbAEEA2udkGRpPauyNlnMb_GGgZnNFfvAyWTunPvSouelpN4lwj5QRAW29DKF5e3lNUP0-3J-THU5yORbLFTCgmUNKRH8ClHT31wXLpPMs-06QUIPScBTPU)
+![](/images/uploads/untitled-design-90-.png)
 
 Before Salsify, Bollé was using diverse solutions – an ERP system for its Product Information Management (PIM), the cloud for its Digital Asset Management (DAM), and OneDrive for content sharing. The system was unwieldy and complicated: it wasn't centralised, so consistency was very difficult to maintain, and involved numerous personnel.
 
