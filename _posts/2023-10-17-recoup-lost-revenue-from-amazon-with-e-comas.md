@@ -51,7 +51,7 @@ There are lots of types of claim you can make. Here are a few reasons to claim:
 * The seller was wrongfully charged for weight or dimension of inventory
 * The carrier lost, damaged or destroyed the product during shipping.
 
-How our service works
+### How our service works
 
 e-Comas works with several partners that specialise in recouping these lost costs.
 
