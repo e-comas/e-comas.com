@@ -3,7 +3,7 @@ layout: blog
 title: New Ads products, and our very own ambassador… Everything we learned at
   UnBoxed '23
 author: Jess Chapman
-date: 2023-10-31T21:05:20.068Z
+date: 2023-10-31T09:27:18.957Z
 excerpt: >
   We're back from our favourite show of the year, with some fantastic news for
   Amazon sellers... and a bit of personal news we're really proud of. Here's our
