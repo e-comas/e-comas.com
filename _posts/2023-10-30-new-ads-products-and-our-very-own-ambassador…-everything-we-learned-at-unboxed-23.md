@@ -43,6 +43,10 @@ It's effectively the idea of Sponsored Products but as ads on streaming TV. It c
 
 [Ads will also start to appear on Prime Video](https://www.aboutamazon.com/news/entertainment/prime-video-update-announces-limited-ads) in early 2024. 
 
+Nella Argenziano, e-Comas Head of Advertising, says: “TV is still a huge medium of entertainment, with the average US adult spending about two hours a day watching it, and above five billion people owning a TV worldwide. 
+
+“Are we going to ignore the potential of that space and the more relaxed approach of the consumer as opposed to browsing hundreds of apps at once on their mobile phones? We can create meaningful connections with the shoppers through beautiful and memorable videos across multiple platforms.”
+
 **AI will bring images to life**
 
 Amazon also announced it is rolling out a [new AI-powered image generation tool](https://www.youtube.com/watch?v=89OubJGcUx0) to help brands create more engaging ads.
@@ -69,15 +73,19 @@ Amazon announced several new Ads capabilities for improved advertiser outcomes, 
 
 They include:
 
-A new cross-channel Planner to give advertisers more control to understand and define audience reach, across both Amazon and third-party sites
-
-Ability to activate and optimise campaigns based on expanded Amazon Marketing Cloud (AMC) Audiences, conversion events and real-time metrics
-
-New measurement solutions to help advertisers understand which campaigns inspired customers.
+* A new cross-channel Planner to give advertisers more control to understand and define audience reach, across both Amazon and third-party sites
+* Ability to activate and optimise campaigns based on expanded Amazon Marketing Cloud (AMC) Audiences, conversion events and real-time metrics
+* New measurement solutions to help advertisers understand which campaigns inspired customers.
 
 On AMC, Amazon Ads is also making it easier to write queries even if you don't know SQL, lowering the barrier to entry and creating greater efficiencies.
 
 There's greater integration between all the Amazon Ads products (Sponsored Product, Brand, Display, TV, DSP, etc.) within AMC, and the integration of AMC with AWS leveraging huge tech capabilities. This is becoming the biggest competitive advantage of Amazon Ads.
+
+Nella says: “As a big fan of advertising techniques that help increase brand awareness, this edition of Amazon UnBoxed surprised me positively.
+
+“My favourite aspect has been the focus on upper funnel: the ability to inform creatives through prompts opens up many possibilities, including the use of information such as negative reviews to create the thought of positive product experience. How? Take all the negative reviews on competing products and turn them into images that say the opposite. Is the competing perfume bottle too big or weirdly shaped to carry around? Put your perfume bottle in a small handbag to convey the message of easy portability!
+
+“Amazon is truly evolving into this multi-channel, multi-product platform that makes it easy for us Retail Media people to test, explore, measure and succeed.”
 
 Jérôme says: “Amazon is unbeatable on low funnel activation, and it's now step by step mastering all the steps of the funnel making it an unstoppable force in the space. More than ever Amazon is the most efficient place to build your brand – and even more so globally.”
 
