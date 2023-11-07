@@ -57,7 +57,7 @@ Our team are used to handling massive advertising budgets and applying our up-to
 
 ### Zone 3: Data Technology
 
-e-Comas is currently working to become the most data-driven eCommerce agency in the world.
+e-Comas is currently working to become the [most data-driven eCommerce agency in the world](https://e-comas.com/2023/10/17/how-ecomas-is-becoming-the-most-data-driven-agency-in-the-world.html).
 
 The team is undertaking extensive data and analytics training to ensure we can help our clients maximise their selling potential using the wealth of data provided by Amazon and other platforms. We can perform market intelligence insights, advanced forecasting and data strategy for our clients, all communicated clearly and coherently.
 
