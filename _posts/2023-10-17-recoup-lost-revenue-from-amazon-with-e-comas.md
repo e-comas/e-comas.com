@@ -2,7 +2,7 @@
 layout: blog
 title: Recoup lost revenue from Amazon with e-Comas
 author: Pete du Pon
-date: 2023-10-17T12:23:41.060Z
+date: 2023-11-10T13:23:41.060Z
 excerpt: "Did you know that, as a Seller or Vendor, Amazon is likely to owe you
   money? Here's how e-Comas and our partners can help you get it back "
 thumbnail: /images/uploads/closeup-female-hands-counting-euro-banknotes-world-money-inflation-economy-concept.jpg
