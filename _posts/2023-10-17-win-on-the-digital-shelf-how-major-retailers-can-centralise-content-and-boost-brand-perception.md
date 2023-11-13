@@ -18,7 +18,7 @@ As a major brand aiming to provide engaging product experiences to customers, ho
 
 In the fast-moving world of eCommerce, this is still a big challenge for many famous brands: ensuring product information, imagery and pricing are correct and consistent everywhere at once.
 
-For a major brand like Bollé, with between 200-250 SKUs and a dozen digital catalogues, centralising digital product information and optimising content sharing modality is critical to ensuring consistency and brand perception across multiple marketplaces.
+For a major brand like Bollé, with between 6-7k SKUs and 200+ digital catalogues, centralising digital product information and optimising content sharing modality is critical to ensuring consistency and brand perception across multiple marketplaces.
 
 Bollé chose Salsify, the leading Product Experience Management (PXM) software, to accomplish this, and e-Comas as its implementation partner to bring the technology fully to life.
 
