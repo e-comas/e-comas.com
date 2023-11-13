@@ -3,7 +3,7 @@ layout: blog
 title: " Win on the digital shelf: How major retailers can centralise content
   and boost brand perception"
 author: Jess Chapman
-date: 2023-10-17T12:11:25.704Z
+date: 2023-11-14T13:11:25.704Z
 excerpt: As a major brand, how do you serve multiple online marketplaces with
   consistent, high-quality content? Bollé found the answer in Salsify
 thumbnail: /images/uploads/bolle-pic.png
