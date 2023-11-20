@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "# Optimising Your Supply Chain for Amazon: Strategies for Efficient Logistics"
+title: "Optimising Your Supply Chain for Amazon: Strategies for Efficient Logistics"
 author: Tom Wicky, Co-Founder & CEO of MyFBAPrep
 date: 2023-11-20T10:37:17.722Z
 excerpt: Understanding and optimising your supply chain can substantially boost
@@ -62,7 +62,7 @@ You can avoid these limitations and surcharges by:
 
 * **Utilising real-time inventory tracking systems to keep a close eye on stock levels**. This way, you can adjust your inventory based on sales velocity and avoid overstocking. 
 * **Periodically assessing the performance of your product listings**. If certain products are slow to move, consider implementing promotional strategies to increase sales or liquidate them to free up storage space.
-* **Partnering with other fulfillment methods**. Services like [Fulfillment by Merchant](https://myfbaprep.com/blog/amazon-fulfilled-by-merchant/?utm_source=referral&utm_medium=blog&utm_campaign=ecomas) (FBM) or third-party logistics providers diversify storage solutions and keep costs low.
+* **Partnering with other fulfillment methods**. Services like Fulfillment by Merchant (FBM) or third-party logistics providers diversify storage solutions and keep costs low.
 
 ### Strict Shipment Requirements and Penalties
 
