@@ -54,6 +54,8 @@ To help you weather the storm, you can: 
 
 FBA has specific rules about how much inventory sellers can store in its warehouses. If products don’t move quickly, Amazon may impose additional storage fees or even limit the quantity you can send in, which hurts your sales, especially during peak demand periods.
 
+![](/images/uploads/untitled-design-2023-11-20t111933.246.png)
+
 #### Solution
 
 You can avoid these limitations and surcharges by:
@@ -106,6 +108,8 @@ Additionally, schedule regular quality checks, either in-person or via third-par
 
 The packaging you use for your products can have a big impact on their journey from the warehouse to the customer's doorstep. Complying with [Amazon's packaging guidelines](https://www.junglescout.com/blog/amazon-packaging-requirements/) helps ensure faster inbound processing, reduce the risk of product damage, and improve the buyer experience.
 
+![](/images/uploads/untitled-design-2023-11-20t111956.157.png)
+
 Train your team on **Amazon's FBA product preparation guidelines** and schedule periodic reviews to ensure compliance. You should also regularly evaluate your packaging processes to make sure they’re efficient and effective: Over-packaging increases costs and environmental concerns, while under-packaging can lead to product damage. So, it’s important to find a balance between the two.
 
 Use eco-friendly, minimalist packaging that still provides adequate protection for your items. There are a number of sustainable materials available, such as recycled cardboard and compostable packing peanuts. You may also consider conducting drop tests to ensure your packaging can withstand the rigours of shipping and handling.
@@ -122,6 +126,8 @@ By following these tips, you can optimise your packaging to protect your shipmen
 ### 4. Efficient Shipment Planning
 
 Effective shipment planning can drastically reduce costs and expand product availability. By shipping during off-peak hours or days, you can take advantage of faster processing times at Amazon's fulfillment centres.
+
+![](/images/uploads/untitled-design-2023-11-20t111944.601.png)
 
 You can adopt a variety of tools and strategies to optimise your shipment planning. One is to **analyse your past shipment data** to identify quieter times so you can schedule your shipments accordingly. If possible, negotiate specific delivery slots with carriers as well.
 
