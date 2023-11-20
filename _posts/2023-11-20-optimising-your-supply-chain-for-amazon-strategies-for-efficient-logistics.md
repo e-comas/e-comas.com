@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "# Optimising Your Supply Chain for Amazon: Strategies for Efficient Logistics"
+title: "Optimising Your Supply Chain for Amazon: Strategies for Efficient Logistics"
 author: Tom Wicky, Co-Founder & CEO of MyFBAPrep
 date: 2023-11-20T10:37:17.722Z
 excerpt: Understanding and optimising your supply chain can substantially boost
