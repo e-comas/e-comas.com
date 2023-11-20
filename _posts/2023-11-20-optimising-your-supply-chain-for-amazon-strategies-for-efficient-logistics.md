@@ -14,8 +14,6 @@ tags:
 ---
 <!--StartFragment-->
 
-# Optimising Your Supply Chain for Amazon: Strategies for Efficient Logistics
-
 A thriving Amazon business requires agility, strategic insight, and strong management of the logistics that keep it afloat. Understanding and optimising your supply chain can substantially boost your business’s efficiency, profitability and growth potential.
 
 Keep reading as we delve into strategies to help you streamline your logistics on the Amazon marketplace.
