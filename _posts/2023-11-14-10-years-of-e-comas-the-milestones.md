@@ -75,4 +75,52 @@ Jérôme says: “It's incredible to look back on 10 years and see how far we've
 
 “We've skyrocketed brands on eCommerce platforms all over the globe, and we're going to get even better at doing that, as we all expand our expertise across all online retailers, and strive to become the most data-centric eCommerce agency in the world. Here's to the next 10 years!”
 
+### Love from our partners 
+
+“Congratulations to Jérôme and the entire team at e-Comas. Happy 10-year anniversary. Thank you for your dedication to education, advertisers' success and the Amazon community. Wishing you many more years of success!“
+
+*\- Jeff Cohen, Amazon Ads*
+
+
+
+"Happy 10th Anniversary to eComas! It has been a delightful journey collaborating with Jérôme and the entire eComas team. They not only excel in their field but also bring a sense of joy and camaraderie to our partnership. We take great pride in our association with e-Comas and eagerly anticipate the exciting Amazon projects of the next decade!”
+
+*\- Chris Khoo, Director, KhooCommerce*
+
+
+
+“Happy 10th birthday to e-Comas! We love working with your team of experts to share important Amazon strategies with sellers. Cheers to 10 years and many more.”
+
+*\- Kristin Hutcherson, eComEngine*
+
+
+
+“Over the past decade, the collaboration between AVASK and e-Comas has been marked by our shared promise for excellence. We’re excited about the opportunities that lie ahead and the potential for new accomplishments in the years to come. Here's to the next decade of achievements and milestones!”
+
+*\- Natalia Ignacz Finerty, AVASK*
+
+
+
+“e-Comas has been an invaluable silver partner, supporting our journey with flexibility, reliability, and a commitment to healthy business development. Cheers to e-Comas, and here’s to many more years of growth together!”
+
+*\- ChannelEngine*
+
+
+
+Congrats to e-Comas on the team's 10th birthday. As a partner of Salsify, e-Comas has delivered customer success across key brands in France and greater Europe looking to meet more consumers wherever they are on the digital shelf. Thank you to the e-Comas team, and cheers to your continued success! 
+
+*\- Chayter Sowerby, Salsify* 
+
+
+
+“Congratulations e-Comas on this amazing milestone; it’s a testament to your hard work and continued innovation! It’s inspiring to see one of our valued partners achieve so much. From all of us at Pacvue, we wish Jérôme and his talented team many more years of success.”
+
+*\- Melissa Burdick, Co-founder & President, Pacvue* 
+
+
+
+“Happy birthday to our dear partners at e-Comas! Working with your amazing team over the years has been an absolute pleasure. Here's to celebrating the successes we've achieved together and looking forward to even greater milestones ahead. Thank you for being such fantastic collaborators. Here's to another year of shared victories and continued success!”
+
+*\- Jana Krekic, YLT Translations*
+
 <!--EndFragment-->
