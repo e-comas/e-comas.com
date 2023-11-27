@@ -2,7 +2,7 @@
 layout: blog
 title: "Pick, Pack & Ship: A Beginner’s Guide to Fulfilment "
 author: Kristina Mertens​
-date: 2023-09-11T08:30:55.645Z
+date: 2023-11-30T09:30:55.645Z
 excerpt: "Whether you want to handle the fulfilment in-house or work with a
   third-party logistics provider (3PL), this beginner's guide will help you
   understand the process and optimise it for your business. "
