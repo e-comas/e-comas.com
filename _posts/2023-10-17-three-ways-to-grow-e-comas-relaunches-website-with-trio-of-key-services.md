@@ -43,7 +43,7 @@ Lots of brands want to establish a strong eCommerce presence and grow in their h
 
 We work in all Amazon marketplaces, helping brands expand their business all over Europe, the US, Asia and the rest of the world. We also work on more local marketplaces like [CDiscount](https://www.cdiscount.com/) and Bol, and specialise in [Shopify](https://www.shopify.com/) for our clients' own web shops.
 
-We've got a large, international team, and between us we speak xx native languages. We can help brands localise their content, learn the shopping culture of the marketplaces they're targeting, and deal with local tax and legal requirements.
+We've got a large, international team, and between us we speak 15+ native languages. We can help brands localise their content, learn the shopping culture of the marketplaces they're targeting, and deal with local tax and legal requirements.
 
 ### Zone 2: Retail Media
 
