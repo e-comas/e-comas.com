@@ -12,4 +12,4 @@ thumbnail_alt: My Carry Potty Webinar
 tags:
   - Webinar
 ---
-<iframesrc="https://us02web.zoom.us/webinar/register/WN_fUf5hRC1Siy4jxLIMztPpQ#/registration" width="680" height="1150"></iframe>
+<iframe src="https://us02web.zoom.us/webinar/register/WN_fUf5hRC1Siy4jxLIMztPpQ#/registration" width="680" height="1150"></iframe>
