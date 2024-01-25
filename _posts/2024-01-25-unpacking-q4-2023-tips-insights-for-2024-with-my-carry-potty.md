@@ -2,7 +2,7 @@
 layout: blog
 title: "Unpacking Q4 2023: Tips & Insights For 2024 With My Carry Potty"
 author: The e-Comas Team
-date: 2024-01-25T10:27:32.161Z
+date: 2024-02-06T05:27:00.000Z
 excerpt: >
   Join us for our Secrets of Brand webinar as we reveal key learnings from Q4
   2023, including exclusive Black Friday and Cyber Monday insights, with leading
