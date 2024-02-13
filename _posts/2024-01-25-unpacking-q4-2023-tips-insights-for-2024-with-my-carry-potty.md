@@ -12,4 +12,4 @@ thumbnail_alt: My Carry Potty Webinar
 tags:
   - Webinar
 ---
-<iframe src="https://youtu.be/4VkqnGk0kwg?si=2-l1ImmrlYkFbSYX" width="680" height="1150"></iframe>
+<iframe width="560" height="315" src="https://youtu.be/4VkqnGk0kwg?si=2-l1ImmrlYkFbSYX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
