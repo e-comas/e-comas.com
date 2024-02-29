@@ -27,8 +27,6 @@ The flagship product is a patented portable and leakproof [potty](https://www.my
 
 At [e-Comas](https://e-comas.com/) we're incredibly proud to work with this unique brand. Since 2021 it has grown meteorically on Amazon, overcoming several interesting challenges on the way, which provide a great example for other brands selling on Amazon to follow.
 
-
-
 ### Branding challenges
 
 It's a deeply personal brand: its founder, Amanda Jenner, is still the face and heart of the business, and her son George Eteen-Bliss – the reason she invented My Carry Potty in the first place – is Marketing Director.
@@ -52,20 +50,6 @@ One of MCP's other tactics is to take an 'education first' approach to messaging
 Simplifying the messaging has had a real impact on conversion rates, says George – up from 2.17% on the webstore in 2020, to 5.46% now. “And this is just because we've simplified everything,” he says.
 
 George also credits Amazon with My Carry Potty's success in raising brand awareness. He says: “We really saw a huge growth in our brand awareness just through Amazon in 2020-2022; the demand for the product just soared. And that was thanks to Amazon, and that Amazon income allowed us to expand our marketing team. And now we have more time and resources to think about this sort of stuff.”
-
-### Taking stock
-
-Growing big in a short period of time is tricky on Amazon. Accurately predicting stock levels to ensure you don't go out of stock (OOS) or pay Amazon's storage fees is a delicate balancing act. In 2022 MCP learned that the hard way.
-
-With e-Comas's help, MCP accurately predicted stock levels and sent the correctly forecasted amount of stock 30 days ahead of the peak Q4 2022 season – but there was a failure, Amazon didn't pick up the stock in time, and the product went OOS for three weeks. This had a massive impact on the brand's bottom line.
-
-As a result, for the start of Q4 2023 we did an early stock replenishment: after all, Amazon's storage fees are cheaper than going OOS. MCP's year-on-year growth for Q4 was 84%.
-
-Another issue that had to be overcome was a high number of customer returns. Not only do returns affect a brand's bottom line and reputation, but on Amazon it can lead to you losing the buy box or even being suspended.
-
-Once investigated, the reason for products being returned turned out to be simple: during packaging and transit, the seal on the closed potties was getting locked, and customers couldn't open them.
-
-And it was a simple fix: the packing process was changed so that potties were packaged slightly open, and the problem disappeared overnight. It's a good example of how a small business can be agile and make fast changes to solve problems in time.
 
 ### Omni-channel growth
 
