@@ -16,4 +16,4 @@ thumbnail_alt: Amazon Accelerator Webinar
 tags:
   - Webinar
 ---
-<iframe src="https://us02web.zoom.us/webinar/register/WN_B9bfHbXzR62TsGQAKTCn2g" />
+<iframe src="https://us02web.zoom.us/webinar/register/WN_B9bfHbXzR62TsGQAKTCn2g" height=450 />
