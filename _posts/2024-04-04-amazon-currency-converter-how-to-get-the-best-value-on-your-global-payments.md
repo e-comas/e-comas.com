@@ -6,7 +6,7 @@ date: 2024-04-04T13:17:25.113Z
 excerpt: In this blog we'll guide you through the options for converting your
   Amazon payments, including Amazon's own Currency Converter – and how to get
   the best value.
-thumbnail: /images/uploads/untitled-design-2024-04-04t142337.119.png
+thumbnail: /images/uploads/untitled-design-2024-04-04t143357.276.png
 thumbnail_alt: Globe with different currency icons
 tags:
   - Operations
