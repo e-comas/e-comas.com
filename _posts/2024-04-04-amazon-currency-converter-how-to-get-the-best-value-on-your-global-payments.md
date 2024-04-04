@@ -81,7 +81,7 @@ We work with some brilliant partners who can manage money across borders to make
 
 ### WorldFirst - guaranteed cheaper than Amazon
 
-WorldFirst, for example, is an international payments business helping you move money around the world. Since 2017, WorldFirst has provided customers trading internationally with dedicated solutions to help their businesses thrive. 
+[WorldFirst](https://www.worldfirst.com/), for example, is an international payments business helping you move money around the world. Since 2017, WorldFirst has provided customers trading internationally with dedicated solutions to help their businesses thrive. 
 
 Designed with importers, exporters, and online sellers in mind, WorldFirst enables you to receive international funds via free local currency accounts, manage currency risk, and make same-currency and cross-currency payments quickly and easily, giving you more control than ever before.
 
