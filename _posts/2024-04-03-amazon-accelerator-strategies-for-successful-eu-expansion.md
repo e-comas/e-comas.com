@@ -12,4 +12,4 @@ thumbnail_alt: Amazon Accelerator Webinar
 tags:
   - Webinar
 ---
-<iframe src="https://us02web.zoom.us/webinar/register/WN_B9bfHbXzR62TsGQAKTCn2g" height=450 sandbox=“allow-same-origin allow-forms allow-scripts”/>
+<iframe src="https://us02web.zoom.us/webinar/register/WN_B9bfHbXzR62TsGQAKTCn2g" height=450 sandbox="allow-same-origin allow-forms allow-scripts"/>
