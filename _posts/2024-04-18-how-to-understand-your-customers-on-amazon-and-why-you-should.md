@@ -85,6 +85,6 @@ It’s all about the customer journey. 
 
 These use cases on AMC are subtle but very effective ways of understanding how customers find your products on Amazon. They allow you to refine and enhance your ad campaigns, using the keywords your customers are most likely to search for, the different combinations of ads your customers are most likely to respond to, and the audiences you’ll find the most success in targeting. So you save on your ad spend, you optimise the effectiveness of each ad, and you get to know who your customers are.
 
-##### Want more guidance on how to use your Amazon data to get to know your customers? Contact us today, our expert team can help!
+##### Want more guidance on how to use your Amazon data to get to know your customers? [Contact us today](https://e-comas.com/contact.html), our expert team can help!
 
 <!--EndFragment-->
