@@ -19,7 +19,7 @@ Think data is a dry subject? It's not, it's magic.
 
 But to most people – and most sellers on Amazon – the only way you can explain the magic of data is to show how it works in practice.
 
-That's what our new white paper is all about. Written by e-Comas's own data wizard [Claudiu Clement](https://www.linkedin.com/in/claudiu-clement/), 'AMC Unpacked: Demystifying 18 use cases of Amazon Marketing Cloud' \[link] shows sellers 18 different ways you can use AMC to improve your marketing game, maximise your ad spend and be more competitive in your category.
+That's what our new white paper is all about. Written by e-Comas's own data wizard [Claudiu Clement](https://www.linkedin.com/in/claudiu-clement/), *[AMC Unpacked: Demystifying 18 use cases of Amazon Marketing Cloud](https://e-comas.com/white-paper-form.html)* shows sellers 18 different ways you can use AMC to improve your marketing game, maximise your ad spend and be more competitive in your category.
 
 ### 'Smarter spending decisions'
 
@@ -71,6 +71,8 @@ Claudiu adds: “In today's eCommerce environment, it's the sellers who know how
 “We get that data analysis can be daunting to a lot of people, but AMC makes it simple and it's totally worth getting to know the basics so you can make smarter decisions on your advertising.
 
 “We hope sellers find this white paper useful in detangling the perceived complexities around Amazon data and AMC, and find their ad spend goes much further as a result.”
+
+##### [D﻿ownload the white paper now](https://e-comas.com/white-paper-form.html) and discover how AMC can help you maximise your ads budget on Amazon!
 
 ##### If you need more help with AMC, e-Comas is on a mission to become [the most data-centric eCommerce agency in the world](https://e-comas.com/2023/10/17/how-ecomas-is-becoming-the-most-data-driven-agency-in-the-world.html) – give us a call today!
 
