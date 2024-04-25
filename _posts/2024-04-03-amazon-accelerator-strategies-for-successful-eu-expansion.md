@@ -12,4 +12,4 @@ thumbnail_alt: Amazon Accelerator Webinar
 tags:
   - Webinar
 ---
-<iframe src="https://us02web.zoom.us/webinar/register/WN_B9bfHbXzR62TsGQAKTCn2g" height=450 sandbox="allow-same-origin allow-forms allow-scripts"/>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pl6POc_cPMY?si=ebeJQWpe_i8f0JWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
