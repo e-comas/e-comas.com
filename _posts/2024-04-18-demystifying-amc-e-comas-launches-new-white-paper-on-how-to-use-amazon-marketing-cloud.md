@@ -3,7 +3,7 @@ layout: blog
 title: "Demystifying AMC: e-Comas launches new white paper on how to use Amazon
   Marketing Cloud"
 author: Jess Chapman
-date: 2024-04-18T13:04:55.513Z
+date: 2024-05-21T13:04:55.513Z
 excerpt: Want to use AMC to boost your ads game - but not sure where to start?
   Our new e-Comas white paper takes you through 18 fantastic AMC use cases
 thumbnail: /images/uploads/wp-cover-short.jpg
