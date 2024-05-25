@@ -2,7 +2,7 @@
 layout: blog
 title: Everything We Know About Prime Day 2024 for Amazon Sellers
 author: Jess Chapman
-date: 2024-05-24T10:28:35.354Z
+date: 2024-05-27T09:10:00.000Z
 excerpt: >
   As Prime Day gets bigger every year, it's an unmissable opportunity for
   sellers to boost revenue, drive traffic to their listings and build brand
