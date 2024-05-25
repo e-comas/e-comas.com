@@ -2,7 +2,7 @@
 layout: blog
 title: Everything We Know About Prime Day 2024 for Amazon Sellers
 author: Jess Chapman
-date: 2024-05-24T10:28:35.354Z
+date: 2024-05-27T09:10:00.000Z
 excerpt: >
   As Prime Day gets bigger every year, it's an unmissable opportunity for
   sellers to boost revenue, drive traffic to their listings and build brand
@@ -30,11 +30,21 @@ Here's everything we know about Amazon Prime Day 2024 to help you build your str
 
 Normally Prime Day takes place in the second week of July, so the [best guess](https://www.gq-magazine.co.uk/lifestyle/article/amazon-prime-day-2024) is currently around 9-10 July 2024. 
 
+### Why get involved with Prime Day?
+
+It's all about conversion - the key metric on Amazon, the thing that drives your sales and your profitability. If your conversion levels are high, it means you'll spend less on your ads. 
+
+High conversion is the result of really good content, strong brand awareness and competitive pricing. With the right mix of pricing and advertising, events like Prime Day help most of our clients achieve higher conversion rates and therefore organically rank better. This effect usually lasts for some time after Prime Day. 
+
+On the other hand, you need to be wary of the potential cost. If your margins are lean, be careful playing around Prime Day: find good spots at smart prices. 
+
+Thanks to **Amazon Marketing Cloud (AMC)**, you can access really useful data around event days from your own sales history. AMC gives you ['tentpole' analysis](https://e-comas.com/2023/12/04/reading-the-tentpole-how-to-build-momentum-for-your-amazon-ads-after-black-friday.html) to help you build momentum after high-traffic events like Prime Day and Black Friday.  
+
 ### What kind of deals can sellers use on Prime Day? 
 
 There are four main types of deals:
 
-* Lightning Deals - prominently displayed, limited-time-only deals. We recommend slashing the price a lot if you want impact
+* Lightning Deals - prominently displayed, limited-time-only deals, which work best with a well-chosen discount
 * Prime Exclusive Discount - a percentage-off discount for Prime members only - the exclusivity makes it popular with Prime shoppers
 * Coupons - a brightly coloured tag next to the product price offering money off or 2-for-1-type deals
 * Promotions - more BOGOF or percentage-off deals, and for these ones you can create custom promo codes and URLs so you can share them on social media or with influencers.
