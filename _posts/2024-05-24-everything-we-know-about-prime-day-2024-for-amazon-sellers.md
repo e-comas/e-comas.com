@@ -28,7 +28,7 @@ Here's everything we know about Amazon Prime Day 2024 to help you build your str
 
 ### When is Prime Day?
 
-Normally Prime Day takes place in the second week of July, so the [best guess](https://www.gq-magazine.co.uk/lifestyle/article/amazon-prime-day-2024) is currently around 9-10 July 2024. 
+Normally Prime Day takes place in the second week of July, so the [best guess](https://www.gq-magazine.co.uk/lifestyle/article/amazon-prime-day-2024) is currently around 9-10 July 2024 - though we'd be happy to bet on 16-17 July as well...
 
 ### Why get involved with Prime Day?
 
