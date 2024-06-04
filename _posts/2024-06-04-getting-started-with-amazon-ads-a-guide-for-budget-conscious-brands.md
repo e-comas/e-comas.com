@@ -98,8 +98,8 @@ The most popular metrics for monitoring your ad campaigns' performance are: 
 
 * **Click-through rate (CTR)**: this metric is calculated by how many clicks your ad gets divided by the number of impressions. For example, one click in 100 impressions gives you a CTR of 1%. The higher your CTR is, the more successful, attractive and/or relevant your ad has been to the audience.
 * **Conversion rate (CVR)**: CVR is the percentage of page visits that resulted in a sale. It helps to show how well your listings and advertising are performing. 
-* Cost-per-click (CPC): CPC is the metric representing the amount you pay every time your ad is clicked on. You can measure the efficiency of your pay-per-click ad campaign by tracking the CPC: the more clicks you get, the lower the CPC will be and therefore the more successful your campaign.
-* Advertising Cost of Sales (ACoS): ACoS is the percentage of ad spend versus total sales - you can use it to measure how cost-efficient your advertising is. The lower your ACoS, the more efficiently your ads are performing. 
+* **Cost-per-click (CPC)**: CPC is the metric representing the amount you pay every time your ad is clicked on. You can measure the efficiency of your pay-per-click ad campaign by tracking the CPC: the more clicks you get, the lower the CPC will be and therefore the more successful your campaign.
+* **Advertising Cost of Sales (ACoS)**: ACoS is the percentage of ad spend versus total sales - you can use it to measure how cost-efficient your advertising is. The lower your ACoS, the more efficiently your ads are performing. 
 
 Besides tracking these four metrics, we recommend looking into these strategies:
 
@@ -107,15 +107,11 @@ Besides tracking these four metrics, we recommend looking into these strategies:
 * Product targeting - advertising your products on relevant product detail pages to reach potential customers who are actively browsing similar products
 * Competitor analysis - keeping an eye on your competitors' strategies to make sure you are doing the same or better.
 
-
-
-Optimise Your Amazon Advertising Budget
+### Optimise Your Amazon Advertising Budget
 
 Crafting a reasonable advertising budget is crucial for selling products on Amazon. Ad budgets not only impact your ad performance but also directly affect your profit margins. Using the example of selling phone cases, let's see how to calculate your Amazon advertising budget and provide optimisation tips.
 
-
-
-Calculate Ad Campaign Break-Even Point (BEP) Max Bid
+### Calculate Ad Campaign Break-Even Point (BEP) Max Bid
 
 The BEP max bid is a crucial factor in setting your advertising budget. It represents the maximum amount you're willing to pay per click without incurring losses. The calculation formula is:
 
@@ -127,9 +123,7 @@ BEP Max Bid = $5 - 3% * $0.15 = $5 - $0.045 = $4.955
 
 In actual sales, you'll have both organic orders (generated through non-ad channels like Amazon Search or recommendations) and ad-driven orders. If your organic order is 40%, your actual max bid could be closer to $0.3-$0.4.
 
-
-
-Optimise Your ACoS
+### Optimise Your ACoS
 
 ACoS (Advertising Cost of Sales) is a vital metric for measuring advertising ROI. Lowering ACoS implies more efficient ad budget utilisation and improved profitability of your campaigns. Generally:
 
@@ -139,12 +133,10 @@ In other words, ACoS = CPC * Conversion Rate / Average Order Value
 
 To optimise ACoS, consider these strategies:
 
-* Prioritise Low CPCs: If you’re selling low-price products, aim for lower Cost-Per-Click (CPC) bids. This directly reduces your advertising expense per click, leading to a more profitable campaign overall.
-* Drive High Conversion Rates: Another effective approach is to focus on maximising your conversion rate. When more clicks convert into actual sales, it improves overall ad performance and profitability. By achieving a higher conversion rate, you can effectively manage ACoS even with a lower average order value.
+* **Prioritise Low CPCs**: If you’re selling low-price products, aim for lower Cost-Per-Click (CPC) bids. This directly reduces your advertising expense per click, leading to a more profitable campaign overall.
+* **Drive High Conversion Rates**: Another effective approach is to focus on maximising your conversion rate. When more clicks convert into actual sales, it improves overall ad performance and profitability. By achieving a higher conversion rate, you can effectively manage ACoS even with a lower average order value.
 
-
-
-Allocate Budget Wisely
+### Allocate Budget Wisely
 
 Amazon offers a good range of [advertising solutions](https://advertising.amazon.com/lp/build-your-business-with-amazon-advertising?tag=googhydr-20&ref=pd_sl_10by7289pf_p_ps_gg_b_uk_en_d_core_p_653815769475&k_amazon%20ad%20services&group_146479246734). And different Amazon ad products suit different brands, ASINs and budgets.
 
@@ -164,9 +156,7 @@ Keep experimenting, monitoring and tweaking - a winning formula won't necessaril
 
 Further down the line, a more sophisticated approach is to use AMC to see which advertising combinations perform best to move shoppers towards a purchase, and allocate budget based on that.
 
-
-
-Track and Measure Results
+### Track and Measure Results
 
 We can't overemphasise that to have success with Amazon advertising, you need to keep an eye on the data and watch what happens. 
 
@@ -179,7 +169,5 @@ Then there's AMC, which is accessed via API. AMC converts reams of anonymised da
 For example, AMC can tell you if shoppers are more likely to buy after seeing a certain combination of your ads, or whether they start searching for brand keywords after being exposed to a certain campaign.
 
 You can also use an agency. At e-Comas we offer our in-house Compas dashboard, which connects dozens of different datasets across our clients' eCommerce, social media and advertising platforms to help them make informed data-driven decisions for their business.  
-
-
 
 <!--EndFragment-->
