@@ -42,6 +42,8 @@ You also need to identify your target audience. [Knowing who your customers are 
 
 For example, you can use data to find out if your customers are coming to your products through DSP ads, TV ads or Sponsored Brands, or a combination - but we’ll look at that in more depth later. 
 
+![](/images/uploads/untitled-design-2024-06-06t095112.837.png)
+
 ### Conduct Keyword Research
 
 Keyword research is vital for selling on Amazon. The more relevant keywords you include in your listings, and advertise against, the more successful your adverts are likely to be. 
@@ -72,7 +74,9 @@ The best way to start advertising on Amazon is with automatic campaigns. 
 
 These allow Amazon's algorithm to assign relevant keywords to your Sponsored Products campaigns. It's great for gaining an understanding of what targeting works best for your products, and data on which keywords to use. When you have sufficient data you can move on to manual campaigns, which give you greater control over keyword targeting and bidding. 
 
-Once you've established your auto campaigns, there's no need to turn them off. We recommend  minimising the budget, but always having auto campaigns in the background for keyword gathering.  
+Once you've established your auto campaigns, there's no need to turn them off. We recommend minimising the budget, but always having auto campaigns in the background for keyword gathering.  
+
+![](/images/uploads/untitled-design-2024-06-06t095359.834.png)
 
 ### Tips for Automated Campaigns in the Early Stages
 
@@ -106,6 +110,8 @@ Besides tracking these four metrics, we recommend looking into these strategies:
 * Trying different keyword match types to refine the target and the ad spend
 * Product targeting - advertising your products on relevant product detail pages to reach potential customers who are actively browsing similar products
 * Competitor analysis - keeping an eye on your competitors' strategies to make sure you are doing the same or better.
+
+![](/images/uploads/untitled-design-2024-06-06t095442.825.png)
 
 ### Optimise Your Amazon Advertising Budget
 
@@ -156,6 +162,8 @@ Keep experimenting, monitoring and tweaking - a winning formula won't necessaril
 
 Further down the line, a more sophisticated approach is to use AMC to see which advertising combinations perform best to move shoppers towards a purchase, and allocate budget based on that.
 
+![](/images/uploads/untitled-design-2024-06-06t095619.820.png)
+
 ### Track and Measure Results
 
 We can't overemphasise that to have success with Amazon advertising, you need to keep an eye on the data and watch what happens. 
@@ -168,6 +176,12 @@ Then there's AMC, which is accessed via API. AMC converts reams of anonymised da
 
 For example, AMC can tell you if shoppers are more likely to buy after seeing a certain combination of your ads, or whether they start searching for brand keywords after being exposed to a certain campaign.
 
-You can also use an agency. At e-Comas we offer our in-house Compas dashboard, which connects dozens of different datasets across our clients' eCommerce, social media and advertising platforms to help them make informed data-driven decisions for their business.  
+You can also use an agency. At e-Comas we offer our in-house Compas dashboard, which connects dozens of different datasets across our clients' eCommerce, social media and advertising platforms to help them make informed data-driven decisions for their business.  <!--StartFragment-->
+
+**To learn more about how we can help you set up, monitor and manage your Amazon Advertising campaigns using [m19](https://www.m19.com/) and more, [reach out to us today](https://e-comas.com/contact.html)!**
+
+<!--EndFragment-->
+
+
 
 <!--EndFragment-->
