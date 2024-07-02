@@ -28,7 +28,7 @@ Generative AI was the big topic at this year's show, with various partners launc
 
 e-Comet [Marius Popov](https://www.linkedin.com/in/marius-popov-488a5752/) says: "Throughout the event, it became evident that AI will play a crucial role in shaping the landscape of advertising and consumer engagement. Add to this the focus on leveraging brands' engagement into communities with the help of influencers, and the show delivered an exciting vision for the future of advertising."
 
-## Big brands gain big efficiencies 
+## Big brands gain big efficiencies
 
 [Amazon announced a new creative AI tool](https://advertising.amazon.com/en-us/blog/aspect-ratio-ai-image-generator-transformation/) that will be able to scan a product page - including description, bullet points and reviews - and produce images of the product in contextual settings. 
 
@@ -40,7 +40,7 @@ Another case study showed that AI had identified, from customer reviews, that a 
 
 Key takeaways?: Speed to market, saving time for smaller brands, and speed to audience, delivering super-fast product insights. 
 
-## AI tackles the no-cookies problem  
+## AI tackles the no-cookies problem
 
 Another innovative use of AI for Amazon Ads: it released Ad Relevance, which uses AI to analyse browsing, buying and streaming signals, as well as real-time data about content being viewed, to predict where a customer is in their shopping journey - and serve up relevant ads. 
 
@@ -49,6 +49,8 @@ As [third-party cookies are gradually phased out](https://www.forbes.com/sites/f
 Our e-Comet [Tiffany Lemprière](https://www.linkedin.com/in/tiffany-lempri%C3%A8re-94554674/) says: "This was my highlight from Cannes Lions: Amazon's unveiling of their new cookieless targeting solution, Ad Relevance, which utilises first-party data and AI to enhance consumer targeting. This innovation signifies a major step forward in advertising technology."
 
 ## Retail media presence is growing
+
+![Amazon Port](/images/uploads/a-maison.jpg "Amazon Port")
 
 Retail media is finding its space in the world of events and conferences, as evidenced by Amazon Port being packed with brands and events in this sphere. 
 
@@ -60,7 +62,7 @@ The show also offered unbeatable presentations from other brands, like the ELF B
 
 This 360 campaign produced huge success for the cosmetics brand, tapping into the fact that women watch the Superbowl too - something that other advertisers tend to ignore. They aligned their creative across all their marketing, and maximised stock levels for ultimate conversion and customer satisfaction.
 
-## Big on creators and influencers 
+## Big on creators and influencers
 
 Amazon continues to push its creator and influencer side, and attracted huge names to the show - like John Legend and Chrissy Teigen to promote live shopping. 
 
@@ -84,6 +86,8 @@ e-Comet [Sam Millendo](https://www.linkedin.com/in/sam-millendo/) says: "With th
 "However, it also signals the potential entry of big traditional agencies into the space, which would increase competition. Therefore, we're going to be proactive and demonstrate our proficiency with the new offerings to stay ahead."
 
 ## Socialising and networking
+
+![e-Comets at The National](/images/uploads/national.jpg "e-Comets at The National")
 
 It's always a joy to see our customers, partners and friends, especially on the French Riviera. 
 
