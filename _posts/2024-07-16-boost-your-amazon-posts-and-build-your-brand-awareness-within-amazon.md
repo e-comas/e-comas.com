@@ -11,8 +11,6 @@ thumbnail_alt: Amazon Posts
 tags:
   - Advertising
 ---
-
-
 ![Amazon Posts](/images/uploads/head-image.jpeg "Amazon Posts")
 
 For a long time we've been urging our clients selling in the US to use Amazon Posts - it's free, it's easy to do, and it combines your eCommerce efforts with your social media marketing plan. 
@@ -28,6 +26,8 @@ Available only in the US for now, Amazon Posts is a valuable tool for building a
 It's proven to enhance your conversions: [Amazon reports](https://advertising.amazon.com/en-gb/solutions/products/posts) a 2.5% higher purchase rate for customers who interact with your Posts on their shopping journey.
 
 ## How does it fit in with other social media marketing?
+
+![MCP Post](/images/uploads/whatsapp-image-2024-07-16-at-14.33.14-2-.jpeg "MCP Post")
 
 Amazon encourages brands to reuse their best Instagram, Facebook and Twitter content on Posts, so it's a fairly simple tool for marketers to use, slotting in easily with the rest of their social media strategy. 
 
