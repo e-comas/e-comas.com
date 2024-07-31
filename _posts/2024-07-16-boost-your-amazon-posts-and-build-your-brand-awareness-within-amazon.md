@@ -6,7 +6,7 @@ date: 2024-07-16T12:03:14.511Z
 excerpt: "There's a new paid function for Amazon Posts: boost your
   best-performing posts into Sponsored Brand ads, and watch your brand following
   grow"
-thumbnail: /images/uploads/whatsapp-image-2024-07-16-at-14.33.14.jpeg
+thumbnail: /images/uploads/new-hero-pic.jpg
 thumbnail_alt: Amazon Posts
 tags:
   - Advertising
