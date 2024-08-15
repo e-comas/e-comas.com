@@ -66,7 +66,7 @@ For example, Amazon now offers an AI tool for creating lifestyle images of your 
 
 Your ICP can even be used for new product development. 
 
-You can also use this data to make better decisions about how you spend your advertising budget. For example, Market Basket Analysis is great for cross-selling and bundling. \[expand] Knowing your top searches will help you refine campaigns based on keywords. 
+You can also use this data to make better decisions about how you spend your advertising budget. For example, Market Basket Analysis is great for cross-selling and bundling. Knowing your top searches will help you refine campaigns based on keywords. 
 
 ### Tip 3: Use AMC 
 
