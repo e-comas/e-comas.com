@@ -6,14 +6,14 @@ date: 2024-09-03T09:47:15.021Z
 excerpt: With advertising on Amazon, different approaches work depending on what
   you want to do with your business. Here's how to strategise for growth or
   profitability
-thumbnail: /images/uploads/m19-webinar.jpg
+thumbnail: /images/uploads/m19-blog.png
 thumbnail_alt: Amazon growth webinar header
 tags:
   - Advertising
 ---
 <!--StartFragment-->
 
-![Amazon growth webinar](/images/uploads/m19-webinar.jpg "Amazon growth webinar")
+![Amazon growth webinar](/images/uploads/m19-blog.png "Amazon growth webinar")
 
 Amazon advertising is so sophisticated now, it's easy to think as soon as you start your campaign, you'll see strong results. 
 
