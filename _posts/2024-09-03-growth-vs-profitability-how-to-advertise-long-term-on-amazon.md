@@ -6,16 +6,14 @@ date: 2024-09-03T09:47:15.021Z
 excerpt: With advertising on Amazon, different approaches work depending on what
   you want to do with your business. Here's how to strategise for growth or
   profitability
-thumbnail: /images/uploads/m19-webinar.jpg
+thumbnail: /images/uploads/m19-blog.png
 thumbnail_alt: Amazon growth webinar header
 tags:
   - Advertising
 ---
 <!--StartFragment-->
 
-
-
-![Amazon growth webinar](/images/uploads/m19-webinar.jpg "Amazon growth webinar")
+![Amazon growth webinar](/images/uploads/m19-blog.png "Amazon growth webinar")
 
 Amazon advertising is so sophisticated now, it's easy to think as soon as you start your campaign, you'll see strong results. 
 
@@ -87,7 +85,7 @@ We also recommend leveraging social media and even hiring a local influencer, es
 
 ![Webinar Amazon growth success](/images/uploads/small-marketplace.jpg "Webinar Amazon growth success")
 
-A seller sells a product on Amazon in the Netherlands. It's a successful household appliance brand, in a relatively small marketplace. They're using a simple ad structure: category ads and some brand defence ads. They're using AI software from our partner M19 to do daily keyword testing and maintaining product targeting and strong traffic. 
+A seller sells a product on Amazon in the Netherlands. It's a successful household appliance brand, in a relatively small marketplace. They're using a simple ad structure: category ads and some brand defence ads. They're using AI software from our partner [M19](https://www.m19.com/) to do daily keyword testing and maintaining product targeting and strong traffic. 
 
 They invest 2,000€ in their ad campaigns and increase ad sales by 88%, achieving a decrease in ACoS of 13 points over the previous 60 days. 
 
@@ -111,7 +109,7 @@ Marius says: "The beginning of each product launch, and especially when launchin
 
 #### About M19
 
-M19 is one of our trusted partners. They provide an AI tool to optimise your Amazon campaigns based on your goals. It's performance-based, automatically searching and trying new keywords every day to optimise your advertising efficiency. It finds the keywords with the best traffic and conversion, in different languages across every marketplace you're on, and also decreases your spend on keywords that are not working for you - saving you time and helping you to escalate your business faster. 
+[M19](https://www.m19.com/) is one of our trusted partners. They provide an AI tool to optimise your Amazon campaigns based on your goals. It's performance-based, automatically searching and trying new keywords every day to optimise your advertising efficiency. It finds the keywords with the best traffic and conversion, in different languages across every marketplace you're on, and also decreases your spend on keywords that are not working for you - saving you time and helping you to escalate your business faster. 
 
 **Want to grow globally and get profitable on Amazon? [Give the e-Comas team a call today](https://e-comas.com/contact.html) - or [watch our webinar with Michelle Gallardo](https://www.youtube.com/watch?v=WH342gII49k&t=2062s) about long-term growth strategies for global success on Amazon**
 
