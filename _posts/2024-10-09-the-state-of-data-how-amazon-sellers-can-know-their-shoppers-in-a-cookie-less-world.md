@@ -16,6 +16,8 @@ tags:
 
 ![Cookies](/images/uploads/close-up-chocolate-cookies.jpg "Cookies")
 
+*I﻿mage by Freepik*
+
 After years of stalling, [Google has finally announced](https://privacysandbox.com/news/privacy-sandbox-update/) that it is not phasing out third-party cookies. 
 
 Instead, it's giving users the choice of opting in and out of cookies across their web browsing – similar to the way [Firefox and Safari](https://www.forbes.com/sites/forrester/2024/07/25/google-reverses-decision-to-eliminate-third-party-cookies/) do things already. 
