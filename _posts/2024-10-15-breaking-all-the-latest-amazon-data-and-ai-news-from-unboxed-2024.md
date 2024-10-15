@@ -122,10 +122,10 @@ To help advertisers understand the insights from multi-touch attribution, Amazon
 
 Paula Despins, Vice President of Ads Measurement at Amazon Ads, says: “Our mission is to be the most customer-obsessed advertising service by giving all brands the measurement and data-driven, machine learning optimisation capabilities they need to drive business growth through simple, easy-to-use tools.
 
-> **“Today’s launches put our most sophisticated full-funnel measurement and optimisation capabilities into the hands of all marketers from small businesses to major brands.”**
+“Today’s launches put our most sophisticated full-funnel measurement and optimisation capabilities into the hands of all marketers from small businesses to major brands.”
 
 e-Comas CEO and Founder Jérôme de Guigné, who is also an Amazon Ads Ambassador, says: "We're thrilled and excited to be here at unBoxed and see these developments being launched. We're hugely invested in the power of data, and in awe of the way Amazon is making it easier and easier for brands to leverage their customers' data, in the most privacy-minded way possible, to drive efficiency in advertising and improve the shopper's journey. 
 
-> **"By giving advertisers more tools to not only advertise more smartly, but also to ensure their content is compelling and converts, Amazon is making itself the obvious choice for brands that want to sell their products globally online."**
+"By giving advertisers more tools to not only advertise more smartly, but also to ensure their content is compelling and converts, Amazon is making itself the obvious choice for brands that want to sell their products globally online."
 
 <!--EndFragment-->
