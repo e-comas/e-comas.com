@@ -18,7 +18,7 @@ tags:
 
 Its new innovations, announced today (15 October 2024) at unBoxed in Austin, Texas, include a genAI tool for audio, joining its existing image and video tools. 
 
-**AI Creative Studio gives 'fresh, trend-driven content'**
+### AI Creative Studio gives 'fresh, trend-driven content'
 
 The Audio tool, just like with Image and Video generator, allows advertisers to input their Amazon-listed product and automatically create a voiceover script based on the product information.
 
