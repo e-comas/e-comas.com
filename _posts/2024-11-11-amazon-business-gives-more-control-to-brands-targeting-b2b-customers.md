@@ -12,6 +12,8 @@ tags:
 ---
 <!--StartFragment-->
 
+![Amazon Business](/images/uploads/am-biz-long-logo.png "Amazon Business")
+
 **Are you selling your products to B2B customers, via Amazon Business?** 
 
 If not, you could be missing out on a huge opportunity. 
