@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: How to Prevent Amazon FBA Returns in Q4
-author: e-Comas team
+author: The e-Comas Team
 date: 2024-11-29T09:06:38.560Z
 excerpt: A low Amazon return rate is crucial for your reputation and
   profitability. But how can you reduce returns and minimise losses? Find out by
@@ -14,4 +14,4 @@ thumbnail_alt: Webinar image promo
 tags:
   - Webinar
 ---
-V﻿ideo
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sBcgUYZNk84?si=FMWUTfd9MB0B6gP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
