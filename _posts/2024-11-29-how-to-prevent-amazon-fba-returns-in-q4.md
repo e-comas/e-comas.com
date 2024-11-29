@@ -9,7 +9,7 @@ excerpt: A low Amazon return rate is crucial for your reputation and
   essentials you need to know about product returns and how to prevent them
   during Amazon’s golden quarter and beyond. Plus, get our top tips on
   optimising your returns policy to reduce waste.
-thumbnail: /images/uploads/myfbaprep-webinar.png
+thumbnail: /images/uploads/myfbawebinar-22ndoct-sm-1200x1200-1-.jpg
 thumbnail_alt: Webinar image promo
 tags:
   - Webinar
