@@ -2,7 +2,7 @@
 layout: blog
 title: "Reading the tentpole: how to build momentum for your Amazon ads after
   Black Friday"
-author: Antonella Argenziano
+author: The e-Comas Team
 date: 2023-12-04T11:07:38.436Z
 excerpt: We've made it through 'Amazon Turkey 5' season. Now to keep that
   momentum going and learn how to maximise the lead-in and lead-out times for
