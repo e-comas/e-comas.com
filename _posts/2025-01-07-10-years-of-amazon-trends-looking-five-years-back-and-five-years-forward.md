@@ -15,7 +15,7 @@ tags:
 
 ![White rabbit](/images/uploads/beautiful-shot-white-rabbit-snowy-forest.jpg "White rabbit")
 
-*I﻿mage by wirestock on Freepik*
+*Who are the white rabbits we're chasing into 2025's Wonderland? I﻿mage by wirestock on Freepik*
 
 The pace of change in eCommerce over the last five years has been extraordinary. 
 
@@ -49,7 +49,7 @@ He adds: "AMC exemplifies this evolution, transforming from a simple measurement
 
 e-Comas's founder and CEO Jérôme de Guigné says: "Another big trend is the growth of video across Amazon, and that includes Prime Video as well as Sponsored Brand video and video content in listings. 
 
-"And AI, of course: connect the two together and you have an amazing acceleration machine. Finally, Amazon Marketing Cloud (AMC), with access to so much more data to drive accuracy and efficiency. 
+"And AI, of course: connect the two together and you have an amazing acceleration machine. Finally, [Amazon Marketing Cloud](https://e-comas.com/2024/05/21/demystifying-amc-e-comas-launches-new-white-paper-on-how-to-use-amazon-marketing-cloud.html) (AMC), with access to so much more data to drive accuracy and efficiency. 
 
 "So there's more data, more technology, more advertising opportunities: it's becoming Alice's Wonderland, a world of infinite possibilities. But who is the white rabbit then, I wonder?"
 
@@ -77,7 +77,7 @@ AI, in fact, looks set to be one of the biggest trends of 2025, according to jus
 
 If the past five years have been all about adding more complexity in advertising options, tools and data, says Joe Shelerud, the next five will be about shifting towards simplification – driven by AI. "Automation and smarter technology will make it easier for advertisers to navigate these tools without sacrificing precision," he says. 
 
-Dan Brownsher, from ChannelKey, says one of the biggest trends in the years to come will be "the continued proliferation of AI, focused around tools, Amazon's personal shopping assistant \[RUFUS] and a more curated shopping experience facilitated by AI."
+Dan Brownsher, from ChannelKey, says one of the biggest trends in the years to come will be "the continued proliferation of AI, focused around tools, Amazon's personal shopping assistant [[RUFUS](https://e-comas.com/2024/08/06/rufus-cosmo-amazon-and-ai-how-online-retail-is-changing-in-2024.html)] and a more curated shopping experience facilitated by AI."
 
 ### Future trend 2: SustAInability 
 
@@ -97,7 +97,7 @@ Joe Shelerud predicts that two markets on Amazon have the most opportunity for g
 
 He says: "Higher-margin products allow sellers to invest in brand-building, which is critical for long-term success. Consumable products or those with repeat purchase potential offer significant growth opportunities thanks to their consistent demand and the ability to create personalized, scalable marketing campaigns."
 
-Jérôme de Guigné agrees; he says: "It's always been the smaller high-value goods, like electronics, that have the highest margins and tend to do really well on Amazon. There's no reason for that to change: people love gadgets. 
+Jérôme de Guigné agrees; he says: "It's always been the smaller high-value goods, like electronics, that have the highest margins and tend to do really well on Amazon. There's no reason for that to change: commerce is after value generation. 
 
 "On the other hand, fashion has never been Amazon's strong point, but is now starting to see major growth, so we predict that's going to get big. It's no coincidence that Amazon's Christmas ad for 2024 focused on a smart evening jacket. 
 
