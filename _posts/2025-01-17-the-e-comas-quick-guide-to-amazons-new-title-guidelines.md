@@ -40,7 +40,11 @@ If you were hoping to convey how soft your 'Super Super Super Soft Banket' is, y
 
 ### Special characters: the do$ and Don!ts
 
-Say goodbye to your favourite special characters: !, $, ?, _, {, }, ^, ¬, and ¦. Unless they're part of your brand name, they're out. But here's the good news: you can now use pipes (|) and semi-colons (;) to your heart's content. Go wild!
+Say goodbye to your favourite special characters: !, $, ?, _, {, }, ^, ¬, and ¦. 
+
+Unless they're part of your brand name, they're out. 
+
+But here's the good news: you can now use pipes (|) and semi-colons (;) to your heart's content. Go wild!
 
 ### Action required: edit your titles today!
 
