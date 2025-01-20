@@ -48,7 +48,7 @@ But here's the good news: you can now use pipes (|) and semi-colons (;) to your 
 
 ### Action required: edit your titles today!
 
-Your titles need to comply with these rules from 21 January. As a Brand Owner you can view and fix non-compliant titles in Items > Catalogue > Manage Products > Fix Products.
+Your titles need to comply with these rules from 21 January. As a Brand Owner, you can view and fix non-compliant titles in Items > Catalogue > Manage Products > Fix Products.
 
 For non-compliant titles, Amazon will provide AI-generated override suggestions. You've got 14 days to check over your titles and update them before Amazon updates them for you with the AI overrides. 
 
