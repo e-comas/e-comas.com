@@ -44,7 +44,7 @@ Say goodbye to your favourite special characters: !, $, ?, _, {, }, ^, Â¬, and Â
 
 Unless they're part of your brand name, they're out. 
 
-But here's the good news: you can now use pipes | and semi-colons ; to your heart's content. Go wild!
+But here's the good news: you can now use pipes and semi-colons to your heart's content. Go wild!
 
 ### Action required: edit your titles today!
 
