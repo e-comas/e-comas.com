@@ -2,10 +2,10 @@
 layout: blog
 title: "Time to test?: What the new Amazon Retail Ad Service means for brands "
 author: Jess Chapman
-date: 2025-02-11T14:29:19.659Z
-excerpt: "Amazon's new Retail Ad Service for third-party retailers promises to
-  make advertising across networks easier for brands. Here's e-Comas's insight
-  on the new service "
+date: 2025-02-13T10:29:19.659Z
+excerpt: "Amazon's new Retail Ad Service for third-party retailers is here,
+  which allows Amazon's competitors to use its ads technology. Here's e-Comas's
+  insight on the new service "
 thumbnail: /images/uploads/66217.jpg
 thumbnail_alt: Image by rawpixel.com on Freepik
 tags:
