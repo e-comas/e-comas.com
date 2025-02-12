@@ -25,17 +25,17 @@ Here's how it works for both retailers and brands. 
 
 ### What is Amazon Retail Ads Service?
 
-[Amazon Retail Ads Service](https://advertising.amazon.com/retail-ad-service#:~:text=Amazon%20Retail%20Ad%20Service%20is,contextually%20relevant%20sponsored%20products%20ads) is a cloud-based platform, using Amazon's impressive retail media network and tools to allow external retailers to host ads on their own websites and apps. 
+[Amazon Retail Ads Service](https://advertising.amazon.com/retail-ad-service#:~:text=Amazon%20Retail%20Ad%20Service%20is,contextually%20relevant%20sponsored%20products%20ads) is Amazon's way of monetising its own competition, by offering its established ads technology to other marketplaces and retailers. 
+
+The service is a cloud-based platform, using Amazon's retail media network and tools to allow external multi-brand retailers, such as grocery stores and department stores, to host ads on their own websites and apps. 
 
 This way retailers can monetise their online traffic, displaying their brands' Sponsored Products ads in contextually relevant places, targeting shoppers where they're shopping, and driving purchases on their own digital storefronts. 
-
-Brands also benefit from being able to use Amazon's established advertising platform and tools across retailers. 
 
 The service works simply via API. Ads are delivered across search, browse, and product detail pages, and click-throughs stay on the retailer's website or app. 
 
 The ads are designed to fit in with the native shopping experience: retailers control how the ads appear. Shoppers complete their purchase on the retail site or app.
 
-The great benefit of Amazon Retail Ads Service for retailers will be the ability to implement a fully-fledged advertising platform with little effort - monetising traffic on their website, increasing revenue and enhancing the shopper's journey - without turning off shoppers or enabling them to click off-site.
+Amazon Retail Ads Service means retailers will be able to implement a fully-fledged advertising platform with little effort - monetising traffic on their website, increasing revenue and enhancing the shopper's journey - without turning off shoppers or enabling them to click off-site.
 
 ### So how does Amazon Retail Ad Service work for brands? 
 
@@ -49,7 +49,7 @@ Amazon promises complete data privacy and safety, and offers its usual data anal
 
 Tiffany Lemprière, e-Comas's Head of Performance Marketing, says: "With the Amazon Retail Ad Service, advertising across different retailers could become easier. Brands can manage campaigns for multiple retailers from the Amazon ad console, which will simplify things.
 
-"But it could also mean more dependence on Amazon. If Amazon controls retail media across many websites, brands might have less flexibility to work directly with retailers.
+"But it could also mean more dependence on Amazon. Marketplaces will decide if they want to use Amazon Ads technology, so if a brand wants to advertise on that platform they will have to go through Amazon.
 
 "The question here is: should brands start preparing now? If this becomes a big part of retail advertising, it might be worth testing early."
 
@@ -67,7 +67,8 @@ It looks like a great prospect for advertisers. If you are a dog food brand, for
 
 Is Amazon trying to swallow the ads world, you mean? Possibly. Once again, the eCommerce giant has spotted a new way to drive up revenue. 
 
-Tiffany says: "Amazon isn’t just offering a new tool for retailers, but trying to expand its ad business beyond its own marketplace. It wants to compete with other retail media platforms like Criteo and CitrusAd by using its advanced ad tech, data, and advertiser network.\
+Tiffany says: "Amazon isn’t just offering a new tool for retailers, but trying to expand its ad business beyond its own marketplace. It wants to compete with other retail media platforms like Criteo and CitrusAd by using its advanced ad tech, data, and advertiser network.
+
 "It's yet to be seen how this will affect how brands manage their ads strategy off Amazon, but we can't wait to find out." 
 
 ### Who can use this service?
@@ -80,7 +81,7 @@ We mentioned online pet stores, but it caters to all types of multi-brand retail
 
 ### What are the benefits of Amazon Retail Ad Service for retailers? 
 
-The main one is extra revenue. And knowing how easy Amazon makes it to leverage data and optimise your advertising (especially if you're using a good agency like e-Comas), it's hard to imagine a more lucrative retail media network for third parties. 
+The main one is extra revenue. 
 
 The ease of use, attractiveness of Amazon for advertising brands, and enhanced data capabilities means you're almost guaranteed to grow your advertising revenue through Amazon's Retail Ad Service. 
 
