@@ -11,7 +11,6 @@ thumbnail: /images/uploads/untitled-design-45-.png
 thumbnail_alt: The Expandables cartoon
 tags:
   - Expansion
-  - Tools
 ---
 <!--StartFragment-->
 
