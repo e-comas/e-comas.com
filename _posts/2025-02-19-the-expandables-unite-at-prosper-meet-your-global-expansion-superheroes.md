@@ -5,9 +5,8 @@ author: e-Comas team
 date: 2025-02-19T11:44:57.625Z
 excerpt: >
   Three industry powerhouses are teaming up to help eCommerce sellers break
-  barriers and expand their brands on a global scale. AVASK, e-Comas and YLT
-  Translations - known collectively as The Expandables - are set to make a
-  powerful impact at Prosper in March.
+  barriers and expand their brands on a global scale at Prosper Show in Las
+  Vegas.
 thumbnail: /images/uploads/untitled-design.jpg
 thumbnail_alt: The Expandables cartoon
 tags:
