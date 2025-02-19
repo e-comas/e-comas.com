@@ -16,7 +16,7 @@ tags:
 ---
 <!--StartFragment-->
 
-Three industry powerhouses are teaming up to help eCommerce sellers break barriers and expand their brands on a global scale. AVASK, e-Comas and YLT Translations - known collectively as The Expandables - are set to make a powerful impact at Prosper Show 2025 on March 25-27 at the Las Vegas Convention Center.
+Three industry powerhouses are teaming up to help eCommerce sellers break barriers and expand their brands on a global scale. [AVASK](https://avask.com/), [e-Comas](https://e-comas.com/) and [YLT Translations](https://ylt-translations.com/) - known collectively as The Expandables - are set to make a powerful impact at [Prosper Show 2025](https://prospershow.com/) on March 25-27 at the Las Vegas Convention Center.
 
 Under the personas of General Compliance, Captain Expansion and Colonel Localization, these experts will guide brands through the essentials of international growth. Their goal? To challenge conventional thinking and prove why expanding into global markets is essential for brands that want to scale.
 
