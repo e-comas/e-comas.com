@@ -74,7 +74,7 @@ The RP's duties include:
 * Checking for compliance with technical documentation, product and manufacturer information, instructions, and safety information
 * Providing evidence of checks performed on request by authorities.
 
-## How do you meet the GPSR's Responsible Person requirements?
+## How do you meet the GPSR's Responsible Person requirements? 
 
 Non-EU manufacturers face unique obstacles in meeting the GPSR's RP requirements, such as:
 
