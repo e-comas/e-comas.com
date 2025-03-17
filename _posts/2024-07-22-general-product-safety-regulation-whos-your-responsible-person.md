@@ -78,17 +78,15 @@ The RP's duties include:
 
 Non-EU manufacturers face unique obstacles in meeting the GPSR's RP requirements, such as:
 
-* Establishing an EU Presence – Without a base in the EU, appointing an RP becomes challenging.
-Navigating Regulatory Variations – Different EU member states may have specific compliance nuances, adding complexity.
-Managing Costs – Engaging third-party services or setting up operations within the EU can be financially demanding.
+* Establishing an EU Presence – without a base in the EU, appointing an RP becomes challenging.
+* Managing Costs – engaging third-party services or setting up operations within the EU can be financially demanding.
+* Navigating Regulatory Variations – different EU member states may have specific compliance nuances, adding complexity.
 
 To overcome these challenges, non-EU manufacturers might consider implementing these solutions:
 
-Partnering with Authorised Representatives – Collaborating with EU-based authorised representatives who can act as the RP. These entities are equipped to handle compliance tasks and serve as a liaison with regulatory bodies
-
-Utilising Fulfilment Service Providers – Some fulfillment centres in the EU offer RP services, combining logistics with compliance support.
-
-Investing in Compliance Expertise – Hiring consultants or legal advisors specialising in EU product regulations can ensure adherence to the GPSR.
+* Partnering with [Authorised Representatives](https://www.24hour-ar.com/authorised-representative): Collaborating with EU-based authorised representatives who can act as the RP. These entities are equipped to handle compliance tasks and serve as a liaison with regulatory bodies﻿
+* Utilising Fulfilment Service Providers: Some fulfillment centres in the EU offer RP services, combining logistics with compliance support.
+* Investing in Compliance Expertise: Hiring consultants or legal advisors specialising in EU product regulations can ensure adherence to the GPSR.
 
 ## How does this new ruling affect listings on Amazon?
 
