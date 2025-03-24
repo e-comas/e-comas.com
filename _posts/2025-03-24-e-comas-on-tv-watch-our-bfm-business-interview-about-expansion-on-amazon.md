@@ -38,7 +38,7 @@ Most research shows that people shopping online will start at Amazon over search
 
 [JungleScout says 56% of consumers](https://www.junglescout.com/resources/articles/amazon-statistics-2024/) start their product search on Amazon.
 
-### Point 4: Amazon has the most growth.
+### Point 3: Amazon has the most growth.
 
 Amazon is getting bigger and bigger. Revenue has consistently grown year on year, [according to Statista](https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/), hitting $637.96bn in 2024 – up from $574.78bn in 2023.
 
@@ -62,6 +62,6 @@ Jérôme says: "I was thrilled to be invited onto the Paroles d'Entreprises prog
 
 “Thanks so much to BFM Business, the producers and the charming Vincent Touraine for having me. I’ll come back any time – I could get used to the TV lifestyle!”
 
-**Jérôme’s interview is now online, with subtitles in English and French. Watch him any time: [https://www.youtube.com/watch?v=8VCCGLo0E9o](**https://www.youtube.com/watch?v=8VCCGLo0E9o**)**
+**Jérôme’s interview is now online, with subtitles in English. Watch him any time: \[https://www.youtube.com/watch?v=8VCCGLo0E9o](**https://www.youtube.com/watch?v=8VCCGLo0E9o**)**
 
 <!--EndFragment-->
