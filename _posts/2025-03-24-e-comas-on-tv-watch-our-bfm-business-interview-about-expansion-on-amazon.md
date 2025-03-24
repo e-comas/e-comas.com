@@ -62,6 +62,6 @@ Jérôme says: "I was thrilled to be invited onto the Paroles d'Entreprises prog
 
 “Thanks so much to BFM Business, the producers and the charming Vincent Touraine for having me. I’ll come back any time – I could get used to the TV lifestyle!”
 
-**Jérôme’s interview is now online, with subtitles in English and French. Watch him any time: https://www.youtube.com/watch?v=8VCCGLo0E9o**
+**Jérôme’s interview is now online, with subtitles in English and French. Watch him any time: [https://www.youtube.com/watch?v=8VCCGLo0E9o](**https://www.youtube.com/watch?v=8VCCGLo0E9o**)**
 
 <!--EndFragment-->
