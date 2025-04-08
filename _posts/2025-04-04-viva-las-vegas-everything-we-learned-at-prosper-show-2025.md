@@ -80,8 +80,6 @@ Our friends [Joe Shelerud](https://www.linkedin.com/in/joeshelerud/) of Ad Advan
 
 "Events like Prosper are a great reminder of how sellers – regardless of maturity or experience – can continue to level up and grow through community and shared knowledge."
 
-Jérôme says: "We never miss the Prosper Show, it's so much fun and this year's was the best yet. It's an incredible opportunity to learn, to share what we know, and mostly just to have fun and become close friends with all the great people working in the eCommerce industry. Big thanks to the organisers for such a productive and memorable show."
-
 ### Keep the momentum going
 
 Jérôme says: “We never miss the Prosper Show, it’s so much fun and this year’s was the best yet. It’s an incredible opportunity to learn, to share what we know, and mostly just to have fun and become close friends with all the great people working in the eCommerce industry. Big thanks to the organisers for such a productive and memorable show.”
