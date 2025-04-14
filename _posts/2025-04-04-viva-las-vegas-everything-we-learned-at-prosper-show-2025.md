@@ -24,7 +24,7 @@ We learned so much. Here’s a little round-up of our highlights from this year�
 
 ### More marketplaces
 
-The Prosper Show is usually quite Amazon-focused, so we were delighted to see more marketplaces making a big splash: Walmart as well as Shein, BestBuy and loads of others. 
+The Prosper Show is usually quite Amazon-focused, so we were delighted to see more marketplaces making a big splash: Walmart as well as Shein, Temu, BestBuy and loads of others. 
 
 Amazon was naturally out in force, with many services showcased at Prosper: Ads, Shipping, Veeqo inventory management, and more.
 
@@ -32,7 +32,13 @@ Amazon was naturally out in force, with many services showcased at Prosper: Ads,
 
 Move over Avengers, Justice League, Ghostbusters… The Expandables joined forces at the show, with an incredible-looking themed stand to help sellers learn how to expand their business globally. 
 
-Made up of our own CEO [Jérôme de Guigné](https://www.linkedin.com/in/jeromedeguigne-amazon-expert/) (Captain Expansion), YLT Translations’ [Jana Krekic](https://www.linkedin.com/in/jana-krekic-04739227/)(Colonel Localization), and AVASK’s [Melanie Shabangu](https://www.linkedin.com/in/melanie-v-katsaris-28bb3524/) (General Compliance), the superhero team donned capes, helped brands and caused a stir at Prosper. Read all about it [here](https://e-comas.com/2025/02/19/the-expandables-unite-at-prosper-meet-your-global-expansion-superheroes.html).
+Made up of our own CEO [Jérôme de Guigné](https://www.linkedin.com/in/jeromedeguigne-amazon-expert/) (Captain Expansion), YLT Translations’ [Jana Krekic](https://www.linkedin.com/in/jana-krekic-04739227/)(Colonel Localization), and AVASK’s [Melanie Shabangu](https://www.linkedin.com/in/melanie-v-katsaris-28bb3524/) (General Compliance), the superhero team donned capes, helped brands and caused a stir at Prosper. 
+
+Jana says: “Our session was great – it was full of insights, especially our take on the tariffs and the most recent events happening in the our industry. Attendees could learn new things about tariffs, TikTok and other things they couldn't hear elsewhere.
+
+“I didn't hear a single session because we were so busy with everyone who was walking the floor. So when it comes to the number of attendees, I think this year was great, especially comparing to two years ago."
+
+Read more about The Expendables [here](https://e-comas.com/2025/02/19/the-expandables-unite-at-prosper-meet-your-global-expansion-superheroes.html)
 
 ![Expandables stand](/images/uploads/expandables-stand.jpg "Expandables stand")
 
@@ -60,7 +66,7 @@ Then they targeted those same keywords in their Amazon advertising. This way, wh
 
 ### Not just any keynote: the Channel Key note
 
-Another favourite keynote was from agency Channel Key, where founder [Wendi Mathis](https://www.linkedin.com/in/wendimathisheld/) led a discussion on ‘Forecasting the Future: Expert Strategies for Amazon Inventory Management’ along with The Step2 Company’s [Kelly Pezley](https://www.linkedin.com/in/kelly-pezley/). 
+Another favourite keynote was from agency Channel Key, where [Wendi Mathis](https://www.linkedin.com/in/wendimathisheld/) founder of True Hero (acquired by Channel Key), led a discussion on ‘Forecasting the Future: Expert Strategies for Amazon Inventory Management’ along with The Step2 Company’s [Kelly Pezley](https://www.linkedin.com/in/kelly-pezley/). 
 
 They shared insights on improving forecasting accuracy, staying in stock without excess, and making smarter inventory decisions. An incredible duo.
 
