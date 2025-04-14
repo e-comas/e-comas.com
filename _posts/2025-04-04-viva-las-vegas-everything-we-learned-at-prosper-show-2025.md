@@ -38,7 +38,7 @@ Jana says: “Our session was great – it was full of insights, especially our 
 
 “I didn't hear a single session because we were so busy with everyone who was walking the floor. So when it comes to the number of attendees, I think this year was great, especially comparing to two years ago."
 
-Read more about The Expendables [here](https://e-comas.com/2025/02/19/the-expandables-unite-at-prosper-meet-your-global-expansion-superheroes.html)
+Read more about The Expandables [here](https://e-comas.com/2025/02/19/the-expandables-unite-at-prosper-meet-your-global-expansion-superheroes.html)
 
 ![Expandables stand](/images/uploads/expandables-stand.jpg "Expandables stand")
 
