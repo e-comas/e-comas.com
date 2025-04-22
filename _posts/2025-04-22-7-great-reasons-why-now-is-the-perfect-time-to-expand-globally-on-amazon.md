@@ -6,7 +6,7 @@ date: 2025-04-22T10:11:31.314Z
 excerpt: >
   Now is the time to expand your brand globally on Amazon. That was the message
   from The Expandables at Prosper Show. If you missed them, here’s a recap of
-  why 2025 is the perfect time. 
+  why 2025 is the perfect time! 
 thumbnail: /images/uploads/global-expansion.png
 thumbnail_alt: Blue sky background with global flags
 tags:
