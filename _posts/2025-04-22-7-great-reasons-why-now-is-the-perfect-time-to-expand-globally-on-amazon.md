@@ -21,7 +21,7 @@ The three industry powerhouses went with a mission: to challenge conventional th
 
 If you missed them at Prosper, here’s a recap of why 2025 is the perfect time to grow your brand internationally on the retail giant. 
 
-Reason #1: Amazon is growing and expanding to new regions
+### Reason #1: Amazon is growing and expanding to new regions
 
 Amazon is bigger than ever. Revenue has consistently grown year on year, [hitting $637.96bn in 2024](https://www.statista.com/statistics/266282/annual-net-revenue-of-amazoncom/) - up from $574.78bn in 2023. Every region in the world has experienced [growth in the double digits](https://worldpopulationreview.com/country-rankings/amazon-revenue-by-country) during and after the Covid-19 pandemic.
 
@@ -40,7 +40,7 @@ Amazon’s growth shows no signs of slowing down any time soon as Amazon continu
 
 Obviously, the more countries Amazon sells into, the more chances sellers have of finding a new audience for their product. Which leads us to our next point…
 
-Reason #2: Global expansion is easier than ever
+### Reason #2: Global expansion is easier than ever
 
 Amazon makes it very easy to expand into new territories thanks to its integrated logistics options like the [Global Logistics](https://sell.amazon.co.uk/amazon-global-logistics) and [Global Selling](https://sell.amazon.com/global-selling) programmes.
 
@@ -50,7 +50,7 @@ Tools that help you understand your customers in each country are also becoming 
 
 If you're using an agency, even better: you should only need to use one agency to reach every country served by Amazon, rather than a different agency in every country.
 
-Reason #3: Scaling carries less risk than before
+### Reason #3: Scaling carries less risk than before
 
 Most good businesses have a fear of growing too fast: we all know what can happen when a brand expands faster than its operations, team structure and supply chain can handle. But we'd argue the risk of implosion from growing too fast is lower than it used to be, and certainly on Amazon. 
 
@@ -58,15 +58,15 @@ Why? Because Amazon is scalable: there's loads of data (and Amazon Marketing Clo
 
 What's more, expanding into different territories can help you gain first-mover advantage.
 
-e-Comas Founder, Jérôme de Guigné, says: “Being the first to introduce a product or service to a market allows you to establish brand recognition, customer loyalty and potentially set industry standards before competitors arrive.
-
-“If a new competitor comes, it will be tough to take you on all markets at the same time.”
+> e-Comas Founder, Jérôme de Guigné, says: “Being the first to introduce a product or service to a market allows you to establish brand recognition, customer loyalty and potentially set industry standards before competitors arrive.
+>
+> “If a new competitor comes, it will be tough to take you on all markets at the same time.”
 
 We recommend starting with the US or the EU, depending on where you sell already, and taking it from there, but you could test your market in just one country, and move into more when you're ready. 
 
 If you work with an agency that knows Amazon well, you've got an even better chance of scaling your business without damaging it.  
 
-Reason #4: Compliance is easier 
+### Reason #4: Compliance is easier 
 
 The biggest challenge for globally expanding brands is compliance across multiple countries with their own laws and customs. Tax, VAT and bureaucracy are the big themes here. 
 
@@ -76,9 +76,9 @@ The US is the biggest global market, with no interior borders and tons of perks,
 
 And the EU is the world's largest trading bloc: most compliance-related tasks only have to be done once for all 27 countries. 
 
-That doesn't mean you have to stop your global expansion there, though. We recommend using experts like AVASK to handle your compliance needs as you move into other Amazon markets, such as in Africa and Asia. 
+That doesn't mean you have to stop your global expansion there, though. We recommend using experts like [AVASK](https://avask.com/) to handle your compliance needs as you move into other Amazon markets, such as in Africa and Asia. 
 
-Reason #5: The localisation opportunity 
+### Reason #5: The localisation opportunity 
 
 Naturally, one of the great challenges of moving into new countries is localising your listings - and sometimes your product range - to appeal to the new audience.
 
@@ -86,9 +86,9 @@ This is, on the face of it, easier than it used to be, with digital translation 
 
 We think this is a major opportunity for brands. Badly-localised listings are common on Amazon: most of us have been turned off from buying a product because it was badly translated or the images didn't seem right, affecting our trust in the brand. You can make your products stand out among the competition by ensuring your translations are flawless, your understanding of the market is on point, and your messaging proudly reflects the place you're from.
 
-Using a localisation agency such as YLT Translations can really help here. 
+Using a localisation agency such as [YLT Translations](https://ylt-translations.com/) can really help here. 
 
-Reason #6: Amazon's focus on individual brands
+### Reason #6: Amazon's focus on individual brands
 
 Shoppers love to buy from a brand with a story, and over the last few years Amazon has made extra efforts to ensure sellers can promote their own brand within the platform: through their brand store, through its social tools, through display advertising. 
 
@@ -96,13 +96,13 @@ That makes Amazon, in our opinion, the best place to showcase your brand to a gl
 
 You can tell your brand story across multiple marketplaces, adjusting your messaging to appeal to foreign audiences: for example, a Peruvian seller of health supplements emphasising the Peruvian ingredients in their products, and using the alpaca as an emblem in their marketing. 
 
-Reason #7: You've got what it takes to be a global brand
+#### Reason #7: You've got what it takes to be a global brand
 
 When you started selling your product, did you dream of taking it worldwide?
 
 If you're selling on Amazon, you've got the potential to reach that dream. All it takes is some logistics and operations planning, compliance knowledge, localisation know-how, data analysis, and a bit of clever marketing, and you can sell anywhere in the world… we believe in you!
 
-Start your expansion journey 
+### Start your expansion journey 
 
 With help from industry-leading partners and decades of experience helping brands grow faster in eCommerce, e-Comas’s global team is here to help you achieve your international growth goals. 
 
