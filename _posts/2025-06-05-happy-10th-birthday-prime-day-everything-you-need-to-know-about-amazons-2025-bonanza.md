@@ -3,7 +3,7 @@ layout: blog
 title: "Happy 10th birthday Prime Day: Everything you need to know about
   Amazon's 2025 bonanza"
 author: Jess Chapman
-date: 2025-06-05T11:19:52.804Z
+date: 2025-06-10T11:19:52.804Z
 excerpt: Amazon's special birthday Prime Day is almost upon us. Here's
   everything we know about the potentially four-day event, including its
   record-breaking history
