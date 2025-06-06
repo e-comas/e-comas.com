@@ -18,7 +18,7 @@ tags:
 
 *I﻿mage by Amazon*
 
-Happy birthday to Amazon, 30 this July!
+Happy birthday to Amazon.com, 30 this July!
 
 The big day coincides with the 10th anniversary of the first Prime Day, which was launched to celebrate Amazon's big two-zero. Amazon itself probably didn't know what a huge thing Prime Day would become at the time.
 
