@@ -14,6 +14,8 @@ tags:
 ---
 <!--StartFragment-->
 
+![Amazon Prime Day 2025](/images/uploads/primedayblog-23rdjul-sm-1200x1200.jpg "Amazon Prime Day 2025")
+
 In another record for Amazon, an estimated $24.1 billion was spent over the four days of Prime Day 2025, [according to Adobe Analytics](https://business.adobe.com/blog/prime-day-event-drove-24-billion-in-online-spend-across-us-retailers).
 
 This total surpassed Adobe’s projected figures of $23.8bn in sales, and makes it the biggest “four-day period including a Prime Day event”, says Amazon.
