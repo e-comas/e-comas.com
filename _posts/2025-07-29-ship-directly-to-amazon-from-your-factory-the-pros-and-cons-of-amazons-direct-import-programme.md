@@ -13,7 +13,7 @@ tags:
 ---
 <!--StartFragment-->
 
-![Cargo ship at sea](/images/uploads/aerial-view-cargo-ship-with-cargo-container-sea.jpg "Image by tawatchai07 Freepik.com")
+![Cargo ship at sea](/images/uploads/cargo-ship.jpg "Image by tawatchai07 Freepik.com")
 
 *Image by tawatchai07 @ Freepik.com*
 
