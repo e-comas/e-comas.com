@@ -44,27 +44,29 @@ When comparing quotes across different manufacturers, it’s easy to focus on un
 
 Our friends at GP Labs, a private label manufacturer with facilities in both Florida & Georgia, have provided this table to show what's actually included in their full-service, North American manufacturing quote – and what’s usually missing from those that come in 5-6 times cheaper.
 
+**<center> Comparison: US Manufacturing vs Offshore Low-Cost Vendors <center>**
+
 <table>
   <tr> 
     <td></td>
-    <td>GP Labs (US Manufacturing)</td>
-    <td>Typical Low-Cost Offshore Quote</td>
+    <td>**GP Labs (US Manufacturing)**</td>
+    <td>**Typical Low-Cost Offshore Quote**</td>
   </tr>
   <tr> 
-    <td>Formula quality</td>
+    <td>**Formula quality**</td>
     <td>Clinically active % of ingredients. <br> Clean-label. Vegan or naturally sourced where possible.</td>
     <td>Fillers, synthetics, unstable emulsifiers, unverified % of actives.</td>
   </tr>
-    <td>Testing</td>
+    <td>**Testing**</td>
     <td>Microbial, heavy metals, stability – available and encouraged for all SKUs.</td>
     <td>Often skipped or additional cost – sometimes not available at all.</td>
   </tr>
   <tr> 
-    <td>Compliance support</td>
+    <td>**Compliance support**</td>
     <td>FDA, Health Canada, and Amazon-aligned labeling + regulatory guidance included.</td>
     <td>Clients must manage all compliance – high risk of claim violations making brand vulnerable to lawsuits.</td>
-  </tr>\
- <td>Speed to market</td>
+  </tr>
+ <td>**Speed to market**</td>
     <td>2-4 weeks (stock) / 4-6 weeks (custom) with rapid sample cycles.</td>
     <td>8-12+ weeks including customs, formulation unknowns, and back-and-forth.</td>
   </tr>
@@ -72,44 +74,29 @@ Our friends at GP Labs, a private label manufacturer with facilities in both Flo
     <td>MOQ flexibility</td>
     <td>Launch-ready with as low as 500 units (stock) or 3,000 units (custom).</td>
     <td>Often 5,000-10,000+ MOQ to be prioritised, even on the first run. Little flexibility.</td>
-  </tr>\
-  <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
+  </tr>
+  <td>Packaging & fill</td>
+    <td>Tight spec alignment. Rigid QC across fill weights, aesthetics, and stability.</td>
+    <td>High fill variance, unstable bottles, thin plastics, incorrect viscosity.</td>
   </tr>
   <tr> 
-    <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
-  </tr>\
-  <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
+    <td>Service & communication</td>
+    <td>Dedicated PM, fast response, phone/email support, and proactive guidance.</td>
+    <td>Language barriers, long delays, little to no formulation collaboration</td>
+  </tr>
+  <td>Returns, recalls & relabeling</td>
+    <td>US-based production = fast re-label or recall-ready if needed.</td>
+    <td>Impossible to fix post-shipment. No legal recourse.</td>
   </tr>
   <tr> 
-    <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
-  </tr>\
-  <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
+    <td>IP protection</td>
+    <td>NDA-bound custom formulas, never resold or white-labeled without permission.</td>
+    <td>Formula re-use is common, especially in white-label environments.</td>
   </tr>
-  <tr> 
-    <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
-  </tr>\
-  <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
-  </tr>
-  <tr> 
-    <td>Column 1</td>
-    <td>Column 2</td>
-    <td>Column 3</td>
+  <td>Logistics, tariffs & fulfillment</td>
+    <td>Product is already in the US – you simply schedule delivery to Amazon, a 3PL, or your fulfillment partner. No surprise fees. Domestic shipping costs only.</td>
+    <td>You must coordinate and pay for international air/ocean freight, face volatile shipping costs, tariffs, customs delays, and clearance issues – all of which can destroy timelines and budgets at scale.
   </tr>
 </table>
-
 
 <!--EndFragment-->
