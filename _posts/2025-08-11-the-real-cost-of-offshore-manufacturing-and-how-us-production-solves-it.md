@@ -68,8 +68,7 @@ Our friends at GP Labs, a private label manufacturer with facilities in both Flo
   </tr>
  <td>**Speed to market**</td>
     <td>2-4 weeks (stock) / 4-6 weeks (custom) with rapid sample cycles.</td>
-    <td>8-12+ weeks including customs, formulation unknowns, and back-and-forth.</td>
-  </tr>
+    <td>8-12+ weeks including customs, formulation unknowns, and back-and-forth.
   <tr> 
     <td>MOQ flexibility</td>
     <td>Launch-ready with as low as 500 units (stock) or 3,000 units (custom).</td>
@@ -78,7 +77,6 @@ Our friends at GP Labs, a private label manufacturer with facilities in both Flo
   <td>Packaging & fill</td>
     <td>Tight spec alignment. Rigid QC across fill weights, aesthetics, and stability.</td>
     <td>High fill variance, unstable bottles, thin plastics, incorrect viscosity.</td>
-  </tr>
   <tr> 
     <td>Service & communication</td>
     <td>Dedicated PM, fast response, phone/email support, and proactive guidance.</td>
@@ -87,7 +85,6 @@ Our friends at GP Labs, a private label manufacturer with facilities in both Flo
   <td>Returns, recalls & relabeling</td>
     <td>US-based production = fast re-label or recall-ready if needed.</td>
     <td>Impossible to fix post-shipment. No legal recourse.</td>
-  </tr>
   <tr> 
     <td>IP protection</td>
     <td>NDA-bound custom formulas, never resold or white-labeled without permission.</td>
