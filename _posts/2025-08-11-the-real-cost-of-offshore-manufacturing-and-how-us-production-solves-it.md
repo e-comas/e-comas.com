@@ -44,7 +44,7 @@ When comparing quotes across different manufacturers, it’s easy to focus on un
 
 Our friends at [GP Labs](https://www.gplabsco.com/), a private label manufacturer with facilities in both Florida & Georgia, have provided this table to show what's actually included in their full-service, North American manufacturing quote – and what’s usually missing from those that come in 5-6 times cheaper.
 
-<strong style="text-align: center;">
+<strong style="text-align: center; display:block">
   Comparison: US Manufacturing vs Offshore Low-Cost Vendors 
 </strong>
 
