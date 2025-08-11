@@ -24,7 +24,7 @@ But the tariff war isn't the only compelling financial reason to start investiga
 
 If you're selling on Amazon in the US, and you want to stay competitive, it may be time to start manufacturing closer to home – for brand protection and reputation, as well as cost. 
 
-The effects of the tariff war
+### The effects of the tariff war
 
 Trump started waging his tariff war in April, starting with China and spreading to almost every country in the world. 
 
@@ -38,7 +38,7 @@ What's the point of the tariffs? [The BBC reports](https://www.bbc.co.uk/news/ar
 
 But the other motive is to encourage more domestic manufacturing in the US – which we think is very worthwhile, and not just to avoid the tariffs. Here's why you should investigate US manufacturing options. 
 
-The hidden costs of manufacturing overseas 
+### The hidden costs of manufacturing overseas 
 
 When comparing quotes across different manufacturers, it’s easy to focus on unit price. But the hidden costs of low-cost vendors overseas often show up later in delays, compliance issues, or poor product performance.
 
