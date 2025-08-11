@@ -42,31 +42,31 @@ But the other motive is to encourage more domestic manufacturing in the US – w
 
 When comparing quotes across different manufacturers, it’s easy to focus on unit price. But the hidden costs of low-cost vendors overseas often show up later in delays, compliance issues, or poor product performance.
 
-Our friends at GP Labs, a private label manufacturer with facilities in both Florida & Georgia, have provided this table to show what's actually included in their full-service, North American manufacturing quote – and what’s usually missing from those that come in 5-6 times cheaper.
+Our friends at [GP Labs](https://www.gplabsco.com/), a private label manufacturer with facilities in both Florida & Georgia, have provided this table to show what's actually included in their full-service, North American manufacturing quote – and what’s usually missing from those that come in 5-6 times cheaper.
 
 **<center> Comparison: US Manufacturing vs Offshore Low-Cost Vendors <center>**
 
 <table>
   <tr> 
     <td></td>
-    <td>**GP Labs (US Manufacturing)**</td>
-    <td>**Typical Low-Cost Offshore Quote**</td>
+    <td>\*\*GP Labs (US Manufacturing)\*\*</td>
+    <td>\*\*Typical Low-Cost Offshore Quote\*\*</td>
   </tr>
   <tr> 
-    <td>**Formula quality**</td>
+    <td>\*\*Formula quality\*\*</td>
     <td>Clinically active % of ingredients. <br> Clean-label. Vegan or naturally sourced where possible.</td>
     <td>Fillers, synthetics, unstable emulsifiers, unverified % of actives.</td>
   </tr>
-    <td>**Testing**</td>
+    <td>\*\*Testing\*\*</td>
     <td>Microbial, heavy metals, stability – available and encouraged for all SKUs.</td>
     <td>Often skipped or additional cost – sometimes not available at all.</td>
   </tr>
   <tr> 
-    <td>**Compliance support**</td>
+    <td>\*\*Compliance support\*\*</td>
     <td>FDA, Health Canada, and Amazon-aligned labeling + regulatory guidance included.</td>
     <td>Clients must manage all compliance – high risk of claim violations making brand vulnerable to lawsuits.</td>
   </tr>
- <td>**Speed to market**</td>
+ <td>\*\*Speed to market\*\*</td>
     <td>2-4 weeks (stock) / 4-6 weeks (custom) with rapid sample cycles.</td>
     <td>8-12+ weeks including customs, formulation unknowns, and back-and-forth.
   <tr> 
@@ -95,5 +95,17 @@ Our friends at GP Labs, a private label manufacturer with facilities in both Flo
     <td>You must coordinate and pay for international air/ocean freight, face volatile shipping costs, tariffs, customs delays, and clearance issues – all of which can destroy timelines and budgets at scale.
   </tr>
 </table>
+
+### Protecting your brand
+
+The bottom line is that US manufacturing protects your brand, reputation, and speed to market, ensuring a more profitable product and allowing business growth.
+
+And it's not just the US where GP Labs can help you. The business, which manufactures a wide selection of white label products and specialises in cosmetics, health supplements and other formulas, also has access to manufacturing plants in the EU, which makes it a great choice for US sellers wishing to expand their Amazon presence into Europe.
+
+Natasha Nicole Jugovic, GP Labs CEO & Founder, says: "A 'cheap' quote might save a few cents per unit up front – but is likely to cost you weeks of time, re-work, and reputational damage when it matters the most. 
+
+"At GP Labs, we focus on smart-scale, premium-brand support, and regulatory peace of mind so you can grow with confidence."
+
+Visit <https://www.gplabsco.com/> to find out more.
 
 <!--EndFragment-->
