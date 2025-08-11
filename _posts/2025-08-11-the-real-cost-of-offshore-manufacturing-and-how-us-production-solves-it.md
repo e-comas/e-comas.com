@@ -44,70 +44,24 @@ When comparing quotes across different manufacturers, it’s easy to focus on un
 
 Our friends at [GP Labs](https://www.gplabsco.com/), a private label manufacturer with facilities in both Florida & Georgia, have provided this table to show what's actually included in their full-service, North American manufacturing quote – and what’s usually missing from those that come in 5-6 times cheaper.
 
-
-<strong>
-  <center> Comparison: US Manufacturing vs Offshore Low-Cost Vendors </center>
+<strong style="text-align: center;">
+  Comparison: US Manufacturing vs Offshore Low-Cost Vendors 
 </strong>
 
-<table border="1">
-  <tr>
-    <td></td>
-    <td><strong>GP Labs (US Manufacturing)</strong></td>
-    <td><strong>Typical Low-Cost Offshore Quote</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Formula quality</strong></td>
-    <td>Clinically active % of ingredients. <br> Clean-label. Vegan or naturally sourced where possible.</td>
-    <td>Fillers, synthetics, unstable emulsifiers, unverified % of actives.</td>
-  </tr>
-  <tr>
-    <td><strong>Testing</strong></td>
-    <td>Microbial, heavy metals, stability – available and encouraged for all SKUs.</td>
-    <td>Often skipped or additional cost – sometimes not available at all.</td>
-  </tr>
-  <tr>
-    <td><strong>Compliance support</strong></td>
-    <td>FDA, Health Canada, and Amazon-aligned labeling + regulatory guidance included.</td>
-    <td>Clients must manage all compliance – high risk of claim violations making brand vulnerable to lawsuits.</td>
-  </tr>
-  <tr>
-    <td><strong>Speed to market</strong></td>
-    <td>2-4 weeks (stock) / 4-6 weeks (custom) with rapid sample cycles.</td>
-    <td>8-12+ weeks including customs, formulation unknowns, and back-and-forth.
-  </tr>
-  <tr>
-    <td><strong>MOQ flexibility</strong></td>
-    <td>Launch-ready with as low as 500 units (stock) or 3,000 units (custom).</td>
-    <td>Often 5,000-10,000+ MOQ to be prioritised, even on the first run. Little flexibility.</td>
-  </tr>
-  <tr>
-    <td><strong>Packaging & fill</strong></td>
-    <td>Tight spec alignment. Rigid QC across fill weights, aesthetics, and stability.</td>
-    <td>High fill variance, unstable bottles, thin plastics, incorrect viscosity.</td>
-  </tr>
-  <tr>
-    <td><strong>Service & communication</strong></td>
-    <td>Dedicated PM, fast response, phone/email support, and proactive guidance.</td>
-    <td>Language barriers, long delays, little to no formulation collaboration</td>
-  </tr>
-  <tr>
-    <td><strong>Returns, recalls & relabeling</strong></td>
-    <td>US-based production = fast re-label or recall-ready if needed.</td>
-    <td>Impossible to fix post-shipment. No legal recourse.</td>
-  </tr>
-  <tr>
-    <td><strong>IP protection</strong></td>
-    <td>NDA-bound custom formulas, never resold or white-labeled without permission.</td>
-    <td>Formula re-use is common, especially in white-label environments.</td>
-  </tr>
-  <tr>
-    <td><strong>Logistics, tariffs & fulfillment</strong></td>
-    <td>Product is already in the US – you simply schedule delivery to Amazon, a 3PL, or your fulfillment partner. No
-      surprise fees. Domestic shipping costs only.</td>
-    <td>You must coordinate and pay for international air/ocean freight, face volatile shipping costs, tariffs, customs
-      delays, and clearance issues – all of which can destroy timelines and budgets at scale.</td>
-  </tr>
-</table>
+
+
+|     | **GP Labs (US Manufacturing)** | **Typical Low-Cost Offshore Quote** |
+| --- | --- | --- |
+| **Formula quality** | Clinically active % of ingredients. <br> Clean-label. Vegan or naturally sourced where possible. | Fillers, synthetics, unstable emulsifiers, unverified % of actives. |
+| **Testing** | Microbial, heavy metals, stability – available and encouraged for all SKUs. | Often skipped or additional cost – sometimes not available at all. |
+| **Compliance support** | FDA, Health Canada, and Amazon-aligned labeling + regulatory guidance included. | Clients must manage all compliance – high risk of claim violations making brand vulnerable to lawsuits. |
+| **Speed to market** | 2-4 weeks (stock) / 4-6 weeks (custom) with rapid sample cycles. | 8-12+ weeks including customs, formulation unknowns, and back-and-forth.
+| **MOQ flexibility** | Launch-ready with as low as 500 units (stock) or 3,000 units (custom). | Often 5,000-10,000+ MOQ to be prioritised, even on the first run. Little flexibility. |
+| **Packaging & fill** | Tight spec alignment. Rigid QC across fill weights, aesthetics, and stability. | High fill variance, unstable bottles, thin plastics, incorrect viscosity. |
+| **Service & communication** | Dedicated PM, fast response, phone/email support, and proactive guidance. | Language barriers, long delays, little to no formulation collaboration |
+| **Returns, recalls & relabeling** | US-based production = fast re-label or recall-ready if needed. | Impossible to fix post-shipment. No legal recourse. |
+| **IP protection** | NDA-bound custom formulas, never resold or white-labeled without permission. | Formula re-use is common, especially in white-label environments. |
+| **Logistics, tariffs & fulfillment** | Product is already in the US – you simply schedule delivery to Amazon, a 3PL, or your fulfillment partner. No surprise fees. Domestic shipping costs only. | You must coordinate and pay for international air/ocean freight, face volatile shipping costs, tariffs, customs delays, and clearance issues – all of which can destroy timelines and budgets at scale. |
 
 
 ### Protecting your brand
