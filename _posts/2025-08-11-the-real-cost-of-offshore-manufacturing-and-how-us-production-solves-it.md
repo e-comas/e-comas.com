@@ -44,21 +44,17 @@ When comparing quotes across different manufacturers, it’s easy to focus on un
 
 Our friends at GP Labs, a private label manufacturer with facilities in both Florida & Georgia, have provided this table to show what's actually included in their full-service, North American manufacturing quote – and what’s usually missing from those that come in 5-6 times cheaper.
 
-
-
 <table>
   <tr> 
     <td></td>
-    <td>**GP Labs (US Manufacturing)**</td>
-    <td>**Typical Low-Cost Offshore Quote**</td>
+    <td>GP Labs (US Manufacturing)</td>
+    <td>Typical Low-Cost Offshore Quote</td>
   </tr>
   <tr> 
-    <td>**Formula quality**</td>
+    <td>Formula quality</td>
     <td>Clinically active % of ingredients. <br> Clean-label. Vegan or naturally sourced where possible.</td>
     <td>Fillers, synthetics, unstable emulsifiers, unverified % of actives.</td>
   </tr>
 </table>
-
-
 
 <!--EndFragment-->
