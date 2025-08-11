@@ -18,7 +18,7 @@ For US sellers, manufacturing in Asia to sell on [Amazon.com](http://amazon.com)
 
 Trump's tariff regime has seen alarming price rises for manufacturers and consumers alike. In fact, the average US tariff rate on all goods from overseas is at its highest level since 1934: 18.2%, [according to the Budget Lab at Yale](https://budgetlab.yale.edu/research/state-us-tariffs-july-28-2025).
 
-Manufacturers often have no choice but to pass on these higher costs to their customers, with dire consequences in terms of brand loyalty and cut-price competition. 
+Manufacturers often have no choice but to pass onƒ these higher costs to their customers, with dire consequences in terms of brand loyalty and cut-price competition. 
 
 But the tariff war isn't the only compelling financial reason to start investigating US production.
 
@@ -44,57 +44,66 @@ When comparing quotes across different manufacturers, it’s easy to focus on un
 
 Our friends at [GP Labs](https://www.gplabsco.com/), a private label manufacturer with facilities in both Florida & Georgia, have provided this table to show what's actually included in their full-service, North American manufacturing quote – and what’s usually missing from those that come in 5-6 times cheaper.
 
-**<center> Comparison: US Manufacturing vs Offshore Low-Cost Vendors <center>**
+<strong><center> Comparison: US Manufacturing vs Offshore Low-Cost Vendors </center></strong>
 
-<table>
+<table border="1">
   <tr> 
     <td></td>
-    <td>\*\*GP Labs (US Manufacturing)\*\*</td>
-    <td>\*\*Typical Low-Cost Offshore Quote\*\*</td>
+    <td><strong>GP Labs (US Manufacturing)</strong></td>
+    <td><strong>Typical Low-Cost Offshore Quote</strong></td>
   </tr>
   <tr> 
-    <td>\*\*Formula quality\*\*</td>
+    <td><strong>Formula quality</strong></td>
     <td>Clinically active % of ingredients. <br> Clean-label. Vegan or naturally sourced where possible.</td>
     <td>Fillers, synthetics, unstable emulsifiers, unverified % of actives.</td>
   </tr>
-    <td>\*\*Testing\*\*</td>
+    <td><strong>Testing</strong></td>
     <td>Microbial, heavy metals, stability – available and encouraged for all SKUs.</td>
     <td>Often skipped or additional cost – sometimes not available at all.</td>
   </tr>
   <tr> 
-    <td>\*\*Compliance support\*\*</td>
+    <td><strong>Compliance support</strong></td>
     <td>FDA, Health Canada, and Amazon-aligned labeling + regulatory guidance included.</td>
     <td>Clients must manage all compliance – high risk of claim violations making brand vulnerable to lawsuits.</td>
   </tr>
- <td>\*\*Speed to market\*\*</td>
+  <tr>
+ <td><strong>Speed to market</strong></td>
     <td>2-4 weeks (stock) / 4-6 weeks (custom) with rapid sample cycles.</td>
     <td>8-12+ weeks including customs, formulation unknowns, and back-and-forth.
-  <tr> 
-    <td>MOQ flexibility</td>
+    </tr>
+      <tr> 
+    <td><strong>MOQ flexibility</strong></td>
     <td>Launch-ready with as low as 500 units (stock) or 3,000 units (custom).</td>
     <td>Often 5,000-10,000+ MOQ to be prioritised, even on the first run. Little flexibility.</td>
   </tr>
-  <td>Packaging & fill</td>
+  <tr>
+  <td><strong>Packaging & fill</strong></td>
     <td>Tight spec alignment. Rigid QC across fill weights, aesthetics, and stability.</td>
     <td>High fill variance, unstable bottles, thin plastics, incorrect viscosity.</td>
+  </tr>
   <tr> 
-    <td>Service & communication</td>
+    <td><strong>Service & communication</strong></td>
     <td>Dedicated PM, fast response, phone/email support, and proactive guidance.</td>
     <td>Language barriers, long delays, little to no formulation collaboration</td>
   </tr>
-  <td>Returns, recalls & relabeling</td>
+  <tr>
+  <td><strong>Returns, recalls & relabeling</strong></td>
     <td>US-based production = fast re-label or recall-ready if needed.</td>
     <td>Impossible to fix post-shipment. No legal recourse.</td>
-  <tr> 
-    <td>IP protection</td>
+  </tr>
+    <tr> 
+    <td><strong>IP protection</strong></td>
     <td>NDA-bound custom formulas, never resold or white-labeled without permission.</td>
     <td>Formula re-use is common, especially in white-label environments.</td>
   </tr>
-  <td>Logistics, tariffs & fulfillment</td>
+  <tr>
+  <td><strong>Logistics, tariffs & fulfillment</strong></td>
     <td>Product is already in the US – you simply schedule delivery to Amazon, a 3PL, or your fulfillment partner. No surprise fees. Domestic shipping costs only.</td>
-    <td>You must coordinate and pay for international air/ocean freight, face volatile shipping costs, tariffs, customs delays, and clearance issues – all of which can destroy timelines and budgets at scale.
+    <td>You must coordinate and pay for international air/ocean freight, face volatile shipping costs, tariffs, customs delays, and clearance issues – all of which can destroy timelines and budgets at scale.</td>
   </tr>
 </table>
+
+
 
 ### Protecting your brand
 
