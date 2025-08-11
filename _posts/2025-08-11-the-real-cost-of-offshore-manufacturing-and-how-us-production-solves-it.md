@@ -55,6 +55,61 @@ Our friends at GP Labs, a private label manufacturer with facilities in both Flo
     <td>Clinically active % of ingredients. <br> Clean-label. Vegan or naturally sourced where possible.</td>
     <td>Fillers, synthetics, unstable emulsifiers, unverified % of actives.</td>
   </tr>
+    <td>Testing</td>
+    <td>Microbial, heavy metals, stability – available and encouraged for all SKUs.</td>
+    <td>Often skipped or additional cost – sometimes not available at all.</td>
+  </tr>
+  <tr> 
+    <td>Compliance support</td>
+    <td>FDA, Health Canada, and Amazon-aligned labeling + regulatory guidance included.</td>
+    <td>Clients must manage all compliance – high risk of claim violations making brand vulnerable to lawsuits.</td>
+  </tr>\
+ <td>Speed to market</td>
+    <td>2-4 weeks (stock) / 4-6 weeks (custom) with rapid sample cycles.</td>
+    <td>8-12+ weeks including customs, formulation unknowns, and back-and-forth.</td>
+  </tr>
+  <tr> 
+    <td>MOQ flexibility</td>
+    <td>Launch-ready with as low as 500 units (stock) or 3,000 units (custom).</td>
+    <td>Often 5,000-10,000+ MOQ to be prioritised, even on the first run. Little flexibility.</td>
+  </tr>\
+  <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+  </tr>
+  <tr> 
+    <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+  </tr>\
+  <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+  </tr>
+  <tr> 
+    <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+  </tr>\
+  <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+  </tr>
+  <tr> 
+    <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+  </tr>\
+  <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+  </tr>
+  <tr> 
+    <td>Column 1</td>
+    <td>Column 2</td>
+    <td>Column 3</td>
+  </tr>
 </table>
+
 
 <!--EndFragment-->
