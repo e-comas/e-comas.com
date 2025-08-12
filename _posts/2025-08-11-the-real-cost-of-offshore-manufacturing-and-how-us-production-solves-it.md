@@ -3,9 +3,9 @@ layout: blog
 title: The real cost of offshore manufacturing (and how US production solves it!)
 author: Jess Chapman, e-Comas & Natasha Nicole, GP Labs
 date: 2025-08-11T10:39:26.111Z
-excerpt: For US sellers, manufacturing in Asia to sell on
-  [Amazon.com](http://amazon.com) just got a lot more complicated – and costly.
-  Here's why you should investigate US manufacturing options.
+excerpt: For US sellers, manufacturing in Asia to sell on Amazon.com just got a
+  lot more complicated – and costly. Here's why you should investigate US
+  manufacturing options.
 thumbnail: /images/uploads/gplabsblog-04aug-sm-1200x1200.jpg
 thumbnail_alt: Blog cover image
 tags:
