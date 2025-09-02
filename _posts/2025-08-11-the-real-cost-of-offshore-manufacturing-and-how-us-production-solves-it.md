@@ -63,6 +63,8 @@ Our friends at [GP Labs](https://www.gplabsco.com/), a private label manufacture
 | **IP protection**                    | NDA-bound custom formulas, never resold or white-labeled without permission.                                                                               | Formula re-use is common, especially in white-label environments.                                                                                                                                       |
 | **Logistics, tariffs & fulfillment** | Product is already in the US – you simply schedule delivery to Amazon, a 3PL, or your fulfillment partner. No surprise fees. Domestic shipping costs only. | You must coordinate and pay for international air/ocean freight, face volatile shipping costs, tariffs, customs delays, and clearance issues – all of which can destroy timelines and budgets at scale. |
 
+***Click [here](https://bit.ly/41u6Wer) to get the comparison table as a handy pdf.***
+
 ### Protecting your brand
 
 The bottom line is that US manufacturing protects your brand, reputation, and speed to market, ensuring a more profitable product and allowing business growth.
