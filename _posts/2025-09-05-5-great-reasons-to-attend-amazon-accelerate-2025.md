@@ -16,7 +16,7 @@ tags:
 
 *Dharmesh Mehta speaking at Accelerate 2024. Image by Amazon*
 
-Amazon Accelerate returns once again to Seattle, WA in just a couple of weeks. e-Comas will be attending – as well as speaking at the show.
+Amazon Accelerate returns once again to Seattle, WA next week. e-Comas will be attending – as well as speaking at the show.
 
 Here’s all the reasons you should put 16-18 September in your calendar, and [book your tickets to Accelerate 2025](https://www.amazonaccelerate.com/event/d2925564-693f-4a85-94f1-ca2ad919a832/summary), today.
 
