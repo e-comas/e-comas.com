@@ -30,7 +30,7 @@ Or you can watch us give a presentation on that subject…
 
 ### You can learn from the experts (us) how to expand into Europe
 
-We’ll be speaking at the show: our founder and CEO Jérôme de Guigné will be chatting with AVASK’s Alexandra R about how to unlock the billion-dollar opportunity of selling on Amazon in Europe.
+We’ll be speaking at the show: our founder and CEO Jérôme de Guigné will be chatting with AVASK’s Alexandra Ramirez about how to unlock the billion-dollar opportunity of selling on Amazon in Europe.
 
 We’ll talk about the strong growth position of the EU and UK markets, and how to manage cross-border operations smoothly, as well as:
 
