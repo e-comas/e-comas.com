@@ -45,9 +45,9 @@ e-Comas's founder and CEO Jérôme de Guigné says: "Andy Jassy's presentation w
 
 "That includes 'Amazon as a Service': Amazon is opening up completely to other platforms for its fulfilment, shipping and ads services, a massive change from five years ago. This means Amazon’s companies and services are selling beyond the Amazon marketplace, fuelling huge growth and generating revenue from its very competitors.
 
-> "Amazon will be unreachable if they keep fostering these values at scale. They're an inspiration."
->
-> ### Growth of AI
+"Amazon will be unreachable if they keep fostering these values at scale. They're an inspiration."
+
+### Growth of AI
 
 Andy Jassy also said AI is going "to be the most transformative technology of our lifetime", which set the tone for the many AI innovations announced at the show, including upgrades to Seller Assistant, Enhance My Listing, and A+ Content.
 
