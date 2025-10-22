@@ -15,7 +15,7 @@ tags:
 
 ![e-Comas and b.box for kids at Amazon Accelerate](/images/uploads/jerome-and-jason-1.webp "e-Comas and b.box for kids at Amazon Accelerate")
 
-One of e-Comas’s star clients, b.box for kids is a baby and kids brand that’s taking the world by storm.
+One of e-Comas’s star clients, [b.box for kids](https://www.linkedin.com/company/bboxforkids/) is a baby and kids brand that’s taking the world by storm.
 
 Here’s how they’re using Amazon to grow their business globally, even in regions where there’s major competition.
 
@@ -25,7 +25,7 @@ b.box is an Australian manufacturer of high-quality feeding and hydration produc
 
 The company slogan is “b.box problem, solved”, and that goes deep into the company ethos: products are developed by identifying parenting, and meeting those needs.
 
-The constant evolution of Amazon fits well with that ethos, says Jason Mullen, eCommerce Leader for b.box in the USA. “There's always a way to take the customer data and test it in a different way, and find a new solution.”
+The constant evolution of Amazon fits well with that ethos, says [Jason Mullen](https://www.linkedin.com/in/jasonmullenmarketing/), eCommerce Leader for b.box in the USA. “There's always a way to take the customer data and test it in a different way, and find a new solution.”
 
 With the help of e-Comas, b.box is now expanding its business globally via Amazon. This big fish in Australia is now competing with big fish in other ponds: in the USA, for example, where it’s up against fierce competition.
 
@@ -51,7 +51,7 @@ If your content is consistent, and your brand story comes through strongly, you�
 
 ![Jérôme de Guigné and Jason Mullen at Amazon Accelerate 2025](/images/uploads/jerome-and-jason-2.webp "Jérôme de Guigné and Jason Mullen at Amazon Accelerate 2025")
 
-*Jason Mullen (l) and Jérôme de Guigné at Amazon Accelerate 2025*
+*Jason Mullen (l) and Jérôme de Guigné at [Amazon Accelerate 2025](https://e-comas.com/2025/10/02/ai-expansion-and-amazon-as-a-service-everything-we-learned-at-amazon-accelerate-2025.html)*
 
 As well as strong imagery and content, keywords are vital, says Jason – across your titles, bullet points and descriptions, but also in your advertising.
 
@@ -75,7 +75,7 @@ This is where it actually pays to be a challenger brand on Amazon. Rather than c
 
 ### The power of advertising
 
-e-Comas makes extensive use of Amazon Marketing Cloud (AMC) to find the ‘loopholes’ mentioned – the combinations of ad placements that work most cost-effectively for maximum conversion.
+e-Comas makes extensive use of [Amazon Marketing Cloud (AMC)](https://e-comas.com/2024/05/21/demystifying-amc-e-comas-launches-new-white-paper-on-how-to-use-amazon-marketing-cloud.html) to find the ‘loopholes’ mentioned – the combinations of ad placements that work most cost-effectively for maximum conversion.
 
 For example, the New to Brand Gateway ASIN report shows which ASIN is most likely to lead to a brand’s discovery by new customers. Using only this, e-Comas increased conversion rate by 21% in July and August.
 
