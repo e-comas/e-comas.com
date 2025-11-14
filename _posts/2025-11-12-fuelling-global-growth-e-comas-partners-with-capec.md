@@ -20,7 +20,7 @@ But one challenge many fast-growing sellers face, which has little to do with st
 
 Expanding into new markets requires inventory, marketing investment and operational runway. For many brands, that can become a bottleneck.
 
-That’s why we’re thrilled to announce our new partnership with [CapEc – eCommerce Capital Partners](https://capec.io/), a leading provider of flexible, non-dilutive funding solutions for digital brands.
+That’s why we’re thrilled to announce our new partnership with [CapEc – eCommerce Capital Partners](https://capec.io/partnership-program/?utm_source=Ecomas&utm_id=Ecomas), a leading provider of flexible, non-dilutive funding solutions for digital brands.
 
 Together, we’re helping sellers access the capital and expertise they need to scale faster and smarter across global marketplaces.
 
