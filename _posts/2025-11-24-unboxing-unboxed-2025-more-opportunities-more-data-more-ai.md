@@ -2,7 +2,7 @@
 layout: blog
 title: "Unboxing unBoxed 2025: More opportunities, more data, more AI"
 author: Jess Chapman
-date: 2025-11-24T10:53:37.844Z
+date: 2025-11-24T13:10:20.055Z
 excerpt: We're back from one of the most news-packed editions of unBoxed ever.
   Here's the e-Comas round-up of the biggest innovations coming soon from Amazon
   Ads
