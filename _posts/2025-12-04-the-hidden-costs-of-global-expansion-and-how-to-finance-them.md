@@ -23,7 +23,7 @@ This is one of our passions: we firmly believe that any successful seller on Ama
 
 Although, of course, fast expansion has risks and dangers, and one of the biggest considerations for brands is how to finance their growth. Without ready capital, a scalable global expansion strategy can fail quickly.
 
-Enter CapEc. The business quickly provides growth capital specifically for eCommerce sellers, based on the seller’s store data.
+Enter [CapEc](https://capec.io/). The business quickly provides growth capital specifically for eCommerce sellers, based on the seller’s store data.
 
 Here’s how CapEc can help with the ‘hidden costs’ of global expansion.
 
@@ -63,6 +63,6 @@ Increased order volumes, higher ad spend, front-loaded logistics costs and deep 
 
 To stay capital-ready through Q4 and other sales seasons, smart sellers can use CapEc to secure funding to invest in inventory and advertising without having to commit to an equity partner that ends up being more expensive.
 
-**e-Comas and CapEc are proud to work together to help brands grow quickly and globally on Amazon. If you want to scale faster, smarter and more profitably across international marketplaces, [contact us today!](https://e-comas.com/contact.html)**
+**[e-Comas and CapEc are proud to work together](https://e-comas.com/2025/11/12/fuelling-global-growth-e-comas-partners-with-capec.html) to help brands grow quickly and globally on Amazon. If you want to scale faster, smarter and more profitably across international marketplaces, [contact us today!](https://e-comas.com/contact.html)**
 
 <!--EndFragment-->
