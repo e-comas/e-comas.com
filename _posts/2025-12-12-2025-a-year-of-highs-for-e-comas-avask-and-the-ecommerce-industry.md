@@ -2,7 +2,7 @@
 layout: blog
 title: "2025: a year of highs for e-Comas, AVASK, and the eCommerce industry"
 author: Jess Chapman
-date: 2025-12-16T09:43:06.492Z
+date: 2025-12-16T10:13:31.180Z
 excerpt: It's been one of the biggest years yet both for e-Comas and our friends
   at eCommerce compliance specialist AVASK. Here's a rundown of 2025's many
   highs
