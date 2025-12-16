@@ -41,6 +41,8 @@ We also launched several of our own intelligent data and tech tools, such as the
 
 A professional highlight for Jérôme was speaking at [Amazon Accelerate](https://e-comas.com/2025/10/02/ai-expansion-and-amazon-as-a-service-everything-we-learned-at-amazon-accelerate-2025.html): a fantastic show, and once again we were delighted to team up with AVASK for it.
 
+![](/images/uploads/accelerate.png)
+
 Meanwhile, AVASK have continued to lead the way in VAT and EPR compliance solutions. Their [Extended Producer Responsibility (EPR) services](https://avask.com/epr/) helped thousands of sellers navigate new regulations in the UK and EU, ensuring sustainability and cost efficiency.
 
 AVASK also introduced an [insurance-backed solution for the Italian VAT Guarantee](https://avask.com/blog/avask-italian-vat-compliance/), significantly reducing upfront costs for businesses entering the Italian market and making compliance more accessible than ever.
