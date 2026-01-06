@@ -3,7 +3,7 @@ layout: blog
 title: "Pricing strategies in 2025: Amazon Dynamic Pricing, and the fall of the
   99 cent factor"
 author: Jérôme de Guigné
-date: 2025-11-13T12:21:38.180Z
+date: 2026-01-07T12:56:52.187Z
 excerpt: We're seeing less charm pricing these days, and more dynamic automated
   pricing, but pricing psychology is still an important consideration for
   sellers
