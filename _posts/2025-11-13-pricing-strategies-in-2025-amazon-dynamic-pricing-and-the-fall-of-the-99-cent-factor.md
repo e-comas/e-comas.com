@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Pricing strategies in 2025: Amazon Dynamic Pricing, and the fall of the
+title: "Pricing strategies in 2026: Amazon Dynamic Pricing, and the fall of the
   99 cent factor"
 author: Jérôme de Guigné
 date: 2026-01-07T12:56:52.187Z
@@ -14,7 +14,7 @@ tags:
 ---
 <!--StartFragment-->
 
-Earlier this year, eBay flew in the face of decades of pricing psychology when it abandoned seller fees and instead added fees to the price of each item, on a +4% +72p model. So an item that the seller wants to charge a nice round £10 for ends up as £11.12.
+In 2025, eBay flew in the face of decades of pricing psychology when it abandoned seller fees and instead added fees to the price of each item, on a +4% +72p model. So an item that the seller wants to charge a nice round £10 for ends up as £11.12.
 
 While [sellers have complained](https://community.ebay.co.uk/t5/Buying/What-s-with-the-weird-start-prices/td-p/7781286) that shoppers don’t like these prices, eBay’s logic is that traditional pricing strategies, including the most famous – charm pricing, aka ‘the 99 cent factor’ – don’t matter as much on today’s eCommerce marketplaces.
 
