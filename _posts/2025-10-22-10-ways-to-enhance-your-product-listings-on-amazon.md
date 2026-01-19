@@ -2,7 +2,7 @@
 layout: blog
 title: 10 ways to enhance your product listings on Amazon
 author: Jess Chapman
-date: 2025-10-27T10:49:29.210Z
+date: 2026-01-22T10:49:29.210Z
 excerpt: Never underestimate the importance of your listings content to your
   conversion rate. Here are 10 things you can do to enhance your Amazon listings
 thumbnail: /images/uploads/vinyl-boxes-crop.jpg
