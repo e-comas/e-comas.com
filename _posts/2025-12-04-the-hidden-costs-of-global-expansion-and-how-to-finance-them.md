@@ -23,7 +23,7 @@ This is one of our passions: we firmly believe that any successful seller on Ama
 
 Although, of course, fast expansion has risks and dangers, and one of the biggest considerations for brands is how to finance their growth. Without ready capital, a scalable global expansion strategy can fail quickly.
 
-Enter [CapEc](https://capec.io/). The business quickly provides growth capital specifically for eCommerce sellers, based on the seller’s store data.
+Enter [CapEc](https://capec.io/partnership-program/?utm_source=Ecomas&utm_id=Ecomas). The business quickly provides growth capital specifically for eCommerce sellers, based on the seller’s store data.
 
 Here’s how CapEc can help with the ‘hidden costs’ of global expansion.
 
