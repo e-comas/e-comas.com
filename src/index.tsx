@@ -32,24 +32,21 @@ export default (
   <Body>
     <Header />
     <div class="intro animate in">
-      <figure>
-        <figcaption class="text">
-          <h3>The boutique agency</h3>
-          <h3>you need to thrive on</h3>
-        </figcaption>
-        <img src="/images/partners/anim.svg"></img>
-      </figure>
+      <h2>Your growth partners</h2>
       <div>
         <p>
-          Skyrocket your success and grow your brand with proven global
-          expansion strategies, winning media campaigns and powerful technology.{" "}
-          <EComas /> is the full service <ECommerce /> agency to help you get
-          there.
+          We make <ECommerce /> simple, helping you grow globally, fast, across multiple channels.
         </p>
-        <a href="/contact.html" class="cta no-arrow">
-          book a call
-          <FontAwesomeIcon icon={faPhone as IconProp} />
-        </a>
+        <div class="ctas">
+          <a href="/contact.html" class="cta no-arrow">
+            book a call
+            <FontAwesomeIcon icon={faPhone as IconProp} />
+          </a>
+          <a href="/services.html" class="cta">
+            our services
+          </a>
+        </div>
+
       </div>
     </div>
     <main id="main-content">

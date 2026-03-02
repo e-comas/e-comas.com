@@ -4,7 +4,7 @@ import Body from "./views/Body.tsx";
 import Header from "./views/Header.tsx";
 import Breadcrumbs from "./views/Breadcrumbs.tsx";
 import Footer from "./views/Footer.tsx";
-import { ECommerce } from "./views/eWords.tsx";
+import { ECommerce, ECockpits } from "./views/eWords.tsx";
 import FourStepApproach from "./views/FourStepApproach.tsx";
 import ElementWithBackgroundImage from "./utils/ElementWithBackgroundImage.tsx";
 import SlidingText from "./views/SlidingText.tsx";
