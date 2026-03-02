@@ -46,7 +46,7 @@ export default (
             our services
           </a>
         </div>
-
+        <img src="/images/partners/anim.svg" />
       </div>
     </div>
     <main id="main-content">
