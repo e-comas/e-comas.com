@@ -59,7 +59,7 @@
         gap: 1rem;
         text-align: left;
 
-        & > svg {
+        & > svg, & picture> img {
           max-width: 5rem;
           margin-top: 0.5rem;
         }

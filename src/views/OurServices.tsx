@@ -3,9 +3,6 @@ import { h } from "@aduh95/async-jsx";
 import Picture from "../utils/Picture";
 
 import "./OurServices.scss";
-import GlobalExpansion from "./GlobalExpansion.svg";
-import RetailMedia from "./RetailMedia.svg";
-import Technology from "./Technology.svg";
 
 import "./animate-in.scss";
 import "runtime:./animate-in.ts";
@@ -25,11 +22,12 @@ export default () => (
       <figure class="animate-in">
         <Picture src="/images/e-comas-24.jpg" alt="illustration" />
         <figcaption>
-          <FontAwesomeIcon
+          {/* <FontAwesomeIcon
             size="4x"
             icon={ecMarketplace as IconProp}
             color="#85c9bb"
-          />
+          /> */}
+          <Picture src="/images/icons/pngs/e-Comas_Pictograms_Marketplace.png" alt=""/>
           <h4>Marketplace</h4>
           <p>
             <EComas /> Marketplace manages, optimises and scales brands across Amazon
@@ -45,11 +43,12 @@ export default () => (
       <figure class="animate-in">
         <Picture src="/images/e-comas-198.jpg" alt="illustration" />
         <figcaption>
-          <FontAwesomeIcon
+          {/* <FontAwesomeIcon
             size="4x"
             icon={ecDistribution as IconProp}
             color="#4468b0"
-          />
+          /> */}
+          <Picture src="/images/icons/pngs/e-Comas_Pictograms_Distribution.png" alt=""/>
           <h4>Distribution / 3PL</h4>
           <p>
             <EComas /> Distribution offers warehousing, customer service and
@@ -67,11 +66,12 @@ export default () => (
       <figure class="animate-in">
         <Picture src="/images/e-comas-22.jpg" alt="illustration" />
         <figcaption>
-          <FontAwesomeIcon
+          {/* <FontAwesomeIcon
             size="4x"
             icon={ecDigital as IconProp}
             color="#d4387f"
-          />
+          /> */}
+          <Picture src="/images/icons/pngs/e-Comas_Pictograms_DigitalMarketing.png" alt=""/>
           <h4>Digital marketing</h4>
           <p>
             <EComas /> Digital Marketing offers brands social media, creative and
@@ -88,7 +88,8 @@ export default () => (
       <figure class="animate-in">
         <Picture src="/images/e-comas-23.jpg" alt="illustration" />
         <figcaption>
-          <FontAwesomeIcon size="4x" icon={ecTech as IconProp} color="#f6a53d" />
+          {/* <FontAwesomeIcon size="4x" icon={ecTech as IconProp} color="#f6a53d" /> */}
+          <Picture src="/images/icons/pngs/e-Comas_Pictograms_Technology.png" alt=""/>
           <h4>Technology</h4>
           <p>
             <EComas /> Technology gives brands the best tech solutions to grow sales,
