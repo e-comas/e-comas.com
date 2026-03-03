@@ -2,6 +2,8 @@
 
 main{
     padding: $body-padding;
+    // the logo already pads on top
+    padding-top: 0;
     margin:auto;
     section, figure {
         padding-top: 2rem;
@@ -171,5 +173,28 @@ main{
 
     background-color: white;
     box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.02);
+  }
+}
+
+.entitylogo {
+  width:100%;
+  height: auto;
+  margin: auto;
+  padding: 0;
+  picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    img{
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  }
+  @media screen and (min-width: 800px){
+    width: 75%;
+    max-height: 25vh;
   }
 }

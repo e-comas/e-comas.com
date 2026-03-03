@@ -16,6 +16,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import { IconProp } from "@fortawesome/fontawesome-svg-core";
 import { EComas, ECommerce } from "./views/eWords.tsx";
+import Picture from "./utils/Picture.tsx";
 
 
 export default (
@@ -32,6 +33,7 @@ export default (
       </a>
     </Hero>
     <main id="main-content">
+    <Picture alt="Marketplace" src="/images/Logos_e-Comas/Entités/Marketplace/Horizontal/e-Comas_LogosH_Entité-MarketPlace_Monochrome.svg" class="entitylogo" />
       <section class="what-we-do">
         <h2>What do we do?</h2>
         <p>

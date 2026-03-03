@@ -27,6 +27,7 @@ export default (
       </a>
     </Hero>
     <main id="main-content">
+    <Picture alt="Technology" src="/images/Logos_e-Comas/Entités/Tech/Horizontal/e-Comas_LogosH_Entité-Tech_Monochrome.svg" class="entitylogo" />
       <section class="what-we-do">
         <h2>What do we do?</h2>
         <p>
