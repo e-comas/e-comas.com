@@ -8,7 +8,7 @@ import MarketingFunnel from "./views/MarketingFunnel.tsx";
 import SlidingText from "./views/SlidingText.tsx";
 import HoverableMenu from "./views/HoverableMenu.tsx";
 import ElementWithBackgroundImage from "./utils/ElementWithBackgroundImage.tsx";
-import { ECommerce } from "./views/eWords.tsx";
+import { ECommerce, EComas } from "./views/eWords.tsx";
 import Footer from "./views/Footer.tsx";
 
 import "./classic-page.scss";

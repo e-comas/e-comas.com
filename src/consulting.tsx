@@ -7,7 +7,7 @@ import Picture from "./utils/Picture.tsx";
 import FourStepApproach from "./views/FourStepApproach.tsx";
 import SlidingText from "./views/SlidingText.tsx";
 import HoverableMenu from "./views/HoverableMenu.tsx";
-import { ECommerce } from "./views/eWords.tsx";
+import { ECommerce, EComas } from "./views/eWords.tsx";
 import ElementWithBackgroundImage from "./utils/ElementWithBackgroundImage.tsx";
 import Footer from "./views/Footer.tsx";
 

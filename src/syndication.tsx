@@ -203,7 +203,10 @@ export default (
             partners at Salsify helped a leading tyres brand save time and
             improve consistency.
           </p>
-          <a class="cta open-in-modal" href="TODO">
+          {
+            // TODO: Add modal
+          }
+          <a class="cta open-in-modal" href="/">
             Download
             <FontAwesomeIcon icon={faDownload as IconProp} />
           </a>
