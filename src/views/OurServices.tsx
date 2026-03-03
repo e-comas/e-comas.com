@@ -10,7 +10,7 @@ import Technology from "./Technology.svg";
 import "./animate-in.scss";
 import "runtime:./animate-in.ts";
 import { FontAwesomeIcon } from "@aduh95/jsx-fontawesome";
-import { ecData, ecTarget, ecGlobe, ecPersonAndCog } from "../utils/customIconDefinition";
+import { ecMarketplace, ecDistribution, ecDigital, ecTech } from "../utils/customIconDefinition";
 import { Icon, IconProp } from "@fortawesome/fontawesome-svg-core";
 import { EComas, ECommerce } from "./eWords";
 
@@ -27,8 +27,8 @@ export default () => (
         <figcaption>
           <FontAwesomeIcon
             size="4x"
-            icon={ecGlobe as IconProp}
-            color="#fed13f"
+            icon={ecMarketplace as IconProp}
+            color="#85c9bb"
           />
           <h4>Marketplace</h4>
           <p>
@@ -47,10 +47,10 @@ export default () => (
         <figcaption>
           <FontAwesomeIcon
             size="4x"
-            icon={ecTarget as IconProp}
-            color="#fed13f"
+            icon={ecDistribution as IconProp}
+            color="#4468b0"
           />
-          <h4>DISTRIBUTION / 3PL</h4>
+          <h4>Distribution / 3PL</h4>
           <p>
             <EComas /> Distribution offers warehousing, customer service and
             distribution capacity in the UK and Europe. Headed by Fred Rainjonneau,
@@ -69,8 +69,8 @@ export default () => (
         <figcaption>
           <FontAwesomeIcon
             size="4x"
-            icon={ecData as IconProp}
-            color="#fed13f"
+            icon={ecDigital as IconProp}
+            color="#d4387f"
           />
           <h4>Digital marketing</h4>
           <p>
@@ -88,7 +88,7 @@ export default () => (
       <figure class="animate-in">
         <Picture src="/images/e-comas-23.jpg" alt="illustration" />
         <figcaption>
-          <FontAwesomeIcon size="4x" icon={ecPersonAndCog as IconProp} color="#fed13f" />
+          <FontAwesomeIcon size="4x" icon={ecTech as IconProp} color="#f6a53d" />
           <h4>Technology</h4>
           <p>
             <EComas /> Technology gives brands the best tech solutions to grow sales,
