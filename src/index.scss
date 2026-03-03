@@ -217,9 +217,11 @@ div.intro {
   color: white;
   text-align: center;
 
-  min-height:512px;
-  // min-height:95vh;
-
+  height:calc(100svh - 100px);
+  max-height: 200svw;
+  &>*{
+    margin:auto;
+  }
   // min-height: 20rem;
   p {
     font-size: 1.1rem;
@@ -309,6 +311,9 @@ div.intro {
   }
 
   @media screen and (min-width: 800px) {
+    height: unset;
+    min-height:512px;
+    max-height: initial;
     display: flex;
     flex-direction: column;
     gap: 1ch;
