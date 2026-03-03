@@ -43,7 +43,7 @@ export default (
             book a call
             <FontAwesomeIcon icon={faPhone as IconProp} />
           </a>
-          <a href="/services.html" class="cta">
+          <a href="#our-services" class="cta">
             our services
           </a>
         </div>
