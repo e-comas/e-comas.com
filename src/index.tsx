@@ -32,6 +32,7 @@ export default (
   <Body>
     <Header />
     <div class="intro animate in">
+      <img src="/images/Logos_e-Comas/Groupe/Horizontal/e-Comas_LogosH_Groupe_FullWhite_HD.svg" />
       <h2>Your growth partners</h2>
       <div>
         <p>
