@@ -31,7 +31,7 @@ export default (
       </a>
     </Hero>
     <main id="main-content">
-      <Picture alt="Distribution" src="/images/Logos_e-Comas/Entités/Distribution/Horizontal/e-Comas_LogosH_Entité-Distribution_Monochrome_HD.svg" class="entitylogo" />
+      <img alt="Distribution" src="/images/Logos_e-Comas/Entités/Distribution/Horizontal/e-Comas_LogosH_Entité-Distribution_Monochrome_HD.svg" class="entitylogo" />
       <section class="what-we-do">
         <h2>What do we do?</h2>
         <p>

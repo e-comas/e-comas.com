@@ -33,7 +33,7 @@ export default (
       </a>
     </Hero>
     <main id="main-content">
-    <Picture alt="Marketplace" src="/images/Logos_e-Comas/Entités/Marketplace/Horizontal/e-Comas_LogosH_Entité-MarketPlace_Monochrome.svg" class="entitylogo" />
+    <img alt="Marketplace" src="/images/Logos_e-Comas/Entités/Marketplace/Horizontal/e-Comas_LogosH_Entité-MarketPlace_Monochrome.svg" class="entitylogo" />
       <section class="what-we-do">
         <h2>What do we do?</h2>
         <p>
