@@ -97,6 +97,9 @@ export default () => (
             third-party tech experts for the best eCommerce software, data and AI
             strategies. Claudiu Clement leads the <EComas /> Technology division.
           </p>
+          <a href="/technology.html" class="cta">
+            Learn more
+          </a>
         </figcaption>
       </figure>
     </div>
