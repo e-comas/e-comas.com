@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-5 -17 100 100"><!--with a solid blue background--><defs><style>svg {
+        background-color: #2f308d;
+      }
+      .st0 {
+        fill: #fff;
+      }</style></defs><circle class="st0" cx="45.15" cy="50.38" r="1.92"/><circle class="st0" cx="66.98" cy="50.38" r="1.92"/><rect class="st0" x="24.32" y="42.62" width="9.33" height="3.25"/><rect class="st0" x="13.44" y="33.22" width="15.19" height="3.25"/><path class="st0" d="M77.4,17.05c-.46-.51-1.11-.8-1.8-.8h-40.9l-.43-2h-7v3.25h4.37l.11.49h0s4.75,20.56,4.75,20.56h0s.07.3.07.3l.34,1.48h.03s.57,2.27.57,2.27c.39,2.11,2.22,3.64,4.37,3.64h29.43v-3.25h-29.43c-.59,0-1.07-.42-1.19-1.07l-.5-2.01,34.43-4.47c1.07-.18,1.9-1.07,2-2.15l1.41-14.37c.07-.68-.16-1.36-.62-1.86ZM74.7,19.51l-1.26,12.81-34.03,4.42-3.98-17.22h39.27Z"/></svg>
