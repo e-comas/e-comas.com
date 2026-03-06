@@ -53,10 +53,10 @@ body.noScroll {
   margin: 0 auto 1rem;
   @extend %button;
 
-  &:not(.no-arrow)::after {
-    content: "→";
-    padding-left: 1ch;
-  }
+  // &:not(.no-arrow)::after {
+  //   content: "→";
+  //   padding-left: 1ch;
+  // }
   &:hover {
     color: white;
     background-color: $grey;

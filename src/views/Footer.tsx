@@ -266,7 +266,7 @@ export default (props: Props | undefined) => (
         <img src="/images/MadeInLux.svg" alt="Made in Luxembourg" />
       </div>
       <div class="copyright-notice">
-        © 2024 · <EComas /> · All Rights Reserved
+        © 2026 · <EComas /> · All Rights Reserved
       </div>
     </div>
     <div class="lower-footer">
