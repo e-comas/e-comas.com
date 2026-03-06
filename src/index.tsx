@@ -39,7 +39,8 @@ export default (
           We make <ECommerce /> simple, helping you grow globally, fast, across multiple channels.
         </p>
         <div class="ctas">
-          <a href="/contact.html" class="cta no-arrow">
+          {/* <a href="/contact.html" class="cta no-arrow"> */}
+          <a href="#bookACall" class="cta no-arrow">
             book a call
             <FontAwesomeIcon icon={faPhone as IconProp} />
           </a>
@@ -99,9 +100,9 @@ export default (
             />
           </a>
         </div>
-        <a href="/about-us.html#clients" class="cta">
+        {/* <a href="/about-us.html#clients" class="cta">
           See more
-        </a>
+        </a> */}
       </Partners>
       {/* <hr /> */}
       <Partners>
@@ -126,9 +127,9 @@ export default (
             <img alt="Reveals" src="/images/partners/Amazon ADS.svg" />
           </a>
         </div>
-        <a href="partners.html" class="cta">
+        {/* <a href="partners.html" class="cta">
           See more
-        </a>
+        </a> */}
       </Partners>
       <AboutUs />
       {/* <section class="fourSeventhThreeSeventh">
@@ -153,7 +154,7 @@ export default (
         </figcaption>
         <Picture src={"/images/e-comas-206.jpg"} alt={"eComas Team"} />
       </figure>
-      <a href="/torval.html" style={"display:none;" as any}></a>
+      {/* <a href="/torval.html" style={"display:none;" as any}></a> */}
       {/* <ElementWithBackgroundImage
         tagName="section"
         src="/images/Banner6 3x .png"

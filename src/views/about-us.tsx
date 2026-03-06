@@ -50,7 +50,8 @@ export default () => (
         }
       />
     </div>
-    <a href="/about-us.html" class="cta animatable">
+    {/* <a href="/about-us.html" class="cta animatable"> */}
+    <a href="#bookACall" class="cta animatable">
       Learn more
     </a>
   </ElementWithBackgroundImage>

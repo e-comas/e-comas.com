@@ -100,7 +100,7 @@ export default (props: Props | undefined) => (
         alt="e-Comas, eCommerce made simple"
         class="logo"
       />
-      <nav>
+      {/* <nav>
         <ul>
           <li>
             <NavLink href="/about-us.html">About us</NavLink>
@@ -113,7 +113,6 @@ export default (props: Props | undefined) => (
           </li>
           <li>
             <NavLink href="/webinar.html">Webinars</NavLink>
-            {/* <NavLink href="/legals.html">Legals</NavLink> */}
           </li>
           <li>
             <NavLink href="/privacy.html">Privacy policy</NavLink>
@@ -144,9 +143,14 @@ export default (props: Props | undefined) => (
             <NavLink href="/walmart-marketplace.html">Walmart</NavLink>
           </li>
         </ul>
-      </nav>
+      </nav> */}
+      <nav><ul><li /></ul></nav>
+      <strong />
+      <nav />
+
       <strong>
-        <NavLink href="/contact.html">Contact us</NavLink>
+        {/* <NavLink href="/contact.html">Contact us</NavLink> */}
+        <NavLink href="#bookACall">Contact us</NavLink>
       </strong>
       <ul class="contact-us">
         <li>
@@ -166,7 +170,8 @@ export default (props: Props | undefined) => (
           Email: <a href="mailto:sales@e-comas.com">sales@e-comas.com</a>
         </li>
         <li>
-          <NavLink href="/newsletter-subscribe.html">
+          {/* <NavLink href="/newsletter-subscribe.html"> */}
+          <NavLink href="#newsletter">
             Subscribe to the newsletter
           </NavLink>
         </li>
@@ -202,6 +207,8 @@ export default (props: Props | undefined) => (
           </ul>
         </li>
       </ul>
+
+            
       <ul class="social">
         <li>
           <a

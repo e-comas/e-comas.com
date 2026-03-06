@@ -35,7 +35,8 @@ export default () => (
             rapid global online growth for retail brands through listings,
             content, retail media, advertising, and reporting.
           </p>
-          <a href="/marketplace.html" class="cta">
+          {/* <a href="/marketplace.html" class="cta"> */}
+          <a href="#bookACall" class="cta">
             Learn more
           </a>
         </figcaption>
@@ -58,7 +59,8 @@ export default () => (
             define our customers’ go-to-market strategy, and manage aftersales,
             customer service and marketing.
           </p>
-          <a href="/distribution.html" class="cta">
+          {/* <a href="/distribution.html" class="cta"> */}
+          <a href="#bookACall" class="cta">
             Learn more
           </a>
         </figcaption>
@@ -80,7 +82,8 @@ export default () => (
             team can provide a full ecosystem for retail brands to drive traffic
             to their online stores.
           </p>
-          <a href="/digital-marketing.html" class="cta">
+          {/* <a href="/digital-marketing.html" class="cta"> */}
+          <a href="#bookACall" class="cta">
             Learn more
           </a>
         </figcaption>
@@ -98,7 +101,8 @@ export default () => (
             third-party tech experts for the best eCommerce software, data and AI
             strategies. Claudiu Clement leads the <EComas /> Technology division.
           </p>
-          <a href="/technology.html" class="cta">
+          {/* <a href="/technology.html" class="cta"> */}
+          <a href="#bookACall" class="cta">
             Learn more
           </a>
         </figcaption>
