@@ -99,8 +99,6 @@ Did you know Amazon now offers a 3PL warehousing and distribution service for lo
 
 It's currently only available in the US, but that includes sellers outside the US who sell their products on Amazon.com. [More info here.](https://e-comas.com/2023/03/22/long-term-low-cost-and-easy-to-control-what-you-need-to-know-about-amazon-s-new-3pl-distribution-service.html)
 
-##### \*\*\
-
-Want more guidance on how to make the most of your Amazon presence this holiday? [Talk to us!](https://e-comas.com/contact.html)\*\*
+***Want more guidance on how to make the most of your Amazon presence this holiday? [Talk to us!](https://e-comas.com/contact.html)***
 
 <!--EndFragment-->
