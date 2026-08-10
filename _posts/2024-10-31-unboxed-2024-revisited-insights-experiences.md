@@ -3,22 +3,12 @@ layout: blog
 title: "unBoxed 2024 Revisited: Insights & Experiences"
 author: The e-Comas Team
 date: 2024-10-31T14:47:08.823Z
-excerpt: >-
+excerpt: >+
   Jérôme de Guigné dives into the key takeaways from Amazon Ads unBoxed 2024
-  held in Austin, with special guests:
+  held in Austin, with special guests, covering Amazon's evolving roadmap, new
+  AI-driven tools like Audience Boost and AI Creative Studio, and Amazon's
+  commitment to democratising advertising.
 
-
-  • Lawrence Taylor, CEO, Retail 4 Brands 
-
-  • François Costa de Beauregard, Co-founder, m19
-
-  • Tarik Berrada Hmima, Co-founder, m19.
-
-
-  The panel shares insights on Amazon's evolving roadmap, new AI-driven tools like Audience Boost and AI Creative Studio, and Amazon's commitment to democratising advertising.
-
-
-  Tune in for tips on how to prepare for events like unBoxed, build valuable connections and put new strategies into action for long-term success.
 thumbnail: /images/uploads/unboxedwebinar-29thoct-sm-1200x1200-v1.jpg
 thumbnail_alt: unBoxed Webinar
 tags:
