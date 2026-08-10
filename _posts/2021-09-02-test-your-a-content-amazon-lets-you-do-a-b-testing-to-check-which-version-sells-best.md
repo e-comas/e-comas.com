@@ -9,7 +9,7 @@ excerpt: >
 
   It's an easy way for you to find out what formats work best for your enhanced listings content.
 thumbnail: /images/uploads/computers-1-.jpg
-thumbnail_alt: illustration of a computer
+thumbnail_alt: illustration of a laptop
 tags:
   - Content
   - SEO
